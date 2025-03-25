@@ -22,12 +22,10 @@ jobs:
           node-version: '22'
       - run: npm ci
       - run: npx quartz build
-      - run: chmod -R a+rX ./public # 파일 권한 설정
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages-${{ github.run_id }}
           path: ./public # Quartz가 빌드한 파일이 저장된 디렉토리
-
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
