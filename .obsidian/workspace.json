@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Springboot CRUD.md",
+                "file": "content/Node js/Node js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Springboot CRUD"
+              "title": "Node js"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Springboot CRUD.md",
+                "file": "content/Node js/Node js.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Springboot CRUD"
+              "title": "Backlinks for Node js"
             }
           },
           {
@@ -171,9 +171,11 @@
   },
   "active": "d194285b5760f963",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "content/Springboot CRUD.md",
     "content/sample.md",
+    "content/Node js/Node js.md",
+    "content/Springboot CRUD.md",
+    "content/Node js",
+    "Untitled.canvas",
     "public/Untitled-og-image.webp",
     "public/Untitled.html",
     "content/index.md",
@@ -189,7 +191,6 @@
     "content/test content.md",
     "public/index.html",
     "public/static/giscus/light.css",
-    "public/static/giscus/dark.css",
     "public/static/og-image.png",
     "public/static/icon.png"
   ]
