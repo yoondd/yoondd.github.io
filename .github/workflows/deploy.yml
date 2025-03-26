@@ -1,5 +1,5 @@
 name: Deploy Quartz site to GitHub Pages
- 
+
 on:
   push:
     branches:
@@ -23,9 +23,8 @@ jobs:
       - run: npm ci
       - run: npx quartz build
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: github-pages-${{ github.run_id }}
           path: ./public # Quartz가 빌드한 파일이 저장된 디렉토리
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
