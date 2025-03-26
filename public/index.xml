@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Untitled</title>
+    <link>https://quartz.jzhao.xyz/Untitled</link>
+    <guid>https://quartz.jzhao.xyz/Untitled</guid>
+    <description></description>
+    <pubDate>Wed, 26 Mar 2025 02:48:00 GMT</pubDate>
+  </item><item>
+    <title>Welcome to My Blog</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Welcome Message Hello, this is my blog!.</description>
+    <pubDate>Tue, 25 Mar 2025 05:17:49 GMT</pubDate>
+  </item><item>
+    <title>sample</title>
+    <link>https://quartz.jzhao.xyz/sample</link>
+    <guid>https://quartz.jzhao.xyz/sample</guid>
+    <description>Quartz test test1 test2 lorem ipsum….</description>
+    <pubDate>Tue, 25 Mar 2025 04:04:51 GMT</pubDate>
+  </item><item>
+    <title>test content</title>
+    <link>https://quartz.jzhao.xyz/test-content</link>
+    <guid>https://quartz.jzhao.xyz/test-content</guid>
+    <description>Obsidian test. 2025.03.25. 12:56 quartz.</description>
+    <pubDate>Tue, 25 Mar 2025 04:04:51 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
