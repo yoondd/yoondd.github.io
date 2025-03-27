@@ -6,11 +6,23 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Untitled</title>
-    <link>https://quartz.jzhao.xyz/mysql/Untitled</link>
-    <guid>https://quartz.jzhao.xyz/mysql/Untitled</guid>
-    <description></description>
-    <pubDate>Thu, 27 Mar 2025 06:15:19 GMT</pubDate>
+    <title>love</title>
+    <link>https://quartz.jzhao.xyz/mysql/love</link>
+    <guid>https://quartz.jzhao.xyz/mysql/love</guid>
+    <description>djklsjfkdjflsjflksdjsdjl.</description>
+    <pubDate>Thu, 27 Mar 2025 07:43:58 GMT</pubDate>
+  </item><item>
+    <title>5. 파일로 분리한 본문 로드하기</title>
+    <link>https://quartz.jzhao.xyz/Node-js/5.-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%9C-%EB%B3%B8%EB%AC%B8-%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Node-js/5.-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%9C-%EB%B3%B8%EB%AC%B8-%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0</guid>
+    <description> data라는 폴더에 각각의 본문을 넣어둔다 (확장자명은 필요없으나 파일명은 쿼리스트링으로 넘어올 값으로 지정한다) main.js에서 변수로 해당내용을 치환하는 진짜 작업을 해보자 fs.readFile()으로 값을 가지고 올것이다.</description>
+    <pubDate>Thu, 27 Mar 2025 07:22:14 GMT</pubDate>
+  </item><item>
+    <title>import DB</title>
+    <link>https://quartz.jzhao.xyz/mysql/import-DB</link>
+    <guid>https://quartz.jzhao.xyz/mysql/import-DB</guid>
+    <description> server- data import 선택 import from self-contained file에서 내가 원하는 sql 파일 선택하기 default target schema에서 내가 원하는 데이터베이스 선택하기 start import 선택하기 그러면 내가 원하는 데이터를 내가 원하는 데이터베이스에 담을 수 있다.</description>
+    <pubDate>Thu, 27 Mar 2025 07:22:14 GMT</pubDate>
   </item><item>
     <title>1. Node js</title>
     <link>https://quartz.jzhao.xyz/Node-js/1.-Node-js</link>
@@ -36,23 +48,11 @@
     <description>nodejs file read 현재는 타이틀은 변경이 되지만, 실제 웹페이지의 본문은 변경이 되지 않는 것을 볼 수 있다.</description>
     <pubDate>Thu, 27 Mar 2025 02:53:13 GMT</pubDate>
   </item><item>
-    <title>5. 파일로 분리한 본문 로드하기</title>
-    <link>https://quartz.jzhao.xyz/Node-js/5.-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%9C-%EB%B3%B8%EB%AC%B8-%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/5.-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%9C-%EB%B3%B8%EB%AC%B8-%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0</guid>
-    <description> data라는 폴더에 각각의 본문을 넣어둔다 (확장자명은 필요없으나 파일명은 쿼리스트링으로 넘어올 값으로 지정한다) main.js에서 변수로 해당내용을 치환하는 진짜 작업을 해보자 fs.readFile()으로 값을 가지고 올것이다.</description>
-    <pubDate>Thu, 27 Mar 2025 02:53:13 GMT</pubDate>
-  </item><item>
     <title>workbench 강제종료문제</title>
     <link>https://quartz.jzhao.xyz/mysql/workbench-%EA%B0%95%EC%A0%9C%EC%A2%85%EB%A3%8C%EB%AC%B8%EC%A0%9C</link>
     <guid>https://quartz.jzhao.xyz/mysql/workbench-%EA%B0%95%EC%A0%9C%EC%A2%85%EB%A3%8C%EB%AC%B8%EC%A0%9C</guid>
     <description>계속 mysql Workbench가 강제종료되는 문제가 발생했다.</description>
     <pubDate>Thu, 27 Mar 2025 02:53:13 GMT</pubDate>
-  </item><item>
-    <title>import DB</title>
-    <link>https://quartz.jzhao.xyz/mysql/import-DB</link>
-    <guid>https://quartz.jzhao.xyz/mysql/import-DB</guid>
-    <description> server- data import 선택 import from self-contained file에서 내가 원하는 sql 파일 선택하기 default target schema에서 내가 원하는 데이터베이스 선택하기 start import 선택하기 그러면 내가 원하는 데이터를 내가 원하는 데이터베이스에 담을 수 있다.</description>
-    <pubDate>Wed, 26 Mar 2025 09:48:01 GMT</pubDate>
   </item><item>
     <title>Springboot CRUD</title>
     <link>https://quartz.jzhao.xyz/Springboot-CRUD</link>
