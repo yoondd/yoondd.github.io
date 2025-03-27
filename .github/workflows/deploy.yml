@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: '18' # 또는 Quartz가 지원하는 버전
+          node-version: '20' # 또는 Quartz가 지원하는 버전
       - run: npm ci
       - run: npx quartz build
       - run: find ./public -type l -delete # 필요시만 사용
