@@ -10,61 +10,61 @@
     <link>https://quartz.jzhao.xyz/Node-js/1.-Node-js</link>
     <guid>https://quartz.jzhao.xyz/Node-js/1.-Node-js</guid>
     <description>node js의 등장으로, 원래 웹브라우저만 제어하던 javascript가 컴퓨터 자체를 제어하기 시작한다.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item><item>
     <title>2. URL</title>
     <link>https://quartz.jzhao.xyz/Node-js/2.-URL</link>
     <guid>https://quartz.jzhao.xyz/Node-js/2.-URL</guid>
     <description>웹애플리케이션을 구현하는 node js의 아주 중요한 테크닉. node 에서 main.js를 실행해달라고 서버를 켜기 3000번 포트에 나오는 내용은 정적파일이라고 볼수 있다. 만약 1억개라면 1억개의 페이지를 만들어야겠네.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item><item>
     <title>3. 동적 페이지 구성하기</title>
     <link>https://quartz.jzhao.xyz/Node-js/3.-%EB%8F%99%EC%A0%81-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Node-js/3.-%EB%8F%99%EC%A0%81-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0</guid>
     <description> template라는 변수에 html전문을 넣고 한번 직관적으로 작성해보자. html전문을 넣을때 중간중간 동적으로 바뀌면 좋겠다고 생각하는 내용은 ${}의 템플릿 리터럴을 이용해서 변경한다 html전문 내에서 a태그는 쿼리스트링을 이용해서 갈 수 있도록 변경한다.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item><item>
     <title>4. file Read</title>
     <link>https://quartz.jzhao.xyz/Node-js/4.-file-Read</link>
     <guid>https://quartz.jzhao.xyz/Node-js/4.-file-Read</guid>
     <description>nodejs file read 현재는 타이틀은 변경이 되지만, 실제 웹페이지의 본문은 변경이 되지 않는 것을 볼 수 있다.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item><item>
     <title>5. 파일로 분리한 본문 로드하기</title>
     <link>https://quartz.jzhao.xyz/Node-js/5.-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%9C-%EB%B3%B8%EB%AC%B8-%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Node-js/5.-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%9C-%EB%B3%B8%EB%AC%B8-%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0</guid>
     <description> data라는 폴더에 각각의 본문을 넣어둔다 (확장자명은 필요없으나 파일명은 쿼리스트링으로 넘어올 값으로 지정한다) main.js에서 변수로 해당내용을 치환하는 진짜 작업을 해보자 fs.readFile()으로 값을 가지고 올것이다.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item><item>
     <title>Springboot CRUD</title>
     <link>https://quartz.jzhao.xyz/Springboot-CRUD</link>
     <guid>https://quartz.jzhao.xyz/Springboot-CRUD</guid>
     <description>form - dto - entity - db article read article create article update article delete comment read comment create comment update comment delete view controller api controller service 정말 잘 되고 있나?.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>This is a blank Quartz installation. See the documentation for how to get started. title: Welcome to My Blog Welcome Message.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
+  </item><item>
+    <title>Tree</title>
+    <link>https://quartz.jzhao.xyz/mysql/Tree</link>
+    <guid>https://quartz.jzhao.xyz/mysql/Tree</guid>
+    <description>오늘은 나무에 비가 내려요~.</description>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item><item>
     <title>import DB</title>
     <link>https://quartz.jzhao.xyz/mysql/import-DB</link>
     <guid>https://quartz.jzhao.xyz/mysql/import-DB</guid>
     <description> server- data import 선택 import from self-contained file에서 내가 원하는 sql 파일 선택하기 default target schema에서 내가 원하는 데이터베이스 선택하기 start import 선택하기 그러면 내가 원하는 데이터를 내가 원하는 데이터베이스에 담을 수 있다.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item><item>
     <title>workbench 강제종료문제</title>
     <link>https://quartz.jzhao.xyz/mysql/workbench-%EA%B0%95%EC%A0%9C%EC%A2%85%EB%A3%8C%EB%AC%B8%EC%A0%9C</link>
     <guid>https://quartz.jzhao.xyz/mysql/workbench-%EA%B0%95%EC%A0%9C%EC%A2%85%EB%A3%8C%EB%AC%B8%EC%A0%9C</guid>
     <description>계속 mysql Workbench가 강제종료되는 문제가 발생했다.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
-  </item><item>
-    <title>test content</title>
-    <link>https://quartz.jzhao.xyz/test-content</link>
-    <guid>https://quartz.jzhao.xyz/test-content</guid>
-    <description>Obsidian test. 2025.03.25. 12:56 quartz.</description>
-    <pubDate>Thu, 27 Mar 2025 10:09:04 GMT</pubDate>
+    <pubDate>Thu, 27 Mar 2025 08:06:06 GMT</pubDate>
   </item>
     </channel>
   </rss>
