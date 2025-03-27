@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/5. 파일로 분리한 본문 로드하기.md",
+                "file": "content/mysql/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 파일로 분리한 본문 로드하기"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,33 +171,39 @@
   },
   "active": "d194285b5760f963",
   "lastOpenFiles": [
-    "content/Node js/4. file Read.md",
-    "content/Node js/5. 파일로 분리한 본문 로드하기.md",
-    "content/Node js/3. 동적 페이지 구성하기.md",
-    "content/Node js/2. URL.md",
-    "content/Node js/1. Node js.md",
-    "content/mysql/MySQL Workbench에서 sql파일 가져오기.md",
-    "content/mysql/workbench 강제종료문제.md",
-    "content/mysql",
-    "content/sample.md",
-    "content/Springboot CRUD.md",
-    "content/Node js",
-    "Untitled.canvas",
-    "public/Untitled-og-image.webp",
-    "public/Untitled.html",
+    "public/mysql/Untitled-og-image.webp",
+    "public/mysql/Untitled.html",
     "content/index.md",
+    "content/mysql/Untitled.md",
     "public/test-content-og-image.webp",
-    "public/sample-og-image.webp",
+    "public/mysql/workbench-강제종료문제-og-image.webp",
+    "public/mysql/import-DB-og-image.webp",
+    "public/index-og-image.webp",
+    "public/Springboot-CRUD-og-image.webp",
+    "public/Node-js/5.-파일로-분리한-본문-로드하기-og-image.webp",
+    "public/Node-js/4.-file-Read-og-image.webp",
+    "public/Node-js/3.-동적-페이지-구성하기-og-image.webp",
     "public/postscript.js",
     "public/prescript.js",
     "public/index.css",
-    "public/index-og-image.webp",
+    "public/Node-js/2.-URL-og-image.webp",
     "public/test-content.html",
-    "public/sitemap.xml",
-    "public/sample.html",
-    "content/test content.md",
+    "public/mysql/workbench-강제종료문제.html",
+    "public/mysql/import-DB.html",
     "public/index.html",
-    "public/static/og-image.png",
-    "public/static/icon.png"
+    "public/Springboot-CRUD.html",
+    "public/Node-js/5.-파일로-분리한-본문-로드하기.html",
+    "public/Node-js/1.-Node-js-og-image.webp",
+    "content/test content.md",
+    "content/Springboot CRUD.md",
+    "content/Node js/5. 파일로 분리한 본문 로드하기.md",
+    "content/Node js/4. file Read.md",
+    "content/Node js/3. 동적 페이지 구성하기.md",
+    "content/Node js/2. URL.md",
+    "content/Node js/1. Node js.md",
+    "content/mysql/import DB.md",
+    "content/mysql/workbench 강제종료문제.md",
+    "content/sample.md",
+    "Untitled.canvas"
   ]
 }
