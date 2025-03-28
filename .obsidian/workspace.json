@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/5. 파일로 분리한 본문 로드하기.md",
+                "file": "content/Node js/synchronous & asynchronous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 파일로 분리한 본문 로드하기"
+              "title": "synchronous & asynchronous"
             }
           }
         ]
@@ -171,6 +171,12 @@
   },
   "active": "d194285b5760f963",
   "lastOpenFiles": [
+    "Pasted image 20250328114329.png",
+    "content/Node js/6. readdir.md",
+    "content/Node js/synchronous & asynchronous.md",
+    "public/Node-js/Untitled-og-image.webp",
+    "public/Node-js/Untitled.html",
+    "content/Node js/5. 파일로 분리한 본문 로드하기.md",
     "public/test-content-og-image.webp",
     "public/mysql/workbench-강제종료문제-og-image.webp",
     "public/mysql/import-DB-og-image.webp",
@@ -182,8 +188,6 @@
     "public/spring-boot/개발환경-세팅-1b390f7542b780f0bba3e268bb01e7a7-og-image.webp",
     "public/spring-boot/테스트-작성하기-1b590f7542b7804a8701f02868c3ba37-og-image.webp",
     "public/spring-boot/웹서비스-동작원리-1b390f7542b78045ae03c1eb574d93cc-og-image.webp",
-    "public/spring-boot/여기까지-만든-예제-1b390f7542b78021a3b7cc99399f7116-og-image.webp",
-    "public/spring-boot/링크와-리다이렉트-1b490f7542b780b69b50cc10993ac84a-og-image.webp",
     "public/postscript.js",
     "public/prescript.js",
     "public/index.css",
@@ -193,7 +197,6 @@
     "public/spring-boot/테스트-작성하기-1b590f7542b7804a8701f02868c3ba37.html",
     "public/spring-boot/여기까지-만든-예제-1b390f7542b78021a3b7cc99399f7116",
     "public/spring-boot/웹서비스-동작원리-1b390f7542b78045ae03c1eb574d93cc.html",
-    "public/spring-boot/링크와-리다이렉트-1b490f7542b780b69b50cc10993ac84a",
     "content/spring boot/개발환경 세팅 1b390f7542b780f0bba3e268bb01e7a7.md",
     "content/spring boot/개발환경 세팅.md",
     "content/spring boot/view templates & MVC 1b390f7542b780939179c56d012424d8.md",
@@ -214,9 +217,6 @@
     "content/spring boot/데이터생성 with JPA 1b390f7542b780898180e97072e3c512.md",
     "content/spring boot/데이터 조회하기 with JPA 1b490f7542b780ffbfcbeb04578b5c80.md",
     "content/spring boot/데이터 수정하기 1b490f7542b780918985da5b8ac2dc5f.md",
-    "content/spring boot/데이터 수정 폼 만들기 1b490f7542b78050aaf0ddff1bb7b9c1.md",
-    "content/spring boot/데이터 삭제 1b490f7542b780079212fbbc70c3fc15.md",
-    "content/spring boot/데이터 목록 조회하기 1b490f7542b78077a407e97f6a5ababf.md",
     "Untitled.canvas"
   ]
 }
