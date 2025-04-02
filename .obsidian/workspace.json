@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/mysql/PREPARE & EXECUTE.md",
+                "file": "content/postgreSQL/postgreSQL 삭제하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PREPARE & EXECUTE"
+              "title": "postgreSQL 삭제하기"
             }
           }
         ],
@@ -186,8 +186,14 @@
   },
   "active": "44f2bfb16b9b681b",
   "lastOpenFiles": [
-    "content/git/배포자동화를 위한 deploy.yml.md",
+    "content/index.md",
+    "content/postgreSQL/postgreSQL 삭제하기.md",
+    "content/Springboot CRUD.md",
+    "content/Node js/npm sanitize html.md",
+    "content/postgreSQL",
+    "content/test content.md",
     "content/mysql/PREPARE & EXECUTE.md",
+    "content/git/배포자동화를 위한 deploy.yml.md",
     "content/git",
     "content/Node js/10. 데이터를 파일로 쓰기 & redirection.md",
     "content/Node js/9. Post Data 객체화하기.md",
@@ -215,9 +221,7 @@
     "public/mysql/workbench-강제종료문제.html",
     "public/mysql/import-DB.html",
     "public/index.html",
-    "public/Springboot-CRUD.html",
     "content/Node js/5. 파일로 분리한 본문 로드하기.md",
-    "content/index.md",
     "content/mysql/Tree.md",
     "content/spring boot/개발환경 세팅 1b390f7542b780f0bba3e268bb01e7a7.md",
     "content/spring boot/개발환경 세팅.md",
@@ -228,10 +232,6 @@
     "content/spring boot/Lombok 1b490f7542b780f6bd2be50e86e12101.md",
     "content/spring boot/HTTP와 RestController 1b590f7542b7807697ddd061d84c3ac1.md",
     "content/spring boot/hello world 띄우기 1b390f7542b780adb441cf9821f16ef0.md",
-    "content/spring boot/Form 데이터 주고받기 1b390f7542b780d78c30c696a551814a.md",
-    "content/spring boot/db테이블과 sql 1b390f7542b780a89477eef0d9ece7d8.md",
-    "content/spring boot/CRUD와 SQL 쿼리 1b590f7542b78057a4b2e504c4122c57.md",
-    "content/spring boot/Annotations 1b490f7542b7805e8b52ce62c7d63b2a.md",
     "Untitled.canvas"
   ]
 }
