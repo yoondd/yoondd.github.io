@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/nodemon.md",
+                "file": "content/open api/fetch와 await.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nodemon"
+              "title": "fetch와 await"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/open api/fetch와 await.md",
+                "file": "content/open api/open weather.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fetch와 await"
+              "title": "open weather"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Start Git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,21 +211,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9cb408567d77c16",
+  "active": "ec070b026d61fd21",
   "lastOpenFiles": [
+    "content/Node js/nodemon.md",
+    "content/open api/api를 쓰려면.md",
+    "content/git/Start Git.md",
     "content/open api/open weather.md",
     "content/open api/fetch와 await.md",
-    "content/open api/api를 쓰려면.md",
     "content/open api/챗GPT 활용 챗봇 만들기.md",
     "content/open ai/Untitled.md",
-    "content/Node js/nodemon.md",
     "content/Spring boot/spring boot project.md",
     "content/Node js/Sequelize/data type.md",
     "content/Node js/Untitled.md",
     "content/Node js/Sequelize",
     "content/git/git의 원리.md",
     "content/open api",
-    "content/git/Start Git.md",
     "content/Node js/10. 데이터를 파일로 쓰기 & redirection.md",
     "content/Spring boot/ObjectMapper.md",
     "content/test content.md",
