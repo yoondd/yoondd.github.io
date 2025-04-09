@@ -217,3 +217,26 @@ Promise.all([
 
 
 
+---
+
+# Promise.race
+
+all이랑 비슷하게 프로미스가 담겨있는 배열을 인자로 받아서 병렬처리하지만
+순서대로 하지않고 가장 먼저 처리된 프로미스가  resolve하는 새로운 프로미스를 반환한다. 
+
+```js
+Promise.race([
+	new Promise( resolve => setTimeout(()=>resolve(1), 3000) ),
+	new Promise( resolve => setTimeout(()=>resolve(2), 2000) ),
+	new Promise( resolve => setTimeout(()=>resolve(3), 1000) )
+])
+.then(console.log)
+.catch(console.log)
+```
+
+에러가 발생한 상황에서는 all과 동일하게 동작한다.  그냥 제일빨리 일어난  reject를 반환한다는 소리다.
+
+
+
+
+[[json() 메서드]]
