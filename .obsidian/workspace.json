@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/Promiss.md",
+                "file": "content/Node js/json() 메서드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Promiss"
+              "title": "json() 메서드"
             }
           }
         ]
@@ -169,18 +169,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec070b026d61fd21",
+  "active": "d194285b5760f963",
   "lastOpenFiles": [
+    "content/Node js/Promiss.md",
+    "content/Node js/json() 메서드.md",
     "content/react/react.md",
     "content/Node js/Untitled 1.md",
-    "content/Node js/Untitled.md",
     "content/index.md",
     "content/react/배포직전에404파일제작.md",
     "content/react/Start React.md",
     "content/Node js/Start Node js.md",
     "GCP",
     "content/react",
-    "content/Node js/Promiss.md",
     "content/Node js/fetch와 await.md",
     "content/Node js/json만들고 가져오기.md",
     "content/open api/open weather.md",
