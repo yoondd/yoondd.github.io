@@ -142,3 +142,74 @@ promiseAjax('GET', 'http://localhost:4000/data', null)
 		console.error('GET Error:', error);
 	});
 ```
+
+
+---
+# 이상하게 생긴 문법 공부하기
+
+```js
+resolvedPromise.then(console.log);
+
+resolvedPromise.then(res => { console.log(res); });
+```
+
+공부를 하다보니, 이 두 코드가 동일하게 진행되는 것을 알 수 있었다. 
+어떻게 이것이 가능할까? 알아본 결과 다음과 같다.
+
+첫번째 코드에서 console.log라는 이름만 전달이 되었으나, javascript는 이를 콜백으로 처리했다. promise가 완료되면 결과값이 자동으로 console.log의 첫번째 인자로 넘어가게 되는 것이다. 왜냐고? 자바스크립트의 promise시스템은 이를 자동으로 호출시점에 결과값을 인자로 전달하기 때문이다. 두번째처럼 굳이 명시하지않아도 진행이 된다. ==그냥 콜백자리에 함수이름을 넣어 자동으로 인자가 쏙 들어가게 한다==
+
+두번째 코드에서는 명시적으로 res를 받아와서 console.log(res)라고 실행했다. 이는 위와 동일하다. 
+
+
+
+### 이를 다른 코드에서 확인해볼까?
+
+```js
+const numbers = [1, 2, 3]; // 명시적으로 선언한 화살표 함수 
+
+numbers.forEach(num => console.log(num)); // 동일한 동작을 하는 함수 이름 전달 방식
+
+numbers.forEach(console.log);
+```
+
+이렇게 간단하게 적을 수 있다는 것이다.
+이렇게 할 수 있는 조건은 두가지가 있는데,
+
+1. 콜백 함수가 인자를 그대로 받아들이는 경우. 
+2. 추가 로직이 없이 그냥 이거밖에 없는 경우.
+
+두가지만 가능하다. 
+
+
+
+
+#  Promise.all
+
+프로미스가 담긴 배열 등을 이터러블 인자로 전달 받는다. 
+전달받은 모든 프로미스를 병렬처리하고 처리결과를 resolve하는 새로운 프로미스를 반환한다.
+
+## all을 이용한  resolve의 순서
+
+```js
+Promise.all([
+	new Promise(resolve => setTimeout(() => resolve(1), 5000)), // 1
+	new Promise(resolve => setTimeout(() => resolve(2), 2000)), // 2
+	new Promise(resolve => setTimeout(() => resolve(3), 1000)) // 3
+]).then(console.log) // [ 1, 2, 3 ]
+.catch(console.log);
+```
+
+위 코드를 보면 사실 비동기의 경우 3이 가장 먼저 실행되어야하지만, 그렇지 않다. 동기적으로 진행이 되기때문에 첫줄부터 시작하고 있고, 순차적으로 배열이 차곡차곡 담아서 then한테 보내는 것을 볼 수 있다.
+
+## 실패는 어떨까?
+
+```js
+Promise.all([
+	new Promise((resolve, reject) => setTimeout(() => reject(new Error('Error 1!')), 3000)),
+	new Promise((resolve, reject) => setTimeout(() => reject(new Error('Error 2!')), 2000)),
+	new Promise((resolve, reject) => setTimeout(() => reject(new Error('Error 3!')), 1000))
+]).then(console.log)
+.catch(console.log); // Error: Error 3!
+```
+
+실패는 일단 발생한놈이 우선이다. 따라서 위에코드를 보면 error1이 출력되야 정상이지만, 위 코드의 결과를 보면 가장 빠른시간내에 발생한 error3이 확인된다.

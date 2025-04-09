@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/react/react.md",
+                "file": "content/Node js/Promiss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react"
+              "title": "Promiss"
             }
           }
         ]
@@ -169,11 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d194285b5760f963",
+  "active": "ec070b026d61fd21",
   "lastOpenFiles": [
+    "content/react/react.md",
+    "content/Node js/Untitled 1.md",
+    "content/Node js/Untitled.md",
     "content/index.md",
     "content/react/배포직전에404파일제작.md",
-    "content/react/react.md",
     "content/react/Start React.md",
     "content/Node js/Start Node js.md",
     "GCP",
@@ -189,7 +191,6 @@
     "content/open ai/Untitled.md",
     "content/Spring boot/spring boot project.md",
     "content/Node js/Sequelize/data type.md",
-    "content/Node js/Untitled.md",
     "content/Node js/Sequelize",
     "content/git/git의 원리.md",
     "content/open api",
@@ -202,7 +203,6 @@
     "content/Springboot CRUD.md",
     "content/Node js/npm sanitize html.md",
     "content/postgreSQL",
-    "content/mysql/PREPARE & EXECUTE.md",
     "content/git",
     "public/Node-js/Untitled-og-image.webp",
     "public/Node-js/Untitled.html",
