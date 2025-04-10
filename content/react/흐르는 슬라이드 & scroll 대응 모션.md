@@ -11,4 +11,4 @@
 3. 스크롤이되면 올라오는건 frame motion을 이용해서 구현해보자. 라이브러리이기때문에 훨씬 수월하다
 	1. `import { motion } from 'framer-motion';`을 이용해서 일단 불러오자
 	2. 태그 이름이 div 가 아니라, motion.div이다. 
-	이부분은 다시 다른 페이지에서 정리해보자 -- 
+	이부분은 다시 다른 페이지에서 정리해보자 -- [[Framer Motion]]
