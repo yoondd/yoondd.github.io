@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Node js/JS의 배열고차함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "JS의 배열고차함수"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Node js/Node js.md",
+                "file": "content/Node js/JS의 배열고차함수.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Node js"
+              "title": "Backlinks for JS의 배열고차함수"
             }
           },
           {
@@ -200,6 +200,8 @@
   },
   "active": "69b4b91b4e95c5a2",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/Node js/JS의 배열고차함수.md",
     "content/Node js/Generator.md",
     "content/Node js/이터레이션.md",
     "content/Spring boot/CRUD와 SQL쿼리.md",
@@ -212,7 +214,6 @@
     "content/Spring boot/데이터생성 with JPA.md",
     "content/Spring boot/Form 데이터 주고받기.md",
     "content/Spring boot/MVC 역할과 실행 흐름.md",
-    "content/index.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
     "content/Spring boot/view templates & MVC.md",
@@ -232,7 +233,6 @@
     "content/Spring boot/spring boot project.md",
     "content/React로 만드는 웹사이트.md",
     "content/Node js/server.js 만들기.md",
-    "content/Node js/Start Node js.md",
     "Untitled",
     "content/sql",
     "GCP",
