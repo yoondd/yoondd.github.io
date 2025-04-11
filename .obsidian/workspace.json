@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/YOON's BLOG.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YOON's BLOG"
+              "title": "index"
             }
           }
         ],
@@ -212,7 +212,7 @@
     "content/Spring boot/데이터생성 with JPA.md",
     "content/Spring boot/Form 데이터 주고받기.md",
     "content/Spring boot/MVC 역할과 실행 흐름.md",
-    "content/YOON's BLOG.md",
+    "content/index.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
     "content/Spring boot/view templates & MVC.md",
