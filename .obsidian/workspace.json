@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/Set.md",
+                "file": "content/Node js/server.js 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set"
+              "title": "server.js 만들기"
             }
           },
           {
-            "id": "d6bf05e6bc38ec7a",
+            "id": "69b4b91b4e95c5a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/이터레이션.md",
+                "file": "React로 만드는 웹사이트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이터레이션"
+              "title": "React로 만드는 웹사이트"
             }
           }
         ],
@@ -198,41 +198,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6bf05e6bc38ec7a",
+  "active": "69b4b91b4e95c5a2",
   "lastOpenFiles": [
-    "content/Node js/Set.md",
-    "content/Node js/이터레이션.md",
+    "content/Node js/server.js 만들기.md",
+    "content/Node js/Start Node js.md",
+    "React로 만드는 웹사이트.md",
+    "content/react/react 컴포넌트 만들기.md",
     "content/Node js/Map.md",
-    "README.md",
     "Untitled",
+    "content/sql/DBeaver.md",
+    "content/open api/GCP.md",
+    "content/sql",
+    "content/Node js/npm sanitize html.md",
+    "content/Node js/Set.md",
+    "content/Node js/fetch와 await.md",
+    "content/Node js/Promiss.md",
+    "content/Node js/이터레이션.md",
+    "README.md",
     "content/react/흐르는 슬라이드 & scroll 대응 모션.md",
     "content/react/Framer Motion.md",
-    "content/react/react.md",
     "content/react/Start React.md",
     "content/react/React ClassName.md",
     "content/react/useEffect.md",
-    "content/Node js/Promiss.md",
     "content/Node js/json() 메서드.md",
     "content/Node js/Untitled 1.md",
     "content/index.md",
     "content/react/배포직전에404파일제작.md",
-    "content/Node js/Start Node js.md",
     "GCP",
     "content/react",
-    "content/Node js/fetch와 await.md",
     "content/Node js/json만들고 가져오기.md",
     "content/open api/open weather.md",
     "content/Node js/nodemon.md",
     "content/open api/api를 쓰려면.md",
-    "content/git/Start Git.md",
-    "content/open api/챗GPT 활용 챗봇 만들기.md",
-    "content/open ai/Untitled.md",
-    "content/Spring boot/spring boot project.md",
-    "content/Node js/Sequelize/data type.md",
     "content/Node js/Sequelize",
     "content/open api",
     "content/Spring boot",
-    "content/postgreSQL",
+    "content/sql/postgreSQL",
     "content/git",
     "public/Node-js/Untitled-og-image.webp",
     "public/Node-js/Untitled.html",
@@ -245,7 +246,6 @@
     "public/Node-js/6.-readdir-og-image.webp",
     "public/Node-js/5.-파일로-분리한-본문-로드하기-og-image.webp",
     "public/Node-js/4.-file-Read-og-image.webp",
-    "public/postscript.js",
     "Untitled.canvas"
   ]
 }
