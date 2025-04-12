@@ -3,7 +3,7 @@
 
 # 특징이 뭐야?
 
-1. 중복허용을 안한다
+1. 중복허용을 안한다 : 아무리 같은 값을 저장하려고해도 안된다!!
 2. 순서를 보장한다 - 이터러블
 3. 모든 데이터타입을 허용한다
 4. 빠른조회와 삭제가 가능하다
@@ -41,7 +41,7 @@ console.log(mySet); // Set { 1, 2, 3, 4 } (중복 제거)
 
 # 예제 좀 살펴볼까?
 
-1. 값을 추가하거나 중복을 제거하는 것
+
 ```js
 const mySet = new Set();
 mySet.add(1);
@@ -52,4 +52,30 @@ console.log(mySet); // Set { 1, 2, 'hello' }
 
 ```
 
-2. 값을 확인해보자
+
+
+# 활용하기 - 배열의 중복값 제거하기
+
+```js
+const numbers = [1, 2, 3, 4, 4, 5, 5];
+const uniqueNumbers = [...new Set(numbers)];
+console.log(uniqueNumbers); // 출력: [1, 2, 3, 4, 5]
+```
+
+아하, set에 한번 돌리면 이녀석은 중복이 싹 다 제거되는구나!!
+
+
+# 활용하기 - 교집합, 차집합 찾아내기
+
+```js
+const setA = new Set([1, 2, 3]);
+const setB = new Set([3, 4, 5]);
+
+// 교집합 (Intersection)
+const intersection = new Set([...setA].filter((x) => setB.has(x)));
+console.log(intersection); // 출력: Set {3}
+
+// 차집합 (Difference)
+const difference = new Set([...setA].filter((x) => !setB.has(x)));
+console.log(difference); // 출력: Set {1, 2}
+```
