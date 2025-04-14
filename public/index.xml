@@ -6,65 +6,65 @@
       <description>Last 10 notes on YOON</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Untitled</title>
-    <link>https://quartz.jzhao.xyz/Node-js/Untitled</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/Untitled</guid>
-    <description></description>
-    <pubDate>Fri, 28 Mar 2025 03:37:03 GMT</pubDate>
+    <title>Node 핵심 개념</title>
+    <link>https://quartz.jzhao.xyz/Node-js/Node-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90</link>
+    <guid>https://quartz.jzhao.xyz/Node-js/Node-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90</guid>
+    <description>Node js가 무엇일까? Node.js은 Chrome V8 Javascript엔진으로 빌드된 자바스크립트 런타임입니다. 런타임이란 특정 언어로 만든 프로그램들을 실행할 수 있는 환경 즉, Node js는 자바스크립트 프로그램을 컴퓨터에서 실행할 수 있게 해준다.</description>
+    <pubDate>Mon, 14 Apr 2025 09:14:24 GMT</pubDate>
   </item><item>
-    <title>7. synchronous &amp; asynchronous</title>
-    <link>https://quartz.jzhao.xyz/Node-js/7.-synchronous--and--asynchronous</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/7.-synchronous--and--asynchronous</guid>
-    <description>동기와 비동기. nodejs는 비동기 처리를 하기위한 좋은 기능들을 많이 가지고있다 예를 들어서 알아보자.</description>
-    <pubDate>Fri, 28 Mar 2025 03:28:27 GMT</pubDate>
+    <title>Start React</title>
+    <link>https://quartz.jzhao.xyz/react/Start-React</link>
+    <guid>https://quartz.jzhao.xyz/react/Start-React</guid>
+    <description> VS CODE 확장프로그램 - ES7 npm init하기 npx create-react-app &lt;나의프로젝트이름&gt; npx가 아니라도 괜찮지만, 리액트가 원하는 설정을 빠르게 할 수 있어서 많은 사용자들이 npx를 이용한다.</description>
+    <pubDate>Mon, 14 Apr 2025 08:07:01 GMT</pubDate>
   </item><item>
-    <title>6. readdir</title>
-    <link>https://quartz.jzhao.xyz/Node-js/6.-readdir</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/6.-readdir</guid>
-    <description>파일의 목록을 읽는 readdir공부하자 const testFolder = &#039;./data&#039;; const fs = require(&#039;fs&#039;); fs.readdir(testFolder, (err, filelist)=&gt;{ console.log(filelist); }) 여기서 testFolder의 경로는 node를 실행하는 그 위치를 기준으로 한다.</description>
-    <pubDate>Fri, 28 Mar 2025 02:44:23 GMT</pubDate>
+    <title>Cron</title>
+    <link>https://quartz.jzhao.xyz/Cron</link>
+    <guid>https://quartz.jzhao.xyz/Cron</guid>
+    <description>크론(Cron)은 유닉스 계열 운영 체제에서 사용되는 시간 기반 작업 스케줄러로 사용자가 지정한 시간에 명령어 또는 스크립트를 자동으로 실행하도록 예약할 수 있는 도구다. 이건 반복적인 작업을 자동화하는 데 아주 유용하다.</description>
+    <pubDate>Sun, 13 Apr 2025 14:36:27 GMT</pubDate>
   </item><item>
-    <title>5. 파일로 분리한 본문 로드하기</title>
-    <link>https://quartz.jzhao.xyz/Node-js/5.-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%9C-%EB%B3%B8%EB%AC%B8-%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/5.-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%B6%84%EB%A6%AC%ED%95%9C-%EB%B3%B8%EB%AC%B8-%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0</guid>
-    <description> data라는 폴더에 각각의 본문을 넣어둔다 (확장자명은 필요없으나 파일명은 쿼리스트링으로 넘어올 값으로 지정한다) main.js에서 변수로 해당내용을 치환하는 진짜 작업을 해보자 fs.readFile()으로 값을 가지고 올것이다.</description>
-    <pubDate>Thu, 27 Mar 2025 07:22:14 GMT</pubDate>
+    <title>Set</title>
+    <link>https://quartz.jzhao.xyz/Node-js/Set</link>
+    <guid>https://quartz.jzhao.xyz/Node-js/Set</guid>
+    <description>말그대로 집합이다. 중북되지않은 유일한 값들의 집합을 저장하는데 사용된다.</description>
+    <pubDate>Sun, 13 Apr 2025 14:36:27 GMT</pubDate>
   </item><item>
-    <title>import DB</title>
-    <link>https://quartz.jzhao.xyz/mysql/import-DB</link>
-    <guid>https://quartz.jzhao.xyz/mysql/import-DB</guid>
-    <description> server- data import 선택 import from self-contained file에서 내가 원하는 sql 파일 선택하기 default target schema에서 내가 원하는 데이터베이스 선택하기 start import 선택하기 그러면 내가 원하는 데이터를 내가 원하는 데이터베이스에 담을 수 있다.</description>
-    <pubDate>Thu, 27 Mar 2025 07:22:14 GMT</pubDate>
+    <title>Map</title>
+    <link>https://quartz.jzhao.xyz/Node-js/Map</link>
+    <guid>https://quartz.jzhao.xyz/Node-js/Map</guid>
+    <description>특정심볼이 특정한 값을 가지고 있을 때 사용한다. 값을 key-value 묶음으로 표현한 객체 기존의 객체와 비슷하지만, 키로 어떤 데이터 타입이든 사용할 수 있다.</description>
+    <pubDate>Sat, 12 Apr 2025 14:16:00 GMT</pubDate>
   </item><item>
-    <title>1. Node js</title>
-    <link>https://quartz.jzhao.xyz/Node-js/1.-Node-js</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/1.-Node-js</guid>
-    <description>node js의 등장으로, 원래 웹브라우저만 제어하던 javascript가 컴퓨터 자체를 제어하기 시작한다.</description>
-    <pubDate>Thu, 27 Mar 2025 02:53:13 GMT</pubDate>
+    <title>JS의 배열고차함수</title>
+    <link>https://quartz.jzhao.xyz/Node-js/JS%EC%9D%98-%EB%B0%B0%EC%97%B4%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98</link>
+    <guid>https://quartz.jzhao.xyz/Node-js/JS%EC%9D%98-%EB%B0%B0%EC%97%B4%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98</guid>
+    <description>sort sort는 배열의 요소를 적절하게 정렬한다. 오름차순이나 내림차순으로 정렬할 수 있다. 원본파괴하여 직접 배열을 건드린다.</description>
+    <pubDate>Fri, 11 Apr 2025 14:52:54 GMT</pubDate>
   </item><item>
-    <title>2. URL</title>
-    <link>https://quartz.jzhao.xyz/Node-js/2.-URL</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/2.-URL</guid>
-    <description>웹애플리케이션을 구현하는 node js의 아주 중요한 테크닉. node 에서 main.js를 실행해달라고 서버를 켜기 3000번 포트에 나오는 내용은 정적파일이라고 볼수 있다. 만약 1억개라면 1억개의 페이지를 만들어야겠네.</description>
-    <pubDate>Thu, 27 Mar 2025 02:53:13 GMT</pubDate>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>윤혜경 Welcome to my BLOG 이 곳은 제가 공부한 내용들을 차곡차곡 담아놓은 곳입니다. 앞으로 걸어갈 길에 도움이 되기를 바라는 마음입니다.</description>
+    <pubDate>Fri, 11 Apr 2025 09:01:08 GMT</pubDate>
   </item><item>
-    <title>3. 동적 페이지 구성하기</title>
-    <link>https://quartz.jzhao.xyz/Node-js/3.-%EB%8F%99%EC%A0%81-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/3.-%EB%8F%99%EC%A0%81-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0</guid>
-    <description> template라는 변수에 html전문을 넣고 한번 직관적으로 작성해보자. html전문을 넣을때 중간중간 동적으로 바뀌면 좋겠다고 생각하는 내용은 ${}의 템플릿 리터럴을 이용해서 변경한다 html전문 내에서 a태그는 쿼리스트링을 이용해서 갈 수 있도록 변경한다.</description>
-    <pubDate>Thu, 27 Mar 2025 02:53:13 GMT</pubDate>
+    <title>Generator</title>
+    <link>https://quartz.jzhao.xyz/Node-js/Generator</link>
+    <guid>https://quartz.jzhao.xyz/Node-js/Generator</guid>
+    <description>이터러블을 생성하는 함수. 제너레이터 함수를 사용하면 이터레이션 프로토콜을 준수해 이터러블을 생성하는 방식보다 좀 더 간편하게 이터러블을 구현할 수 있고, 비동기 처리에 유용하게 사용된다.</description>
+    <pubDate>Fri, 11 Apr 2025 08:59:28 GMT</pubDate>
   </item><item>
-    <title>4. file Read</title>
-    <link>https://quartz.jzhao.xyz/Node-js/4.-file-Read</link>
-    <guid>https://quartz.jzhao.xyz/Node-js/4.-file-Read</guid>
-    <description>nodejs file read 현재는 타이틀은 변경이 되지만, 실제 웹페이지의 본문은 변경이 되지 않는 것을 볼 수 있다.</description>
-    <pubDate>Thu, 27 Mar 2025 02:53:13 GMT</pubDate>
+    <title>이터레이션</title>
+    <link>https://quartz.jzhao.xyz/Node-js/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%85%98</link>
+    <guid>https://quartz.jzhao.xyz/Node-js/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%85%98</guid>
+    <description>데이터 컬렉션을 순회하기위해 만들어진 규칙이다. 이터레이션 프로토콜을 준수한 객체는 for…of문으로 순회할 수 있고 spread문법의 피연산자가 될 수 있다. 이터레이션 프로토콜에는 이터러블 프로토콜과 이터레이터 프로토콜이 있다.</description>
+    <pubDate>Fri, 11 Apr 2025 08:59:28 GMT</pubDate>
   </item><item>
-    <title>workbench 강제종료문제</title>
-    <link>https://quartz.jzhao.xyz/mysql/workbench-%EA%B0%95%EC%A0%9C%EC%A2%85%EB%A3%8C%EB%AC%B8%EC%A0%9C</link>
-    <guid>https://quartz.jzhao.xyz/mysql/workbench-%EA%B0%95%EC%A0%9C%EC%A2%85%EB%A3%8C%EB%AC%B8%EC%A0%9C</guid>
-    <description>계속 mysql Workbench가 강제종료되는 문제가 발생했다.</description>
-    <pubDate>Thu, 27 Mar 2025 02:53:13 GMT</pubDate>
+    <title>CRUD - 삭제</title>
+    <link>https://quartz.jzhao.xyz/Spring-boot/CRUD---%EC%82%AD%EC%A0%9C</link>
+    <guid>https://quartz.jzhao.xyz/Spring-boot/CRUD---%EC%82%AD%EC%A0%9C</guid>
+    <description>데이터 삭제를 구현하고 직접 확인하라 흐름 삭제 요청전달 디비에서 찾아서 삭제 리다이렉트보냄 dto는 필요없어. 어차피 url 라우팅정보야.</description>
+    <pubDate>Fri, 11 Apr 2025 08:59:28 GMT</pubDate>
   </item>
     </channel>
   </rss>
