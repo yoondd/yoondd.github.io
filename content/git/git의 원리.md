@@ -4,3 +4,6 @@
 
 Working directory - index, staging area, cache - repository
 
+
+
+

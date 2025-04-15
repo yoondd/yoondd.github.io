@@ -145,4 +145,4 @@ gcloud config set kpop-list-455808
 gcloud sql connect root --user=root
 ```
 
-
+이렇게 쓰니까 gcp쉘에서 sql을 사용할 수 있네 너무좋다! 굳이 디비버같은게 필요가없네.
