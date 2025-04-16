@@ -146,3 +146,5 @@ npm run deploy
 
 
 # settings - pages 에서 배포 브런치 수정
+
+내가 원래 해둔 main이라는 브런치가 아닌 gh-pages라는 브런치로 수정해라.

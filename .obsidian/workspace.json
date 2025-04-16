@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/git/나의 프로젝트를 github에 배포.md",
+                "file": "content/react/Start React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "나의 프로젝트를 github에 배포"
+              "title": "Start React"
             }
           },
           {
@@ -214,10 +214,10 @@
   },
   "active": "cd0d7570db58d3ae",
   "lastOpenFiles": [
-    "content/git/git에 올릴 때 주의사항.md",
-    "content/git/나의 프로젝트를 github에 배포.md",
-    "content/git/git의 원리.md",
     "content/React로 만드는 웹사이트.md",
+    "content/git/나의 프로젝트를 github에 배포.md",
+    "content/git/git에 올릴 때 주의사항.md",
+    "content/git/git의 원리.md",
     "content/git/git 환경변수 설정 (mac).md",
     "content/git/stash.md",
     "content/git/branch/branch 병합하기.md",
