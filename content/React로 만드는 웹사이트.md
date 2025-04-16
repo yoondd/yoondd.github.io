@@ -3,7 +3,6 @@
 [[Start React]]
 
 
-
 # 노드 세팅해두기 (gserver)
 [[Start Node js]]
 
@@ -52,6 +51,7 @@
 
 
 # Dockerfile만들어서 GCP에 환경만들기
+
 ```dockerfile
 # GCP가 이해할 수 있게 도커파일로 환경만들기
 
@@ -80,28 +80,32 @@ CMD [ "node", "server.js" ]
 
 
 # Artifact Registry API를 이용해 허가받기(저장소 만들기)
-(도커를 밀어넣기 위한 공간에 허가받기)
-1. 저장소 만들기
+(도커를 밀어넣기 위한 공간에 허가받기) - 노드를 어찌 올릴지 모르니까 ! 레지스트리 빌린거다
+1. 저장소 만들기 - Docker로 선택, 리전만 제대로 선택 - 저장소 만들기 완료 
 2. 내가만든 저장소 체크하기
 3. 상단의 "설정안내" 누르기
-4. Docker구성내용 복사하기 
-5. 이걸  GCP쉘에 붙여넣고 허가를 받아야한다.
+4. Docker구성내용 복사하기 (허가명령)
+5. 이걸 클라우드 쉘에 붙여넣고 허가를 받아야한다.
 
 # Docker를 빌드시켜서 레지스트리에 올리기(저장소에 업로드하기)
 
-GCP의 그냥  root에서 내 작업을 할 수는 없잖아. 그러니까 폴더를 하나 만들어(GCP 쉘에서 mkdir로)
+### 새파일 제작
+
+GCP의 그냥  root에서 내 작업을 할 수는 없잖아. 그러니까 폴더를 하나 만들어(클라우드 쉘에서 mkdir로)
 그리고 파일을 해당 폴더에 업로드를해.
 
 이때 프로젝트 아이디가 필요한데 - 이건 상단에 있는 내 프로젝트 이름을 누르면 나와.
-
 자, 이제 해당 폴더로 들어간상태에서 빌드와 업로드를 해보자.
+
+### 빌드와 업로드
+
+쉘을 연다음에, 쩜 3개 눌러서 업로드 누른 다음에 -  도커파일이랑 서버파일, packagejson등을 일단 업로드해.
 
 ```bash
 docker build -t us-central1-docker.pkg.dev/kpop-list-455808/guest/guest .
 
 docker build -t 리전이름-docker.pkg.dev/프로젝트아이디/저장소이름/이미지이름 .
 ```
-
 
 ```bash
 docker push us-central1-docker.pkg.dev/kpop-list-455808/guest/guest
