@@ -15,6 +15,7 @@ npx create-react-app <나의프로젝트이름>
 ```bash
 npm install react-router-dom framer-motion axios react-icons
 ```
+	
 	react-router-dom은 필수로 설치한다
 
 
