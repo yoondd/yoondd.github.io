@@ -108,6 +108,7 @@ docker build -t 리전이름-docker.pkg.dev/프로젝트아이디/저장소이�
 ```
 
 ```bash
+docker push us-central1-docker.pkg.dev/프로젝트아이디/저장소/이미지
 docker push us-central1-docker.pkg.dev/kpop-list-455808/guest/guest
 ```
 

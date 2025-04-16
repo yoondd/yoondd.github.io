@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/Start Node js.md",
+                "file": "content/git/나의 프로젝트를 github에 배포.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start Node js"
+              "title": "나의 프로젝트를 github에 배포"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,12 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76d974e886d33c4c",
+  "active": "69b4b91b4e95c5a2",
   "lastOpenFiles": [
+    "content/Node js/Start Node js.md",
+    "content/react/Start React.md",
     "content/open api/GCP.md",
     "content/React로 만드는 웹사이트.md",
     "content/git/git에 올릴 때 주의사항.md",
-    "content/react/Start React.md",
     "content/git/나의 프로젝트를 github에 배포.md",
     "content/git/git의 원리.md",
     "content/git/git 환경변수 설정 (mac).md",
@@ -243,7 +244,6 @@
     "content/git/Start Git.md",
     "content/Node js/axios.md",
     "content/Node js/환경변수만들어서 내 정보 지키기.md",
-    "content/Node js/Start Node js.md",
     "content/Node js/Set.md",
     "content/Node js/Map.md",
     "content/Node js/Node 핵심 개념.md",

@@ -144,6 +144,8 @@ head 에만 meta태그를 이용해서 대응해주면된다.
 npm run deploy           
 ```
 
+만약에 수정이 일어나면 run deploy 이 단계만 다시하면된다. 그러면 알아서  push작업이 이루어진다.
+
 
 # settings - pages 에서 배포 브런치 수정
 
