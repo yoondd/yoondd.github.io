@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React로 만드는 웹사이트.md",
+                "file": "content/react/✅ React로 만드는 웹사이트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React로 만드는 웹사이트"
+              "title": "✅ React로 만드는 웹사이트"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Linux 설치.md",
+                "file": "content/react/✅ React로 만드는 웹사이트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux 설치"
+              "title": "✅ React로 만드는 웹사이트"
             }
           },
           {
@@ -242,9 +242,10 @@
   },
   "active": "4d012a5110bac9cb",
   "lastOpenFiles": [
+    "content/Linux/Linux 설치.md",
+    "content/Linux",
     "content/react/Start React.md",
-    "content/Linux 설치.md",
-    "content/React로 만드는 웹사이트.md",
+    "content/react/✅ React로 만드는 웹사이트.md",
     "content/git/나의 프로젝트를 github에 배포.md",
     "content/Node js/Start Node js.md",
     "content/open api/GCP.md",
@@ -269,7 +270,6 @@
     "content/Node js/JS의 배열고차함수.md",
     "content/index.md",
     "content/Node js/Generator.md",
-    "content/Node js/이터레이션.md",
     "content/obsidian",
     "Pasted image 20250411130851.png",
     "Pasted image 20250411130759.png",
@@ -277,7 +277,6 @@
     "Pasted image 20250411130720.png",
     "Pasted image 20250411130531.png",
     "Pasted image 20250411130555.png",
-    "Untitled",
     "content/sql",
     "GCP",
     "content/react",
