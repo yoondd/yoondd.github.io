@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/react/Start React.md",
+                "file": "content/Linux 설치.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start React"
+              "title": "Linux 설치"
             }
           },
           {
@@ -242,10 +242,11 @@
   },
   "active": "4d012a5110bac9cb",
   "lastOpenFiles": [
+    "content/react/Start React.md",
+    "content/Linux 설치.md",
     "content/React로 만드는 웹사이트.md",
     "content/git/나의 프로젝트를 github에 배포.md",
     "content/Node js/Start Node js.md",
-    "content/react/Start React.md",
     "content/open api/GCP.md",
     "content/git/git에 올릴 때 주의사항.md",
     "content/git/git의 원리.md",
@@ -269,7 +270,6 @@
     "content/index.md",
     "content/Node js/Generator.md",
     "content/Node js/이터레이션.md",
-    "content/Spring boot/CRUD와 SQL쿼리.md",
     "content/obsidian",
     "Pasted image 20250411130851.png",
     "Pasted image 20250411130759.png",
