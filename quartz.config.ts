@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Pretendard Variable",
-        body: "Pretendard Variable",
-        code: "Pretendard Variable",
+        header: "Noto Sans",
+        body: "Noto Sans",
+        code: "Noto Sans",
       },
       colors: {
         lightMode: {
