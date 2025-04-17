@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Linux/Linux 설치(가상머신).md",
+                "file": "content/Linux/Linux설치 후 이어서 해야할 것들 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux 설치(가상머신)"
+              "title": "Linux설치 후 이어서 해야할 것들 정리"
             }
           },
           {
@@ -229,8 +229,9 @@
   "active": "76d974e886d33c4c",
   "lastOpenFiles": [
     "content/Linux/윈도우에서 Linux로 포맷하기.md",
-    "content/git/나의 프로젝트를 github에 배포.md",
     "content/Linux/Linux 설치(가상머신).md",
+    "content/Linux/Linux설치 후 이어서 해야할 것들 정리.md",
+    "content/git/나의 프로젝트를 github에 배포.md",
     "content/react/✅ React로 만드는 웹사이트.md",
     "content/Linux",
     "content/react/Start React.md",
@@ -256,7 +257,6 @@
     "content/Node js/server.js 만들기.md",
     "content/Node js/JS의 배열고차함수.md",
     "content/index.md",
-    "content/Node js/Generator.md",
     "content/obsidian",
     "Pasted image 20250411130851.png",
     "Pasted image 20250411130759.png",
