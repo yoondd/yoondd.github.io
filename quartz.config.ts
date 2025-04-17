@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Noto Sans KR",
         body: "Noto Sans KR",
-        code: "Noto Sans KR",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
