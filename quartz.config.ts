@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Pretendard Variable",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "Pretendard Variable",
+        code: "Pretendard Variable",
       },
       colors: {
         lightMode: {
