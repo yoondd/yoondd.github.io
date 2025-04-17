@@ -37,6 +37,7 @@
   "dependencies": {
     "@clack/prompts": "^0.10.0",
     "@floating-ui/dom": "^1.6.13",
+    "@fontsource/noto-sans": "^5.2.6",
     "@myriaddreamin/rehype-typst": "^0.5.4",
     "@napi-rs/simple-git": "0.1.19",
     "@tweenjs/tween.js": "^25.0.0",
@@ -116,5 +117,4 @@
   "resolutions": {
     "esbuild": "0.24.0"
   }
-  
 }

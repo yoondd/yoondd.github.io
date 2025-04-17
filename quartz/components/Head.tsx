@@ -5,6 +5,8 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+import "@fontsource/noto-sans"; // 기본 400 weight
+import "@fontsource/noto-sans/700.css"; // 700 weight
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
