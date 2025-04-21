@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sql/DBeaver.md",
+                "file": "content/react/모바일에서만 보이는 햄버거바 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DBeaver"
+              "title": "모바일에서만 보이는 햄버거바 만들기"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76d974e886d33c4c",
+  "active": "cd0d7570db58d3ae",
   "lastOpenFiles": [
-    "content/GCP/GCP.md",
+    "content/react/모바일에서만 보이는 햄버거바 만들기.md",
+    "content/react/React에서 이용해보는 Sass.md",
     "content/sql/DBeaver.md",
+    "content/GCP/GCP.md",
     "content/GCP/Cloud shell에서 쿼리문 작성하기.md",
     "content/react/✅ React로 만드는 웹사이트.md",
     "content/GCP",
@@ -248,8 +250,6 @@
     "content/git/branch/branch 병합하기.md",
     "content/git/branch/branch 만들기.md",
     "content/git/branch/branch 정보 확인하기.md",
-    "content/Node js/axios.md",
-    "content/Node js/환경변수만들어서 내 정보 지키기.md",
     "Pasted image 20250411130851.png",
     "Pasted image 20250411130759.png",
     "Pasted image 20250411130737.png",
