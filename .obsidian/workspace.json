@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/JDK install.md",
+                "file": "content/JAVA/프레임워크 vs 라이브러리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JDK install"
-            }
-          },
-          {
-            "id": "6add81a2db3bfc46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Linux/단축키.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "단축키"
+              "title": "프레임워크 vs 라이브러리"
             }
           }
         ]
@@ -185,8 +171,10 @@
   },
   "active": "cc02e84dbee270bd",
   "lastOpenFiles": [
-    "content/JAVA/Spring boot/독학/Annotations.md",
     "content/JAVA/JDK install.md",
+    "content/Linux/단축키.md",
+    "content/JAVA/프레임워크 vs 라이브러리.md",
+    "content/JAVA/Spring boot/독학/Annotations.md",
     "content/JAVA/Spring boot/수업",
     "content/JAVA/Spring boot/Untitled.md",
     "content/JAVA/Spring boot/독학",
@@ -194,7 +182,6 @@
     "content/JAVA/Spring boot",
     "content/Linux/Linux 기초.md",
     "content/Docker/Docker 명령어를 이용해 컨테이너 만들기.md",
-    "content/Linux/단축키.md",
     "content/Linux/Linux 설치(가상머신).md",
     "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
     "content/react/useRef.md",
@@ -215,7 +202,6 @@
     "content/react/✅ React로 만드는 웹사이트.md",
     "content/GCP",
     "content/git/나의 프로젝트를 github에 배포.md",
-    "content/index.md",
     "node_modules/@shikijs/langs/dist/wit.d.mts",
     "node_modules/@shikijs/langs/dist/llvm.d.mts",
     "node_modules/flexsearch/src/worker/node.mjs",
