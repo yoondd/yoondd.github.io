@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Docker/Docker 명령어를 이용해 컨테이너 만들기.md",
+                "file": "content/JAVA/JDK install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker 명령어를 이용해 컨테이너 만들기"
+              "title": "JDK install"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
+                "file": "content/Linux/단축키.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리눅스로 옵시디안을 이사한 후에."
+              "title": "단축키"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 313.5
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -184,20 +183,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec070b026d61fd21",
+  "active": "cc02e84dbee270bd",
   "lastOpenFiles": [
-    "content/react/useRef.md",
+    "content/JAVA/Spring boot/독학/Annotations.md",
+    "content/JAVA/JDK install.md",
+    "content/JAVA/Spring boot/수업",
+    "content/JAVA/Spring boot/Untitled.md",
+    "content/JAVA/Spring boot/독학",
+    "content/Linux/리눅스 명령어.md",
+    "content/JAVA/Spring boot",
+    "content/Linux/Linux 기초.md",
+    "content/Docker/Docker 명령어를 이용해 컨테이너 만들기.md",
+    "content/Linux/단축키.md",
+    "content/Linux/Linux 설치(가상머신).md",
     "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
+    "content/react/useRef.md",
     "content/react/useEffect.md",
     "conflict-files-obsidian-git.md",
     "content/react/전역함수 쓰기.md",
     "content/react/React Swiper.md",
-    "content/Linux/Linux 기본.md",
     "content/Docker/Docker의 원리.md",
-    "content/Docker/Docker 명령어를 이용해 컨테이너 만들기.md",
     "content/DB/데이터베이스 생성시 username과 db이름을 같게 하는 이유.md",
     "content/DB/username을 지정할 때?.md",
-    "content/Linux/단축키.md",
     "content/DB/DBeaver.md",
     "content/react/Start React.md",
     "content/Docker",
@@ -213,15 +220,7 @@
     "node_modules/@shikijs/langs/dist/llvm.d.mts",
     "node_modules/flexsearch/src/worker/node.mjs",
     "node_modules/flexsearch/dist/node/node.mjs",
-    "node_modules/flexsearch/README.old.md",
     "node_modules/flexsearch/src/worker.js",
-    "node_modules/flexsearch/dist/module/worker.js",
-    "node_modules/flexsearch/dist/module-min/worker.js",
-    "node_modules/flexsearch/dist/module-debug/worker.js",
-    "node_modules/@fontsource/noto-sans/README.md",
-    "node_modules/@fontsource/noto-sans/CHANGELOG.md",
-    "node_modules/oniguruma-parser/README.md",
-    "node_modules/@emnapi/runtime/README.md",
     "Pasted image 20250411130851.png",
     "Pasted image 20250411130759.png",
     "Pasted image 20250411130737.png",
