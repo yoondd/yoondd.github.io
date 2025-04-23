@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/react/useEffect.md",
+                "file": "content/react/useRef.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useEffect"
+              "title": "useRef"
             }
           }
         ],
@@ -186,6 +186,12 @@
   },
   "active": "6add81a2db3bfc46",
   "lastOpenFiles": [
+    "content/react/useEffect.md",
+    "conflict-files-obsidian-git.md",
+    "content/react/전역함수 쓰기.md",
+    "content/react/useRef.md",
+    "content/react/React Swiper.md",
+    "content/Linux/Linux 기본.md",
     "content/Docker/Docker의 원리.md",
     "content/Docker/Docker 명령어를 이용해 컨테이너 만들기.md",
     "content/DB/데이터베이스 생성시 username과 db이름을 같게 하는 이유.md",
@@ -216,12 +222,6 @@
     "node_modules/oniguruma-parser/README.md",
     "node_modules/@emnapi/runtime/README.md",
     "content/git/stash.md",
-    "content/git/Start Git.md",
-    "content/Linux/Linux설치 후 이어서 해야할 것들 정리.md",
-    "content/Linux/윈도우에서 Linux로 포맷하기.md",
-    "content/Linux/Linux 설치(가상머신).md",
-    "content/Node js/Start Node js.md",
-    "content/git/git에 올릴 때 주의사항.md",
     "Pasted image 20250411130851.png",
     "Pasted image 20250411130759.png",
     "Pasted image 20250411130737.png",
