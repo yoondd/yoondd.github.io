@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/react/useRef.md",
+                "file": "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useRef"
+              "title": "리눅스로 옵시디안을 이사한 후에."
             }
           }
         ],
@@ -184,12 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6add81a2db3bfc46",
+  "active": "ec070b026d61fd21",
   "lastOpenFiles": [
+    "content/react/useRef.md",
+    "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
     "content/react/useEffect.md",
     "conflict-files-obsidian-git.md",
     "content/react/전역함수 쓰기.md",
-    "content/react/useRef.md",
     "content/react/React Swiper.md",
     "content/Linux/Linux 기본.md",
     "content/Docker/Docker의 원리.md",
@@ -221,7 +222,6 @@
     "node_modules/@fontsource/noto-sans/CHANGELOG.md",
     "node_modules/oniguruma-parser/README.md",
     "node_modules/@emnapi/runtime/README.md",
-    "content/git/stash.md",
     "Pasted image 20250411130851.png",
     "Pasted image 20250411130759.png",
     "Pasted image 20250411130737.png",
