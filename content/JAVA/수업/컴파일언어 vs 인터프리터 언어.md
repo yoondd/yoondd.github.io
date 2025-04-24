@@ -24,3 +24,5 @@
 
 
 ---
+
+[[content/JAVA/수업/data type|data type]]

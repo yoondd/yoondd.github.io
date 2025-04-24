@@ -15,6 +15,11 @@
 # 상수
 상시 알아두어야 하는 수. 
 내 출근시간.. 
+특별히 상수는 대문자를 이용한다
+```java
+final short MAX_AGE;
+MAX_AGE = 200;
+```
 
 
 ---
@@ -24,6 +29,11 @@
 논리형: boolean (불 들어왔냐...안들어왔냐,,)
 문자형: char (캐릭터..)
 숫자형: byte, short, int, long
+	byte:  
+	short:
+	int:
+	long:
+	
 실수형: float, double
 
 ## 데이터 타입이라는게 왜 있어야되는데..?
