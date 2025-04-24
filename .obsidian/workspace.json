@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/Spring boot/수업/수업 환경 세팅.md",
+                "file": "content/git/git stash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수업 환경 세팅"
+              "title": "git stash"
+            }
+          },
+          {
+            "id": "d55724fc08470543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/Spring boot/수업/Spring을 이용해서 API만들기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring을 이용해서 API만들기"
             }
           }
         ]
@@ -172,6 +186,12 @@
   "active": "cc02e84dbee270bd",
   "lastOpenFiles": [
     "content/JAVA/Spring boot/수업/Spring을 이용해서 API만들기.md",
+    "content/git/git stash.md",
+    "content/git/branch/branch 정보 확인하기.md",
+    "content/git/branch/branch 병합하기.md",
+    "content/react/scss defalut file.md",
+    "content/git/Untitled.md",
+    "content/JAVA/Spring boot/수업/수업.md",
     "content/JAVA/Spring boot/수업/수업 환경 세팅.md",
     "content/Developer/백엔드로 Nodejs? JAVA?.md",
     "content/JAVA/수업/컴파일언어 vs 인터프리터 언어.md",
@@ -196,12 +216,6 @@
     "content/react/useRef.md",
     "content/react/useEffect.md",
     "conflict-files-obsidian-git.md",
-    "content/react/전역함수 쓰기.md",
-    "content/react/React Swiper.md",
-    "content/Docker/Docker의 원리.md",
-    "content/DB/데이터베이스 생성시 username과 db이름을 같게 하는 이유.md",
-    "content/DB/username을 지정할 때?.md",
-    "content/DB/DBeaver.md",
     "content/Docker",
     "content/GCP",
     "node_modules/@shikijs/langs/dist/wit.d.mts",
