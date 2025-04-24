@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/Spring boot/untitled.md",
+                "file": "content/JAVA/Spring boot/수업/수업 환경 세팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "untitled"
+              "title": "수업 환경 세팅"
             }
           }
         ]
@@ -171,12 +171,17 @@
   },
   "active": "cc02e84dbee270bd",
   "lastOpenFiles": [
-    "content/JAVA/Spring boot/백엔드로 Nodejs? JAVA?.md",
-    "content/JAVA/Spring boot/untitled.md",
-    "content/JAVA/수업/data type.md",
+    "content/JAVA/Spring boot/수업/Spring을 이용해서 API만들기.md",
+    "content/JAVA/Spring boot/수업/수업 환경 세팅.md",
+    "content/Developer/백엔드로 Nodejs? JAVA?.md",
     "content/JAVA/수업/컴파일언어 vs 인터프리터 언어.md",
-    "content/JAVA/수업/Java 공부방법.md",
     "content/JAVA/프레임워크 vs 라이브러리.md",
+    "content/JAVA/수업/Java 공부방법.md",
+    "content/JAVA/수업/data type.md",
+    "content/Developer",
+    "content/Untitled.md",
+    "content/JAVA/Spring boot/수업",
+    "content/JAVA/Spring boot/쌤.md",
     "content/JAVA/JDK install.md",
     "content/Linux/단축키.md",
     "content/JAVA/Spring boot/독학/Annotations.md",
@@ -197,16 +202,11 @@
     "content/DB/데이터베이스 생성시 username과 db이름을 같게 하는 이유.md",
     "content/DB/username을 지정할 때?.md",
     "content/DB/DBeaver.md",
-    "content/react/Start React.md",
     "content/Docker",
-    "content/react/모바일에서만 보이는 햄버거바 만들기.md",
-    "content/react/React에서 이용해보는 Sass.md",
     "content/GCP",
     "node_modules/@shikijs/langs/dist/wit.d.mts",
     "node_modules/@shikijs/langs/dist/llvm.d.mts",
     "node_modules/flexsearch/src/worker/node.mjs",
-    "node_modules/flexsearch/dist/node/node.mjs",
-    "node_modules/flexsearch/src/worker.js",
     "Pasted image 20250411130851.png",
     "Pasted image 20250411130759.png",
     "Pasted image 20250411130737.png",
