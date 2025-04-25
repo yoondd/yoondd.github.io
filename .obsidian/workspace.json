@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "becc1e6ef1f73a96",
+            "id": "0980fc420b4ba8b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 468.5
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -198,13 +198,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "becc1e6ef1f73a96",
+  "active": "0980fc420b4ba8b6",
   "lastOpenFiles": [
-    "content/DB/데이터베이스 설계 연습하기(구두가게 창업).md",
+    "content/JAVA/Java Lesson/Untitled.md",
+    "content/DB/key.md",
+    "content/DB/데이터베이스란?.md",
+    "Pasted image 20250424155440.png",
     "content/JAVA/Java Lesson/원시타입과 참조타입.md",
+    "content/DB/데이터베이스 설계 연습하기(구두가게 창업).md",
     "content/DB/데이터베이스 설계 연습하기(사장님-알바생).md",
     "content/DB/데이터베이스 설계 연습하기(영업실적과 예치금).md",
-    "content/DB/데이터베이스란?.md",
     "content/JAVA/Spring boot/Springn boot Lesson/정리해보자.md",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
@@ -212,11 +215,9 @@
     "Pasted image 20250424170315.png",
     "Pasted image 20250424165852.png",
     "Pasted image 20250424165607.png",
-    "content/DB/key.md",
     "Pasted image 20250424161723.png",
     "Pasted image 20250424161613.png",
     "Pasted image 20250424161513.png",
-    "Pasted image 20250424161026.png",
     "content/JAVA/Spring boot/Springn boot Lesson/선생님과 함께하는 수업.md",
     "content/git/git stash.md",
     "content/JAVA/Spring boot/Springn boot Lesson/수업 환경 세팅.md",
@@ -236,8 +237,6 @@
     "content/JAVA/Spring boot/Springn boot Lesson",
     "content/JAVA/Spring boot/쌤.md",
     "content/JAVA/JDK install.md",
-    "content/Linux/단축키.md",
-    "content/JAVA/Spring boot/Home Study/Annotations.md",
     "content/JAVA/Java Lesson",
     "content/JAVA/Spring boot/Home Study",
     "content/JAVA/Spring boot",
