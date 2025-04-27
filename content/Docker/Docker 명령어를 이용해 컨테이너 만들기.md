@@ -13,7 +13,7 @@ docker images
 
 
 # 현재 있는 프로세스(컨테이너) 확인
-```bash
+```sh
 docker ps -a
 ```
 

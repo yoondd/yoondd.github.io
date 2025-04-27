@@ -13,4 +13,5 @@ const section3ref = useRef(null);
 ```
 
 
-2. 
+
+2. 해당 요소에 ref로 이름을 지어주기.
