@@ -35,7 +35,8 @@
               "title": "Framer Motion"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc02e84dbee270bd",
+  "active": "6add81a2db3bfc46",
   "lastOpenFiles": [
+    "content/React/React Swiper.md",
     "content/React/전역함수 쓰기.md",
     "content/React/Framer Motion.md",
     "content/React/흐르는 슬라이드 & scroll 대응 모션.md",
@@ -192,7 +194,6 @@
     "content/React/React에서 이용해보는 Sass.md",
     "content/React/useRef.md",
     "content/React/useEffect.md",
-    "content/React/React Swiper.md",
     "content/Docker/Docker 명령어를 이용해 컨테이너 만들기.md",
     "content/Linux/Linux 기본.md",
     "content/Docker/Docker의 원리.md",
