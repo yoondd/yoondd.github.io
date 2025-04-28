@@ -43,4 +43,27 @@ useEffect(()=>{
 해당함수는 스크롤이 일어나면 실행된다. 
 그리고 return안에서 스크롤이벤트를 삭제했다 ->메모리 낭비를 방지하기위해 ==클리어==하는 과정이다.
 
-5. scrollEvent안의 함수 내용을 
+5. scrollEvent안의 함수 내용을 살펴보면,
+```jsx
+const scrollEvent = () =>{
+	const rect = sectionRef.current.getBoundingClientRect();
+	if(rect.top<window.innerHeight/2){
+		setscrolled(true);
+	}else{
+		setscrolled(false);
+	}
+}
+```
+여기서 `getBoundingClientRect()`라는 것은 요소가 스크롤 상단에서부터 얼마나 떨어져있는가에 대한 이야기다. 비슷한 걸로는 offsetTop같은거라고 생각하면된다.
+
+6. return에서 나올 태그들
+```jsx
+return (
+	<div ref={sectionRef} className={`scroll-rect ${scrolled ? 'active' : ''}`}>
+		<video src="비디오주소" >
+		<h2>텍스트</h2>
+	</div>
+
+)
+```
+ 이제 스크롤이 되서 해당 위치에 스크롤이 들어면 알아서 active가 들어가겠지? 오케이! 나머지는 sass의 문제니까 거기가서 해결하면되지~ 

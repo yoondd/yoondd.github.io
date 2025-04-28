@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/DB/데이터베이스란?.md",
+                "file": "content/react/scroll - rect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데이터베이스란?"
+              "title": "scroll - rect"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Array, Array List, Linked List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b3173d8b0e07e66",
+  "active": "cc02e84dbee270bd",
   "lastOpenFiles": [
-    "content/react/scroll - rect.md",
+    "content/react/흐르는 슬라이드 & scroll 대응 모션.md",
+    "content/DB/데이터베이스란?.md",
     "content/JAVA/Array, Array List, Linked List.md",
+    "content/react/scroll - rect.md",
     "content/DB/key.md",
     "Pasted image 20250424170315.png",
     "content/git/깃랩을 설치하면서...md",
@@ -195,7 +196,6 @@
     "content/JAVA/Java Lesson/원시타입과 참조타입.md",
     "content/JAVA/stream 문법.md",
     "content/JAVA/Java Lesson/Untitled.md",
-    "content/DB/데이터베이스란?.md",
     "Pasted image 20250424155440.png",
     "content/DB/데이터베이스 설계 연습하기(구두가게 창업).md",
     "content/DB/데이터베이스 설계 연습하기(사장님-알바생).md",
@@ -221,7 +221,6 @@
     "content/JAVA/Java Lesson/컴파일언어 vs 인터프리터 언어.md",
     "content/JAVA/프레임워크 vs 라이브러리.md",
     "content/JAVA/Java Lesson/Java 공부방법.md",
-    "content/JAVA/Java Lesson/data type.md",
     "content/Developer",
     "content/JAVA/Spring boot/Springn boot Lesson",
     "content/JAVA/Java Lesson",
