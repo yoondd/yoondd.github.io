@@ -5,7 +5,7 @@ db연결을 위해 쌤이 주신 파일
 spring:
   mvc:
     pathmatch:
-      matching-strategy: ant_path_matcher
+  matching-strategy: ant_path_matcher
   datasource:
     url: jdbc:postgresql://${DB-IP}:${DB포트번호}/${DB이름}
     username: ${DB유저명}
