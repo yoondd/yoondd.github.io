@@ -13,30 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/React Swiper.md",
+                "file": "content/DB/데이터베이스란?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Swiper"
+              "title": "데이터베이스란?"
             }
           },
           {
-            "id": "6add81a2db3bfc46",
+            "id": "7b3173d8b0e07e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/stream 문법.md",
+                "file": "content/DB/key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stream 문법"
+              "title": "key"
+            }
+          },
+          {
+            "id": "0980fc420b4ba8b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/Spring boot/Springn boot Lesson/application.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "application.yml"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 468.5
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -175,49 +189,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6add81a2db3bfc46",
+  "active": "0980fc420b4ba8b6",
   "lastOpenFiles": [
-    "content/React/Framer Motion.md",
+    "content/JAVA/Java Lesson/원시타입과 참조타입.md",
+    "content/JAVA/Spring boot/Springn boot Lesson/application.yml.md",
     "content/JAVA/stream 문법.md",
-    "conflict-files-obsidian-git.md",
-    "content/React/scss defalut file.md",
-    "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
-    "content/git/git stash.md",
-    "content/Linux/리눅스 명령어.md",
-    "content/Linux/Linux 기초.md",
+    "content/JAVA/Java Lesson/Untitled.md",
+    "content/DB/key.md",
+    "content/DB/데이터베이스란?.md",
+    "Pasted image 20250424155440.png",
+    "content/DB/데이터베이스 설계 연습하기(구두가게 창업).md",
+    "content/DB/데이터베이스 설계 연습하기(사장님-알바생).md",
+    "content/DB/데이터베이스 설계 연습하기(영업실적과 예치금).md",
     "content/JAVA/Spring boot/Springn boot Lesson/정리해보자.md",
-    "content/JAVA/Spring boot/Springn boot Lesson/수업 환경 세팅.md",
-    "content/JAVA/Spring boot/Springn boot Lesson/선생님과 함께하는 수업.md",
-    "content/JAVA/Spring boot/Springn boot Lesson/Spring을 이용해서 API만들기.md",
-    "content/JAVA/Spring boot/Home Study/초기 개발 환경 세팅하기.md",
-    "content/JAVA/Spring boot/Home Study/빌드 후 간단한 텍스트 띄우기.md",
-    "content/JAVA/Spring boot/Home Study/링크와 다이렉트.md",
-    "content/JAVA/Spring boot/Home Study/데이터생성 with JPA.md",
-    "content/JAVA/Spring boot/Home Study/view templates & MVC.md",
-    "content/JAVA/Spring boot/Home Study/spring boot project.md",
-    "content/JAVA/Spring boot/Home Study/db테이블과 sql.md",
-    "content/JAVA/Spring boot/Home Study/ObjectMapper.md",
-    "content/JAVA/Spring boot/Home Study/MVC 역할과 실행 흐름.md",
-    "content/JAVA/Spring boot/Home Study/Lombok.md",
-    "content/JAVA/Spring boot/Home Study/IoC,  DI, AOP.md",
-    "content/JAVA/Spring boot/Home Study/Form 데이터 주고받기.md",
-    "content/JAVA/Spring boot/Home Study/CRUD와 SQL쿼리.md",
-    "content/JAVA/Spring boot/Home Study/CRUD - 조회.md",
-    "content/JAVA/Spring boot/Springn boot Lesson",
-    "content/JAVA/Spring boot/Home Study",
-    "content/JAVA/Spring boot",
-    "content/JAVA/Java Lesson",
-    "content/JAVA",
-    "content/Developer",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
@@ -227,11 +220,32 @@
     "Pasted image 20250424161723.png",
     "Pasted image 20250424161613.png",
     "Pasted image 20250424161513.png",
-    "Pasted image 20250424161026.png",
+    "content/JAVA/Spring boot/Springn boot Lesson/선생님과 함께하는 수업.md",
+    "content/git/git stash.md",
+    "content/JAVA/Spring boot/Springn boot Lesson/수업 환경 세팅.md",
+    "content/JAVA/Spring boot/Springn boot Lesson/Spring을 이용해서 API만들기.md",
+    "content/DB/데이터베이스 생성시 username과 db이름을 같게 하는 이유.md",
+    "content/git/branch/branch 정보 확인하기.md",
+    "content/git/branch/branch 병합하기.md",
+    "content/react/scss defalut file.md",
+    "content/git/Untitled.md",
+    "content/Developer/백엔드로 Nodejs? JAVA?.md",
+    "content/JAVA/Java Lesson/컴파일언어 vs 인터프리터 언어.md",
+    "content/JAVA/프레임워크 vs 라이브러리.md",
+    "content/JAVA/Java Lesson/Java 공부방법.md",
+    "content/JAVA/Java Lesson/data type.md",
+    "content/Developer",
+    "content/Untitled.md",
+    "content/JAVA/Spring boot/Springn boot Lesson",
+    "content/JAVA/Spring boot/쌤.md",
+    "content/JAVA/Java Lesson",
+    "content/JAVA/Spring boot/Home Study",
+    "content/JAVA/Spring boot",
     "content/Docker",
     "content/GCP",
     "node_modules/@shikijs/langs/dist/wit.d.mts",
     "node_modules/@shikijs/langs/dist/llvm.d.mts",
+    "node_modules/flexsearch/src/worker/node.mjs",
     "Untitled.canvas"
   ]
 }
