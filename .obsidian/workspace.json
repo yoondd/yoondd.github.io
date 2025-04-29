@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/디버깅. 에러추적.md",
+                "file": "content/JAVA/메모리 구조에 대해 공부하자.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "디버깅. 에러추적"
+              "title": "메모리 구조에 대해 공부하자"
             }
           },
           {
@@ -214,9 +214,10 @@
   },
   "active": "7dddfa7234ec4ef6",
   "lastOpenFiles": [
+    "content/JAVA/디버깅. 에러추적.md",
+    "content/JAVA/메모리 구조에 대해 공부하자.md",
     "content/JAVA/Spring boot/Springn boot Lesson/application.yml.md",
     "content/JAVA/객체지향의 법칙 SOLID.md",
-    "content/JAVA/디버깅. 에러추적.md",
     "content/react/scroll - rect.md",
     "content/react/흐르는 슬라이드 & scroll 대응 모션.md",
     "content/DB/데이터베이스란?.md",
@@ -249,7 +250,6 @@
     "content/git/branch/branch 병합하기.md",
     "content/react/scss defalut file.md",
     "content/Developer/백엔드로 Nodejs? JAVA?.md",
-    "content/JAVA/Java Lesson/컴파일언어 vs 인터프리터 언어.md",
     "content/Developer",
     "content/JAVA/Spring boot/Springn boot Lesson",
     "content/JAVA/Java Lesson",
