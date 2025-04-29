@@ -13,30 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/react/scroll - rect.md",
+                "file": "content/React/React Swiper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scroll - rect"
+              "title": "React Swiper"
             }
           },
           {
-            "id": "7b3173d8b0e07e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/JAVA/Array, Array List, Linked List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Array, Array List, Linked List"
-            }
-          },
-          {
-            "id": "7dddfa7234ec4ef6",
+            "id": "6add81a2db3bfc46",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,37 +34,9 @@
               "icon": "lucide-file",
               "title": "메모리 구조에 대해 공부하자"
             }
-          },
-          {
-            "id": "025b71c828f3c8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "25cae7a2b309c8f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/JAVA/Spring boot/Springn boot Lesson/application.yml.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "application.yml"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -217,63 +176,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "025b71c828f3c8f6",
+  "active": "6add81a2db3bfc46",
   "lastOpenFiles": [
-    "content/JAVA/메모리 구조에 대해 공부하자.md",
-    "conflict-files-obsidian-git.md",
-    "content/typescript/typescript 설치.md",
-    "content/typescript",
     "content/git/git lab repository 권한.md",
-    "content/JAVA/디버깅. 에러추적.md",
-    "content/JAVA/Spring boot/Springn boot Lesson/application.yml.md",
-    "content/JAVA/객체지향의 법칙 SOLID.md",
-    "content/react/scroll - rect.md",
-    "content/react/흐르는 슬라이드 & scroll 대응 모션.md",
-    "content/DB/데이터베이스란?.md",
-    "content/JAVA/Array, Array List, Linked List.md",
-    "content/DB/key.md",
-    "Pasted image 20250424170315.png",
+    "content/JAVA/메모리 구조에 대해 공부하자.md",
+    "content/typescript/typescript 설치.md",
+    "conflict-files-obsidian-git.md",
+    "content/React/scroll - rect.md",
     "content/git/깃랩을 설치하면서...md",
-    "content/JAVA/Java Lesson/원시타입과 참조타입.md",
+    "content/JAVA/디버깅. 에러추적.md",
+    "content/JAVA/객체지향의 법칙 SOLID.md",
+    "content/JAVA/Spring boot/Springn boot Lesson/application.yml.md",
+    "content/JAVA/Array, Array List, Linked List.md",
+    "content/JAVA/프레임워크 vs 라이브러리.md",
+    "content/typescript",
     "content/JAVA/stream 문법.md",
-    "content/JAVA/Java Lesson/Untitled.md",
-    "Pasted image 20250424155440.png",
-    "content/DB/데이터베이스 설계 연습하기(구두가게 창업).md",
-    "content/DB/데이터베이스 설계 연습하기(사장님-알바생).md",
-    "content/DB/데이터베이스 설계 연습하기(영업실적과 예치금).md",
+    "content/JAVA/JDK install.md",
+    "content/React/Framer Motion.md",
+    "content/React/scss defalut file.md",
+    "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
+    "content/git/git stash.md",
+    "content/Linux/리눅스 명령어.md",
+    "content/Linux/Linux 기초.md",
     "content/JAVA/Spring boot/Springn boot Lesson/정리해보자.md",
+    "content/JAVA/Spring boot/Springn boot Lesson/수업 환경 세팅.md",
+    "content/JAVA/Spring boot/Springn boot Lesson/선생님과 함께하는 수업.md",
+    "content/JAVA/Spring boot/Springn boot Lesson/Spring을 이용해서 API만들기.md",
+    "content/JAVA/Spring boot/Home Study/초기 개발 환경 세팅하기.md",
+    "content/JAVA/Spring boot/Home Study/빌드 후 간단한 텍스트 띄우기.md",
+    "content/JAVA/Spring boot/Home Study/링크와 다이렉트.md",
+    "content/JAVA/Spring boot/Springn boot Lesson",
+    "content/JAVA/Spring boot/Home Study",
+    "content/JAVA/Spring boot",
+    "content/JAVA/Java Lesson",
+    "content/JAVA",
+    "content/Developer",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
+    "Pasted image 20250424170315.png",
     "Pasted image 20250424165852.png",
     "Pasted image 20250424165607.png",
     "Pasted image 20250424161723.png",
     "Pasted image 20250424161613.png",
     "Pasted image 20250424161513.png",
-    "content/JAVA/Spring boot/Springn boot Lesson/선생님과 함께하는 수업.md",
-    "content/git/git stash.md",
-    "content/JAVA/Spring boot/Springn boot Lesson/수업 환경 세팅.md",
-    "content/JAVA/Spring boot/Springn boot Lesson/Spring을 이용해서 API만들기.md",
-    "content/DB/데이터베이스 생성시 username과 db이름을 같게 하는 이유.md",
-    "content/git/branch/branch 정보 확인하기.md",
-    "content/Developer",
-    "content/JAVA/Spring boot/Springn boot Lesson",
-    "content/JAVA/Java Lesson",
-    "content/JAVA/Spring boot/Home Study",
-    "content/JAVA/Spring boot",
+    "Pasted image 20250424161026.png",
     "content/Docker",
     "content/GCP",
     "node_modules/@shikijs/langs/dist/wit.d.mts",
-    "node_modules/@shikijs/langs/dist/llvm.d.mts",
     "Untitled.canvas"
   ]
 }
