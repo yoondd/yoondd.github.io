@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/git/git lab에 push하려고 할 때 발생한 오류.md",
+                "file": "content/git/git lab repository 권한.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git lab에 push하려고 할 때 발생한 오류"
+              "title": "git lab repository 권한"
             }
           }
         ],
@@ -187,7 +187,7 @@
   "active": "6add81a2db3bfc46",
   "lastOpenFiles": [
     "content/typescript/typescript 설치.md",
-    "content/git/git lab에 push하려고 할 때 발생한 오류.md",
+    "content/git/git lab repository 권한.md",
     "conflict-files-obsidian-git.md",
     "content/React/scroll - rect.md",
     "content/git/깃랩을 설치하면서...md",
