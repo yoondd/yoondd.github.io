@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/React Swiper.md",
+                "file": "content/typescript/ex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Swiper"
+              "title": "ex"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "cc02e84dbee270bd",
   "lastOpenFiles": [
+    "content/typescript/타입앨리어스, 인터페이스.md",
+    "content/typescript/ex.md",
+    "content/React/React Swiper.md",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
@@ -205,15 +208,12 @@
     "content/JAVA/stream 문법.md",
     "content/JAVA/JDK install.md",
     "content/React/Framer Motion.md",
-    "content/React/scss defalut file.md",
-    "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
     "content/JAVA/Spring boot/Springn boot Lesson",
     "content/JAVA/Spring boot/Home Study",
     "content/JAVA/Spring boot",
     "content/JAVA/Java Lesson",
     "content/JAVA",
     "content/Developer",
-    "Pasted image 20250424161513.png",
     "content/Docker",
     "content/GCP",
     "node_modules/@shikijs/langs/dist/wit.d.mts",
