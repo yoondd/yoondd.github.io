@@ -1,5 +1,5 @@
 {
-  "uploadStrategy": "ANONYMOUS_IMGUR",
+  "uploadStrategy": "AUTHENTICATED_IMGUR",
   "clientId": "aea8498c6b9cd9b",
   "showRemoteUploadConfirmation": false
 }
