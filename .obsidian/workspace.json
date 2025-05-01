@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/DB/데이터베이스 설계하기.md",
+                "file": "content/memo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데이터베이스 설계하기"
+              "title": "memo"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "7b3173d8b0e07e66",
   "lastOpenFiles": [
-    "content/JAVA/생성자주입.md",
     "content/DB/데이터베이스 설계하기.md",
+    "content/memo.md",
+    "content/JAVA/생성자주입.md",
     "content/JAVA/메모리 구조에 대해 공부하자.md",
     "content/JAVA/자바의 클래스.md",
     "content/git/git lab repository 권한.md",
@@ -212,7 +213,6 @@
     "content/JAVA/객체지향의 법칙 SOLID.md",
     "content/react/흐르는 슬라이드 & scroll 대응 모션.md",
     "content/DB/데이터베이스란?.md",
-    "content/DB/key.md",
     "Pasted image 20250424170315.png",
     "Pasted image 20250424155440.png",
     "Pasted image 20250424180015.png",
