@@ -117,3 +117,23 @@ const fetchWeather = (city) => {
 fetchWeather('Suwon');
 
 ```
+
+
+
+
+---
+
+```ts
+async function fetchdata(): Promise<Data2[]>{
+	const res = await fetch("http://localhost:3000/data2.json");
+	const dataall = await res.json();
+
+	return dataall;
+}
+
+fetchdata().then(items=>{
+	dataall.forEach(item=>{
+		console.log(`${item.name}; ${item.price}`);
+	})
+})
+```
