@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/git/git lab repository 권한.md",
+                "file": "content/JAVA/생성자주입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git lab repository 권한"
+              "title": "생성자주입"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,19 +184,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec070b026d61fd21",
+  "active": "7b3173d8b0e07e66",
   "lastOpenFiles": [
-    "content/react/scroll - rect.md",
+    "content/JAVA/메모리 구조에 대해 공부하자.md",
+    "content/JAVA/생성자주입.md",
+    "content/JAVA/자바의 클래스.md",
     "content/git/git lab repository 권한.md",
+    "content/Developer/Untitled.md",
+    "content/git/branch/branch 만들기.md",
+    "conflict-files-obsidian-git.md",
+    "content/react/typescript + react.md",
+    "content/git/Gitlab 비공개.md",
+    "content/Node js/내가 가진 폴더 포트로 띄우기.md",
+    "content/react/scroll - rect.md",
     "content/JAVA/Spring boot/Springn boot Lesson/application.yml.md",
     "content/git/깃랩을 설치하면서...md",
-    "content/JAVA/메모리 구조에 대해 공부하자.md",
     "content/git/git reset.md",
     "content/git/git merge.md",
     "content/git/git의 HEAD.md",
     "content/typescript/ex.md",
     "content/typescript/타입앨리어스, 인터페이스.md",
-    "conflict-files-obsidian-git.md",
     "content/JAVA/Array, Array List, Linked List.md",
     "content/typescript/typescript 설치.md",
     "content/typescript",
@@ -206,13 +214,7 @@
     "content/DB/key.md",
     "Pasted image 20250424170315.png",
     "content/JAVA/Java Lesson/원시타입과 참조타입.md",
-    "content/JAVA/stream 문법.md",
-    "content/JAVA/Java Lesson/Untitled.md",
     "Pasted image 20250424155440.png",
-    "content/DB/데이터베이스 설계 연습하기(구두가게 창업).md",
-    "content/DB/데이터베이스 설계 연습하기(사장님-알바생).md",
-    "content/DB/데이터베이스 설계 연습하기(영업실적과 예치금).md",
-    "content/JAVA/Spring boot/Springn boot Lesson/정리해보자.md",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
@@ -221,7 +223,6 @@
     "Pasted image 20250424161723.png",
     "Pasted image 20250424161613.png",
     "Pasted image 20250424161513.png",
-    "content/JAVA/Spring boot/Springn boot Lesson/선생님과 함께하는 수업.md",
     "content/Developer",
     "content/JAVA/Spring boot/Springn boot Lesson",
     "content/JAVA/Java Lesson",

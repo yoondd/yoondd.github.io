@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+![](https://i.imgur.com/6nvg4wh.png)
+
+working directory -> 내 작업공간
+index, staging area -> add 된 상태
+repository ->커밋한 상태(버전들이 저장된 곳)
+
+그냥 속편하려면 `git reset --hard`하면된다
+=======
 ```bash
 git log
 git log --branches --graph --decorate
@@ -43,3 +52,4 @@ git checkout <commit id>
 
 특정한 브랜치에 속해있는것이아니라 특정 커밋레 detached되어있다 
 뭐 이런경우도있는데, 굳이 알필요는없다. 
+>>>>>>> origin/main
