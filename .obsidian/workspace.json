@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/react/scroll - rect.md",
+                "file": "content/git/branch/branch 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scroll - rect"
+              "title": "branch 만들기"
             }
           },
           {
@@ -183,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc02e84dbee270bd",
+  "active": "ec070b026d61fd21",
   "lastOpenFiles": [
+    "content/react/scroll - rect.md",
     "content/git/git lab repository 권한.md",
     "content/JAVA/Spring boot/Springn boot Lesson/application.yml.md",
     "content/git/깃랩을 설치하면서...md",
@@ -200,7 +201,6 @@
     "content/typescript",
     "content/JAVA/디버깅. 에러추적.md",
     "content/JAVA/객체지향의 법칙 SOLID.md",
-    "content/react/scroll - rect.md",
     "content/react/흐르는 슬라이드 & scroll 대응 모션.md",
     "content/DB/데이터베이스란?.md",
     "content/DB/key.md",
