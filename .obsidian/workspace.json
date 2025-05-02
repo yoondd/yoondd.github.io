@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Links.md",
+                "file": "content/react/vite를 이용해서 만든 react project deploy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "vite를 이용해서 만든 react project deploy"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 553.5
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -186,8 +186,11 @@
   },
   "active": "7b3173d8b0e07e66",
   "lastOpenFiles": [
-    "content/memo.md",
+    "content/react/✅ React로 만드는 웹사이트.md",
+    "content/react/vite를 이용해서 만든 react project deploy.md",
+    "content/react/Framer Motion.md",
     "content/Links.md",
+    "content/memo.md",
     "content/DB/varchar & char.md",
     "content/DB/데이터베이스 설계하기.md",
     "content/DB/데이터베이스란?.md",
@@ -209,9 +212,6 @@
     "content/git/git merge.md",
     "content/git/git의 HEAD.md",
     "content/typescript/ex.md",
-    "content/typescript/타입앨리어스, 인터페이스.md",
-    "content/JAVA/Array, Array List, Linked List.md",
-    "content/typescript/typescript 설치.md",
     "content/typescript",
     "Pasted image 20250424170315.png",
     "Pasted image 20250424155440.png",
