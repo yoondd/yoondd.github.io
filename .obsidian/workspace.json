@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/git/branch/branch 만들기.md",
+                "file": "content/DOGLOG project/7일차🎨 디자인 작업.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "branch 만들기"
+              "title": "7일차🎨 디자인 작업"
             }
           }
         ]
@@ -171,8 +171,21 @@
   },
   "active": "c8f02527042bc107",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "content/DOGLOG project/5일차🦴 와이어프레임 제작.md",
+    "content/DOGLOG project/7일차🎨 디자인 작업.md",
+    "content/DOGLOG project/2일차📬 요구사항 정의서 제작.md",
+    "content/DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
     "content/git/branch/branch 만들기.md",
+    "content/DOGLOG project",
+    "conflict-files-obsidian-git.md",
+    "content/React/vite를 이용해서 만든 react project deploy.md",
+    "content/memo.md",
+    "content/Links.md",
+    "content/JAVA/자바의 클래스.md",
+    "content/JAVA/외래키 있는 entity연결하기.md",
+    "content/JAVA/생성자주입.md",
+    "content/DB/데이터베이스 설계하기.md",
+    "content/DB/varchar & char.md",
     "content/git/git의 HEAD.md",
     "content/git/git merge.md",
     "content/git/git reset.md",
@@ -185,18 +198,6 @@
     "content/React/react 컴포넌트 만들기.md",
     "content/React/React ClassName.md",
     "content/React/React Swiper.md",
-    "content/React/React에서 이용해보는 Sass.md",
-    "content/React/scroll - rect.md",
-    "content/React/scss defalut file.md",
-    "content/React/Start React.md",
-    "content/React/typescript + react.md",
-    "content/React/useRef.md",
-    "content/React/useEffect.md",
-    "content/Node js/fetch와 await.md",
-    "content/Node js/Untitled.md",
-    "content/Node js/내가 가진 폴더 포트로 띄우기.md",
-    "content/git/Gitlab 비공개.md",
-    "content/typescript/ex.md",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
@@ -216,7 +217,6 @@
     "content/Developer",
     "content/Docker",
     "content/GCP",
-    "node_modules/@shikijs/langs/dist/wit.d.mts",
     "Untitled.canvas"
   ]
 }
