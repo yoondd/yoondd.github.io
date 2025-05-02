@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce56859c3eb7920d",
+        "id": "443acbad9cbf543f",
         "type": "tabs",
         "children": [
           {
-            "id": "c8f02527042bc107",
+            "id": "de69e88846fdce42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/DOGLOG project/7일차🎨 디자인 작업.md",
+                "file": "content/DOGLOG project/9일차😎 기능별 담당자 지정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7일차🎨 디자인 작업"
+              "title": "9일차😎 기능별 담당자 지정"
             }
           }
         ]
@@ -169,10 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8f02527042bc107",
+  "active": "de69e88846fdce42",
   "lastOpenFiles": [
-    "content/DOGLOG project/5일차🦴 와이어프레임 제작.md",
+    "content/DOGLOG project/9일차😎 기능별 담당자 지정.md",
     "content/DOGLOG project/7일차🎨 디자인 작업.md",
+    "content/DOGLOG project/5일차🦴 와이어프레임 제작.md",
     "content/DOGLOG project/2일차📬 요구사항 정의서 제작.md",
     "content/DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
     "content/git/branch/branch 만들기.md",
@@ -197,7 +198,6 @@
     "content/React/Framer Motion.md",
     "content/React/react 컴포넌트 만들기.md",
     "content/React/React ClassName.md",
-    "content/React/React Swiper.md",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
