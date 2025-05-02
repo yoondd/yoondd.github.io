@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/react/vite를 이용해서 만든 react project deploy.md",
+                "file": "content/react/Intersection Observer API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vite를 이용해서 만든 react project deploy"
+              "title": "Intersection Observer API"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -186,8 +187,9 @@
   },
   "active": "7b3173d8b0e07e66",
   "lastOpenFiles": [
-    "content/react/✅ React로 만드는 웹사이트.md",
     "content/react/vite를 이용해서 만든 react project deploy.md",
+    "content/react/Intersection Observer API.md",
+    "content/react/✅ React로 만드는 웹사이트.md",
     "content/react/Framer Motion.md",
     "content/Links.md",
     "content/memo.md",
@@ -211,7 +213,6 @@
     "content/git/git reset.md",
     "content/git/git merge.md",
     "content/git/git의 HEAD.md",
-    "content/typescript/ex.md",
     "content/typescript",
     "Pasted image 20250424170315.png",
     "Pasted image 20250424155440.png",
