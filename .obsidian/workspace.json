@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Node js/Node 핵심 개념.md",
+                "file": "content/react/Intersection Observer API.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Node 핵심 개념"
+              "title": "Backlinks for Intersection Observer API"
             }
           },
           {
