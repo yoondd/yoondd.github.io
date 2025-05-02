@@ -4,6 +4,8 @@ date: '2025-05-03'
 categories: 소개 java 웹퍼블리싱 자격증 프로젝트
 ---
 
+<img src="https://i.imgur.com/QXuj0ht.png" width="200" />
+
 # 👋 안녕하세요, 윤혜경입니다!
 
 저는 현재 안산에 위치한 라인컴퓨터학원에서 **Java**를 공부하고 있는 개발자입니다.  
