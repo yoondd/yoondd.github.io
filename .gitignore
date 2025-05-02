@@ -7,3 +7,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+content/git/branch/branch 만들기.md
