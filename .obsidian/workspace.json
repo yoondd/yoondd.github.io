@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7a8b5f8334b93594",
+        "id": "443acbad9cbf543f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc02e84dbee270bd",
+            "id": "de69e88846fdce42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/git/branch/branch 만들기.md",
+                "file": "content/DOGLOG project/10일차📦 데이터베이스 설계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "branch 만들기"
-            }
-          },
-          {
-            "id": "7b3173d8b0e07e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/react/Intersection Observer API.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intersection Observer API"
-            }
-          },
-          {
-            "id": "1d5b98f9e7cd3270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/memo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "memo"
-            }
-          },
-          {
-            "id": "6376989eff83a9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/DB/프로시저.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "프로시저"
-            }
-          },
-          {
-            "id": "912fffd7bb33e344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORM과 SQL Mapper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ORM과 SQL Mapper"
-            }
-          },
-          {
-            "id": "a04cef4f81eba285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/JAVA/JPA의 동작방식.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JPA의 동작방식"
+              "title": "10일차📦 데이터베이스 설계"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -165,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/DB/프로시저.md",
+                "file": "content/Node js/Node 핵심 개념.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 프로시저"
+              "title": "Backlinks for Node 핵심 개념"
             }
           },
           {
@@ -231,63 +160,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6376989eff83a9b1",
+  "active": "de69e88846fdce42",
   "lastOpenFiles": [
-    "content/JAVA/SQL의 한계.md",
-    "content/DB/프로시저.md",
-    "content/JAVA/Untitled.md",
-    "content/JAVA/한달간의 데이터 뽑아내기.md",
-    "content/JAVA/테이블이 2개 이상, Read구현.md",
-    "content/JAVA/JPA의 동작방식.md",
-    "ORM과 SQL Mapper.md",
-    "content/JAVA/데이터 가져오기.md",
-    "content/memo.md",
-    "conflict-files-obsidian-git.md",
-    "content/react/Intersection Observer API.md",
-    "content/DOGLOG project/9일차😎 기능별 담당자 지정.md",
-    "content/DOGLOG project/7일차🎨 디자인 작업.md",
     "content/DOGLOG project/5일차🦴 와이어프레임 제작.md",
     "content/DOGLOG project/2일차📬 요구사항 정의서 제작.md",
     "content/DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
+    "content/DOGLOG project/7일차🎨 디자인 작업.md",
+    "content/DOGLOG project/9일차😎 기능별 담당자 지정.md",
+    "content/DOGLOG project/10일차📦 데이터베이스 설계.md",
+    "content/JAVA/한달간의 데이터 뽑아내기.md",
+    "content/JAVA/테이블이 2개 이상, Read구현.md",
+    "content/JAVA/데이터 가져오기.md",
+    "content/JAVA/SQL의 한계.md",
+    "content/JAVA/JPA의 동작방식.md",
+    "content/DB/프로시저.md",
+    "ORM과 SQL Mapper.md",
+    "content/git/branch/branch 만들기.md",
     "content/DOGLOG project",
-    "content/react/vite를 이용해서 만든 react project deploy.md",
-    "content/react/✅ React로 만드는 웹사이트.md",
-    "content/react/Framer Motion.md",
+    "conflict-files-obsidian-git.md",
+    "content/React/vite를 이용해서 만든 react project deploy.md",
+    "content/memo.md",
     "content/Links.md",
-    "content/DB/varchar & char.md",
-    "content/DB/데이터베이스 설계하기.md",
-    "content/DB/데이터베이스란?.md",
+    "content/JAVA/자바의 클래스.md",
     "content/JAVA/외래키 있는 entity연결하기.md",
     "content/JAVA/생성자주입.md",
-    "content/JAVA/메모리 구조에 대해 공부하자.md",
-    "content/typescript",
-    "Pasted image 20250424170315.png",
-    "Pasted image 20250424155440.png",
+    "content/DB/데이터베이스 설계하기.md",
+    "content/DB/varchar & char.md",
+    "content/git/git의 HEAD.md",
+    "content/git/git merge.md",
+    "content/git/git reset.md",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
+    "Pasted image 20250424170315.png",
     "Pasted image 20250424165852.png",
     "Pasted image 20250424165607.png",
     "Pasted image 20250424161723.png",
     "Pasted image 20250424161613.png",
-    "Pasted image 20250424161513.png",
-    "content/Developer",
+    "Pasted image 20250424161026.png",
+    "Pasted image 20250424155440.png",
+    "content/typescript",
     "content/JAVA/Spring boot/Springn boot Lesson",
-    "content/JAVA/Java Lesson",
     "content/JAVA/Spring boot/Home Study",
     "content/JAVA/Spring boot",
+    "content/JAVA/Java Lesson",
+    "content/JAVA",
+    "content/Developer",
     "content/Docker",
     "content/GCP",
-    "node_modules/@shikijs/langs/dist/wit.d.mts",
     "Untitled.canvas"
   ]
 }
