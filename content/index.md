@@ -5,7 +5,6 @@ categories: 윤혜경의 개발블로그 소개
 ---
 
 <img src="https://i.imgur.com/QXuj0ht.png" width="200" />
-
 # 👋 배움에 겁이 없는 윤혜경입니다
 
 관상학에서 큰 눈은 겁을 상징한다고 합니다.
