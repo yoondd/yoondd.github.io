@@ -172,6 +172,8 @@
   },
   "active": "0b3865204d82cce5",
   "lastOpenFiles": [
+    "public/google0754f04175d13a2f.html",
+    "google0754f04175d13a2f.html",
     "content/Developer/백엔드로 Nodejs인가 JAVA인가.md",
     "content/DB/username을 지정할 때.md",
     "content/index.md",
@@ -198,7 +200,6 @@
     "content/Links.md",
     "content/JAVA/자바의 클래스.md",
     "content/JAVA/외래키 있는 entity연결하기.md",
-    "content/JAVA/생성자주입.md",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
@@ -217,7 +218,6 @@
     "content/JAVA",
     "content/Developer",
     "content/Docker",
-    "content/GCP",
     "Untitled.canvas"
   ]
 }
