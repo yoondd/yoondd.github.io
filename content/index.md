@@ -37,6 +37,7 @@ categories: 윤혜경의 개발블로그 소개
 
 ## 🔧 Stack & Study
 
+- 기술: Nodejs, javascript, Java, Spring boot, TypeScript, SQL, Docker, React, GCP, HTML, CSS, Sass, Mustache, Pug, Git, Github, Gitlab
 - 현재 집중 공부 중: **Java**  
 - 웹 퍼블리싱 관련 기술 경험 보유
 
