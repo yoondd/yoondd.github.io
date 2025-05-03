@@ -200,8 +200,9 @@
   },
   "active": "69b4b91b4e95c5a2",
   "lastOpenFiles": [
-    "content/index.md",
+    "content/Node js/Map.md",
     "content/Node js/JS의 배열고차함수.md",
+    "content/index.md",
     "content/Node js/Generator.md",
     "content/Node js/이터레이션.md",
     "content/Spring boot/CRUD와 SQL쿼리.md",
@@ -232,7 +233,6 @@
     "content/Spring boot/ObjectMapper.md",
     "content/Spring boot/spring boot project.md",
     "content/React로 만드는 웹사이트.md",
-    "content/Node js/server.js 만들기.md",
     "Untitled",
     "content/sql",
     "GCP",
