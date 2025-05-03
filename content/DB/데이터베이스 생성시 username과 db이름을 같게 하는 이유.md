@@ -11,7 +11,7 @@
 postgres를 다루면서 예제를 구현할때,
 username만 지정을하면 database의 이름은 자동으로 username으로 지정된다.
 
-[[username을 지정할 때?]]
+[[username을 지정할 때]]
 
 
 
