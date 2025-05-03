@@ -5,6 +5,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
 }
 
 Header.css = `
+
 header {
   display: flex;
   flex-direction: row;

@@ -7,3 +7,9 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+<<<<<<< HEAD
+content/git/branch/branch 만들기.md
+=======
+content/react/Intersection Observer API.md
+>>>>>>> origin/main
