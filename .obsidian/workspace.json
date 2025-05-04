@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
+                "file": "content/JAVA/Spring boot/FK걸린 DB - all read.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4일차. 대소문자 바꿔서 출력하기"
+              "title": "FK걸린 DB - all read"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "8c07fe4d4af8fe73",
   "lastOpenFiles": [
-    "content/🍚 CodingTest/3일차. 문자열 반복해서 처리하기.md",
     "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
+    "content/JAVA/Spring boot/FK걸린 DB - all read.md",
+    "content/🍚 CodingTest/3일차. 문자열 반복해서 처리하기.md",
     "content/🐶 DOGLOG project/5일차🦴 와이어프레임.md",
     "conflict-files-obsidian-git.md",
     "content/Node js/JS의 배열고차함수.md",
@@ -260,7 +261,6 @@
     "content/react/scroll - rect.md",
     "content/react/React에서 이용해보는 Sass.md",
     "content/react/React Swiper.md",
-    "content/obsidian/리눅스로 옵시디안을 이사한 후에..md",
     "Untitled.canvas"
   ]
 }
