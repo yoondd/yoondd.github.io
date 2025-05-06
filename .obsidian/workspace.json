@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/한달간의 데이터 뽑아내기.md",
+                "file": "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "한달간의 데이터 뽑아내기"
+              "title": "4일차. 대소문자 바꿔서 출력하기"
             }
           }
         ]
@@ -172,9 +172,13 @@
   },
   "active": "0b3865204d82cce5",
   "lastOpenFiles": [
+    "content/JAVA/String을 Char배열로 만들기.md",
+    "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
+    "content/🍚 CodingTest/5일차. 특수문자 출력하기.md",
+    "content/JAVA/Escape Sequence.md",
+    "content/JAVA/한달간의 데이터 뽑아내기.md",
     "content/git/자바 스프링부트 프로젝트 가져오기.md",
     "content/git/원격저장소.md",
-    "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
     "content/🍚 CodingTest/3일차. 문자열 반복해서 처리하기.md",
     "content/🍚 CodingTest/2일차. 원소들의 곱과 합.md",
     "content/🍚 CodingTest/1일차. 등차수열의 특정한 항만 더하기.md",
@@ -195,12 +199,8 @@
     "content/🐶 DOGLOG project/5일차🦴 와이어프레임 제작.md",
     "content/🐶 DOGLOG project/2일차📬 요구사항 정의서 제작.md",
     "content/🐶DOGLOG project/sortspec.md.md",
-    "content/JAVA/한달간의 데이터 뽑아내기.md",
     "content/JAVA/테이블이 2개 이상, Read구현.md",
     "content/JAVA/데이터 가져오기.md",
-    "content/JAVA/SQL의 한계.md",
-    "content/JAVA/JPA의 동작방식.md",
-    "content/DB/프로시저.md",
     "content/🐶 DOGLOG project",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
