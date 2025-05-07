@@ -4,24 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "4d98a0418cf18612",
+        "id": "7a8b5f8334b93594",
         "type": "tabs",
         "children": [
           {
-            "id": "553c0ee072ba9b77",
+            "id": "cc02e84dbee270bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/git/원격저장소에 있는것 가져오기  git clone.md",
+                "file": "content/git/branch/branch 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "원격저장소에 있는것 가져오기  git clone"
+              "title": "branch 만들기"
+            }
+          },
+          {
+            "id": "7b3173d8b0e07e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/react/Intersection Observer API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intersection Observer API"
+            }
+          },
+          {
+            "id": "1d5b98f9e7cd3270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/memo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "memo"
+            }
+          },
+          {
+            "id": "6376989eff83a9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/memo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "memo"
+            }
+          },
+          {
+            "id": "912fffd7bb33e344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORM과 SQL Mapper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ORM과 SQL Mapper"
+            }
+          },
+          {
+            "id": "a04cef4f81eba285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/JPA의 동작방식.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JPA의 동작방식"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 291.5
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -94,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Node js/Node 핵심 개념.md",
+                "file": "content/DB/프로시저.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Node 핵심 개념"
+              "title": "Backlinks for 프로시저"
             }
           },
           {
@@ -160,63 +231,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "553c0ee072ba9b77",
+  "active": "6376989eff83a9b1",
   "lastOpenFiles": [
-    "content/git/원격저장소 연결 git remote.md",
-    "content/git/원격저장소에 있는것 가져오기  git clone.md",
-    "content/git/원격저장소.md",
-    "content/Next js/Next js.md",
-    "content/JAVA/format specifier.md",
     "content/Next js/GCP를 이용한 db세팅.md",
-    "content/Next js/Untitled.md",
-    "content/Next js/next js 기본 세팅.md",
-    "content/Next js/Next js 설치.md",
+    "content/DB/프로시저.md",
+    "public/google0754f04175d13a2f.html",
+    "google0754f04175d13a2f.html",
+    "content/🐶 DOGLOG project/9일차😎 기능별 담당자 지정.md",
+    "content/🐶 DOGLOG project/7일차🎨 디자인 작업.md",
+    "content/🐶 DOGLOG project/5일차🦴 와이어프레임.md",
+    "content/🐶 DOGLOG project/2일차📬 요구사항 정의서 제작.md",
+    "content/🐶 DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
+    "content/🐶 DOGLOG project/10일차📦 데이터베이스 설계.md",
+    "content/🐶 DOGLOG project",
     "content/🍚 CodingTest/6일차. 덧셈식 출력하기.md",
-    "content/Next js",
-    "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
-    "content/JAVA/String을 Char배열로 만들기.md",
     "content/🍚 CodingTest/5일차. 특수문자 출력하기.md",
-    "content/JAVA/Escape Sequence.md",
-    "content/JAVA/한달간의 데이터 뽑아내기.md",
-    "content/git/자바 스프링부트 프로젝트 가져오기.md",
+    "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
     "content/🍚 CodingTest/3일차. 문자열 반복해서 처리하기.md",
     "content/🍚 CodingTest/2일차. 원소들의 곱과 합.md",
     "content/🍚 CodingTest/1일차. 등차수열의 특정한 항만 더하기.md",
-    "content/🐶 DOGLOG project/5일차🦴 와이어프레임.md",
-    "content/JAVA/문자열을 반복시키는 repeat() 메서드.md",
-    "content/DB/데이터베이스란..md",
     "content/🍚 CodingTest",
-    "public/google0754f04175d13a2f.html",
-    "google0754f04175d13a2f.html",
-    "content/Developer/백엔드로 Nodejs인가 JAVA인가.md",
-    "content/DB/username을 지정할 때.md",
-    "content/index.md",
+    "content/git/자바 스프링부트 프로젝트 가져오기.md",
+    "content/git/원격저장소에 있는것 가져오기  git clone.md",
+    "content/git/원격저장소.md",
+    "content/git/원격저장소 연결 git remote.md",
     "content/git/깃랩팀작업하기.md",
-    "content/🐶 DOGLOG project",
+    "content/Next js/next js 기본 세팅.md",
+    "content/Next js/Next js.md",
+    "content/Next js/Next js 설치.md",
+    "content/Next js",
+    "content/JAVA/문자열을 반복시키는 repeat() 메서드.md",
+    "content/JAVA/format specifier.md",
+    "content/JAVA/String을 Char배열로 만들기.md",
+    "content/JAVA/Escape Sequence.md",
+    "content/DOGLOG project",
+    "content/typescript",
+    "Pasted image 20250424170315.png",
+    "Pasted image 20250424155440.png",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
-    "Pasted image 20250424170315.png",
     "Pasted image 20250424165852.png",
     "Pasted image 20250424165607.png",
     "Pasted image 20250424161723.png",
     "Pasted image 20250424161613.png",
-    "Pasted image 20250424161026.png",
-    "Pasted image 20250424155440.png",
-    "content/typescript",
+    "Pasted image 20250424161513.png",
+    "content/Developer",
     "content/JAVA/Spring boot/Springn boot Lesson",
-    "content/JAVA/Spring boot/Home Study",
-    "content/JAVA/Spring boot",
     "content/JAVA/Java Lesson",
     "Untitled.canvas"
   ]
