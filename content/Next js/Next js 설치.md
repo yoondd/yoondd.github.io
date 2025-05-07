@@ -101,3 +101,6 @@ npm install cookie # 쿠키는원래있지만 거기에 jwt넣을거얌
 npm install -save-dev @types/cookie # 타입스크립트 이해해랏!
 ```
 
+
+
+[[next js 기본 세팅]]

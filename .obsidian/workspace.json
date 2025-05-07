@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/너무 편한 _app.tsx.md",
+                "file": "content/Next js/Next js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "너무 편한 _app.tsx"
+              "title": "Next js"
             }
           }
         ]
@@ -172,10 +172,12 @@
   },
   "active": "553c0ee072ba9b77",
   "lastOpenFiles": [
-    "content/Next js/Next js 설치.md",
-    "content/Next js/너무 편한 _app.tsx.md",
     "content/JAVA/format specifier.md",
     "content/Next js/Next js.md",
+    "content/Next js/GCP를 이용한 db세팅.md",
+    "content/Next js/Untitled.md",
+    "content/Next js/next js 기본 세팅.md",
+    "content/Next js/Next js 설치.md",
     "content/🍚 CodingTest/6일차. 덧셈식 출력하기.md",
     "content/Next js",
     "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
@@ -200,8 +202,6 @@
     "content/git/깃랩팀작업하기.md",
     "content/🐶 DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
     "content/🐶 DOGLOG project/10일차📦 데이터베이스 설계.md",
-    "content/🐶 DOGLOG project/9일차😎 기능별 담당자 지정.md",
-    "content/🐶 DOGLOG project/7일차🎨 디자인 작업.md",
     "content/🐶 DOGLOG project",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",

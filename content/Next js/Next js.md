@@ -1,4 +1,5 @@
 
+
 # CSR
 
 CSR: Cliend-Side Rendering
@@ -28,7 +29,7 @@ SSR : Server-Side Rendering
 | 백엔드 지원 | 없음                 | API 라우트 등 풀스택 개발 가능                |
 
 ### SSG 
-SSG: Static Site Generation
+SSG: Static Site Generationd
 정적 사이트 생성을 말한다. 
 위 샌드위치 예제를 예로 들자면, 도시락 개념이라고 볼 수 있다. 
 이미 fix가 되어있는것들은 아예 간편하게 도시락처럼 세팅해서 보내는 것이 좋다는 의견.
@@ -57,3 +58,4 @@ SSG: Static Site Generation
 
 
 
+[[Next js 설치]]
