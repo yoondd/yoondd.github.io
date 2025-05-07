@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/Next js 설치.md",
+                "file": "content/Next js/너무 편한 _app.tsx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next js 설치"
+              "title": "너무 편한 _app.tsx"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "553c0ee072ba9b77",
   "lastOpenFiles": [
-    "content/JAVA/format specifier.md",
     "content/Next js/Next js 설치.md",
+    "content/Next js/너무 편한 _app.tsx.md",
+    "content/JAVA/format specifier.md",
     "content/Next js/Next js.md",
     "content/🍚 CodingTest/6일차. 덧셈식 출력하기.md",
     "content/Next js",
@@ -201,7 +202,6 @@
     "content/🐶 DOGLOG project/10일차📦 데이터베이스 설계.md",
     "content/🐶 DOGLOG project/9일차😎 기능별 담당자 지정.md",
     "content/🐶 DOGLOG project/7일차🎨 디자인 작업.md",
-    "content/🐶 DOGLOG project/5일차🦴 와이어프레임 제작.md",
     "content/🐶 DOGLOG project",
     "Pasted image 20250424180015.png",
     "Pasted image 20250424174237.png",
