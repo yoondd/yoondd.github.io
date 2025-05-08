@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/컨트롤러 분리하는 기준.md",
+                "file": "content/JAVA/BLOB DATA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "컨트롤러 분리하는 기준"
+              "title": "BLOB DATA"
             }
           },
           {
@@ -243,10 +243,11 @@
   },
   "active": "83e7922d0172d196",
   "lastOpenFiles": [
+    "content/JAVA/컨트롤러 분리하는 기준.md",
+    "content/JAVA/BLOB DATA.md",
     "content/JAVA/(현업) 테이블에서 삭제를 구현하는 방법.md",
     "content/JAVA/2개의 테이블, D구현.md",
     "content/JAVA/java에서의 대소문자의 의미.md",
-    "content/JAVA/컨트롤러 분리하는 기준.md",
     "content/JAVA/lombok은 언제 작동하는가?.md",
     "content/JAVA/JPA의 동작방식.md",
     "content/memo.md",
@@ -271,7 +272,6 @@
     "content/🍚 CodingTest/4일차. 대소문자 바꿔서 출력하기.md",
     "content/🍚 CodingTest/3일차. 문자열 반복해서 처리하기.md",
     "content/🍚 CodingTest/2일차. 원소들의 곱과 합.md",
-    "content/🍚 CodingTest/1일차. 등차수열의 특정한 항만 더하기.md",
     "content/🍚 CodingTest",
     "content/Next js",
     "content/DOGLOG project",
