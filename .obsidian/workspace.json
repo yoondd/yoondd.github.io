@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/BLOB DATA.md",
+                "file": "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BLOB DATA"
+              "title": "이미지 처리와 Blob - CDN 활용 핵심 개념"
             }
           },
           {
@@ -244,7 +244,7 @@
   "active": "83e7922d0172d196",
   "lastOpenFiles": [
     "content/JAVA/컨트롤러 분리하는 기준.md",
-    "content/JAVA/BLOB DATA.md",
+    "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
     "content/JAVA/(현업) 테이블에서 삭제를 구현하는 방법.md",
     "content/JAVA/2개의 테이블, D구현.md",
     "content/JAVA/java에서의 대소문자의 의미.md",

@@ -1,0 +1,109 @@
+이미지를 010101... 컴퓨터가 이해하기 쉽게 코드로 짤라넣을 수 있는 상태
+
+> 사인데이터는 참고로 blob으로 저장한다. 위변조 검사할때 이미지끼리 비교하는건 힘들고 바이너리끼리 저장하는건 쉬우니까.
+
+
+### 프론트 입장에서의 BLOB활용
+
+프론트에서 이미지를 줄이고 늘리고, 수정이 필요하다. 
+이 편집을 할때 blob상태(바이너리상태)에서 해야한다는 의미다.
+이를 편집에서 백으로 보낼 수 있다. 
+
+#### 왜 BLOB으로 편집해?
+전부 px로 되어있잖아. 그래야 수정이 가능하지. 바이너리가 아니라면 그런거 못해.
+바이너리가 아니라면 프론트 입장에서 이미지 편집이 안되는거야.
+이미지 회전도 마찬가지야. 바이너리 상태가 아니라면 회전같은거 안돼.
+전부 코드라는거야. 
+
+그래서 선생님이 BLOB에 대해 말씀하실때, Canva를 예로 들어주신거야.
+
+
+
+
+### 백에서의 BLOB활용
+
+통상적으로 저장을 할때, cdn에다가 저장한다. - cash 라는게 핵심이다.
+cdn에다가 저장하고 해당내용만 백에서 가져온다.
+
+
+
+
+---
+
+## 1. **이미지의 이진(Binary) 표현과 Blob**
+
+- 이미지는 픽셀 데이터의 집합으로, **010101... 형태의 이진 코드**로 표현됩니다.
+    
+- **Blob(Binary Large Object)**은 이진 데이터를 저장하는 객체로, 이미지의 원시 데이터를 그대로 다룰 수 있습니다.
+    
+- **프론트엔드에서의 Blob 활용**:
+    
+    - 이미지 편집(리사이징, 회전, 필터 적용)은 픽셀 단위 조작이 필요하며, 이진 데이터인 Blob 상태에서만 가능합니다.
+        
+    - 예: `canvas`를 이용해 이미지를 Blob으로 변환 후 편집 ([예시 코드](https://www.perplexity.ai/search/wae-eonoteisyeoneun-ceos-geulj-I.hjR7vcSiS6LdrOm9xqdw#code-snippet)).
+        
+
+javascript
+
+`// Canvas를 통해 이미지 편집 후 Blob 생성 예시 const canvas = document.createElement('canvas'); const ctx = canvas.getContext('2d'); ctx.drawImage(img, 0, 0); canvas.toBlob((blob) => {   // Blob을 서버로 전송 또는 로컬 처리 }, 'image/png');`
+
+## 2. **위변조 검사의 이점**
+
+- **이진 데이터 비교**: 이미지를 Blob으로 저장하면 해시값(SHA-256 등)을 생성해 위변조를 쉽게 감지할 수 있습니다.
+    
+    - 픽셀 비교보다 효율적이며, 작은 변경도 감지 가능합니다.
+        
+- 예: 원본 Blob의 해시값과 비교 → 불일치 시 위변조 경고.
+    
+
+## 3. **프론트엔드 이미지 처리 흐름**
+
+1. 사용자가 이미지 업로드 → `FileReader`로 Blob 변환.
+    
+2. `canvas`를 통해 픽셀 단위 편집.
+    
+3. 편집된 이미지를 Blob으로 변환 후 서버 전송.
+    
+
+## 4. **백엔드와 CDN 연동**
+
+- **Blob 저장**: Azure Blob Storage, AWS S3 등의 클라우드 스토리지에 원본 이미지 저장[](https://www.keycdn.com/support/azure-blob-cdn)
+    
+
+[](https://reintech.io/blog/integrating-azure-cdn-with-blob-storage-for-faster-content-delivery)- .
+    
+- **CDN 캐싱**:
+    
+    - 자주 요청되는 이미지는 CDN 엣지 서버에 캐싱 → 전송 속도 향상.
+        
+    - 변경 시 CDN 캐시 무효화(purge)로 최신 상태 유지[](https://www.keycdn.com/support/azure-blob-cdn)
+        
+[](https://reintech.io/blog/integrating-azure-cdn-with-blob-storage-for-faster-content-delivery)
+
+- - .
+        
+
+bash
+
+`# Azure CLI를 이용한 CDN 설정 예시 (검색 결과 6 참고) az cdn endpoint create --name <CDN엔드포인트> --origin <Blob스토리지URL>`
+
+## 5. **핵심 아키텍처**
+
+text
+
+`[프론트엔드]  이미지 → Blob 변환 → canvas 편집 → Blob 전송                 │                ▼ [백엔드]     Blob Storage에 원본 저장 → CDN 캐싱 → 사용자에게 빠른 전달`
+
+## **왜 Blob과 CDN을 사용할까?**
+
+- **Blob**: 이미지의 원시 데이터 보존 → 정확한 픽셀 조작 가능.
+    
+- **CDN**: 지리적 분산 캐싱 → 50~80% latency 감소 (검색 결과 6).
+    
+- **비용 효율**: 트래픽 분산으로 서버 부하 감소 (검색 결과 4).
+    
+
+## 사례별 활용
+
+- **캔바(Canva)**: Blob 기반 이미지 편집 후 CDN으로 전송하는 대표적 사례.
+    
+- **이커머스**: 제품 이미지 리사이징 + CDN 캐싱으로 페이지 로딩 최적화.
