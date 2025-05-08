@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/JAVA/2개의 테이블, D구현.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memo"
+              "title": "2개의 테이블, D구현"
             }
           },
           {
@@ -55,26 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/2개의 테이블, FK 수정 U.md",
+                "file": "content/JAVA/java에서의 대소문자의 의미.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2개의 테이블, FK 수정 U"
-            }
-          },
-          {
-            "id": "912fffd7bb33e344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORM과 SQL Mapper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ORM과 SQL Mapper"
+              "title": "java에서의 대소문자의 의미"
             }
           },
           {
@@ -90,9 +76,23 @@
               "icon": "lucide-file",
               "title": "JPA의 동작방식"
             }
+          },
+          {
+            "id": "83e7922d0172d196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/java에서의 대소문자의 의미.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java에서의 대소문자의 의미"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -231,6 +231,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -240,13 +241,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6376989eff83a9b1",
+  "active": "83e7922d0172d196",
   "lastOpenFiles": [
-    "content/JAVA/2개의 테이블, R 구현.md",
+    "content/JAVA/2개의 테이블, D구현.md",
+    "content/memo.md",
+    "content/JAVA/java에서의 대소문자의 의미.md",
+    "ORM과 SQL Mapper.md",
     "content/JAVA/2개의 테이블, FK 수정 U.md",
+    "content/JAVA/2개의 테이블, R 구현.md",
     "content/JAVA/2개의 테이블, 단일 데이터 R.md",
     "content/JAVA/Date Formatter.md",
-    "content/memo.md",
     "content/Next js/GCP를 이용한 db세팅.md",
     "content/DB/프로시저.md",
     "public/google0754f04175d13a2f.html",
@@ -269,9 +273,6 @@
     "content/git/원격저장소에 있는것 가져오기  git clone.md",
     "content/git/원격저장소.md",
     "content/git/원격저장소 연결 git remote.md",
-    "content/git/깃랩팀작업하기.md",
-    "content/Next js/next js 기본 세팅.md",
-    "content/Next js/Next js.md",
     "content/Next js",
     "content/DOGLOG project",
     "content/typescript",
