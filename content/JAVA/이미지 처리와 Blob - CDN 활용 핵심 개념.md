@@ -1,6 +1,6 @@
 이미지를 010101... 컴퓨터가 이해하기 쉽게 코드로 짤라넣을 수 있는 상태
 
-> 사인데이터는 참고로 blob으로 저장한다. 위변조 검사할때 이미지끼리 비교하는건 힘들고 바이너리끼리 저장하는건 쉬우니까.
+> 사인데이터는 참고로 blob으로 저장한다. 위변조 검사할때 이미지끼리 비교하는건 힘들고 바이너리끼리 저장하는건 쉬우니까. 이미지를 Blob으로 저장하면 해시값(SHA-256 등)을 생성해 위변조를 쉽게 감지할 수 있습니다.
 
 
 ### 프론트 입장에서의 BLOB활용
@@ -30,33 +30,21 @@ cdn에다가 저장하고 해당내용만 백에서 가져온다.
 
 ---
 
-## 1. **이미지의 이진(Binary) 표현과 Blob**
+## **이미지의 이진(Binary) 표현과 Blob**
 
-- 이미지는 픽셀 데이터의 집합으로, **010101... 형태의 이진 코드**로 표현됩니다.
-    
-- **Blob(Binary Large Object)**은 이진 데이터를 저장하는 객체로, 이미지의 원시 데이터를 그대로 다룰 수 있습니다.
-    
+- 이미지는 픽셀 데이터의 집합으로, **010101... 형태의 이진 코드**로 표현된다.
+- **Blob(Binary Large Object)**은 이진 데이터를 저장하는 객체로, 이미지의 원시 데이터를 그대로 다룰 수 있다.
 - **프론트엔드에서의 Blob 활용**:
-    
     - 이미지 편집(리사이징, 회전, 필터 적용)은 픽셀 단위 조작이 필요하며, 이진 데이터인 Blob 상태에서만 가능합니다.
-        
-    - 예: `canvas`를 이용해 이미지를 Blob으로 변환 후 편집 ([예시 코드](https://www.perplexity.ai/search/wae-eonoteisyeoneun-ceos-geulj-I.hjR7vcSiS6LdrOm9xqdw#code-snippet)).
+    - 예: `canvas`를 이용해 이미지를 Blob으로 변환 후 편집
         
 
 javascript
 
 `// Canvas를 통해 이미지 편집 후 Blob 생성 예시 const canvas = document.createElement('canvas'); const ctx = canvas.getContext('2d'); ctx.drawImage(img, 0, 0); canvas.toBlob((blob) => {   // Blob을 서버로 전송 또는 로컬 처리 }, 'image/png');`
 
-## 2. **위변조 검사의 이점**
 
-- **이진 데이터 비교**: 이미지를 Blob으로 저장하면 해시값(SHA-256 등)을 생성해 위변조를 쉽게 감지할 수 있습니다.
-    
-    - 픽셀 비교보다 효율적이며, 작은 변경도 감지 가능합니다.
-        
-- 예: 원본 Blob의 해시값과 비교 → 불일치 시 위변조 경고.
-    
-
-## 3. **프론트엔드 이미지 처리 흐름**
+## **프론트엔드 이미지 처리 흐름**
 
 1. 사용자가 이미지 업로드 → `FileReader`로 Blob 변환.
     
@@ -65,22 +53,15 @@ javascript
 3. 편집된 이미지를 Blob으로 변환 후 서버 전송.
     
 
-## 4. **백엔드와 CDN 연동**
+## **백엔드와 CDN 연동**
 
-- **Blob 저장**: Azure Blob Storage, AWS S3 등의 클라우드 스토리지에 원본 이미지 저장[](https://www.keycdn.com/support/azure-blob-cdn)
-    
-
-[](https://reintech.io/blog/integrating-azure-cdn-with-blob-storage-for-faster-content-delivery)- .
+- **Blob 저장**: Azure Blob Storage, AWS S3 등의 클라우드 스토리지에 원본 이미지 저장
     
 - **CDN 캐싱**:
     
     - 자주 요청되는 이미지는 CDN 엣지 서버에 캐싱 → 전송 속도 향상.
         
     - 변경 시 CDN 캐시 무효화(purge)로 최신 상태 유지[](https://www.keycdn.com/support/azure-blob-cdn)
-        
-[](https://reintech.io/blog/integrating-azure-cdn-with-blob-storage-for-faster-content-delivery)
-
-- - .
         
 
 bash
