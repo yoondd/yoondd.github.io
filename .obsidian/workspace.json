@@ -41,40 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/JAVA/2개의 테이블, D구현.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memo"
-            }
-          },
-          {
-            "id": "6376989eff83a9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Next.js API Route로 안전한 회원가입 기능 만들기"
-            }
-          },
-          {
-            "id": "616c8e4ca37e13a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "2개의 테이블, D구현"
             }
           },
           {
@@ -83,16 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+                "file": "content/JAVA/(현업) 테이블에서 삭제를 구현하는 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next.js API Route로 안전한 회원가입 기능 만들기"
+              "title": "(현업) 테이블에서 삭제를 구현하는 방법"
+            }
+          },
+          {
+            "id": "83e7922d0172d196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js 회원가입 폼 구현과 GCP DB 연동 실습"
+            }
+          },
+          {
+            "id": "e67dda37a6d805a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/lombok은 언제 작동하는가?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lombok은 언제 작동하는가?"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 317.5
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -231,46 +231,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6376989eff83a9b1",
+  "active": "83e7922d0172d196",
   "lastOpenFiles": [
-    "content/Next js/front setting -  회원가입 tsx.md",
-    "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+    "content/Next js/Next.js에서 bcrypt 사용법.md",
     "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
     "content/Next js/Next.js 파일명, 라우팅, CSS 모듈, 그리고 경로 별칭 정리.md",
-    "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
-    "conflict-files-obsidian-git.md",
     "content/Next js/GCP를 이용한 db세팅.md",
-    "content/JAVA/JPA의 동작방식.md",
-    "content/Next js/app.tsx....md",
+    "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
+    "content/Next js/Next js 설치.md",
     "content/Next js/next js 기본 세팅.md",
-    "content/JAVA/기본 CRUD/생성자주입.md",
-    "content/JAVA/기본 CRUD/데이터 가져오기.md",
-    "content/JAVA/기본 CRUD/한달간의 데이터 뽑아내기.md",
-    "content/JAVA/기본 CRUD",
-    "content/JAVA/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+    "content/JAVA/여러개 테이블/외래키 있는 entity연결하기.md",
     "content/JAVA/여러개 테이블/2개의 테이블, 단일 데이터 R.md",
-    "content/JAVA/여러개 테이블",
-    "content/JAVA/2개 이상의 테이블.md",
-    "content/JAVA/자바의 클래스.md",
-    "content/JAVA/컨트롤러 분리하는 기준.md",
-    "content/JAVA/lombok은 언제 작동하는가?.md",
-    "content/JAVA/java에서의 대소문자의 의미.md",
-    "content/JAVA/여러개 테이블/2개의 테이블, D구현.md",
-    "content/JAVA/(현업) 테이블에서 삭제를 구현하는 방법.md",
-    "content/memo.md",
-    "content/JAVA/Date Formatter.md",
     "content/JAVA/여러개 테이블/2개의 테이블, R 구현.md",
     "content/JAVA/여러개 테이블/2개의 테이블, FK 수정 U.md",
+    "content/JAVA/여러개 테이블/2개의 테이블, D구현.md",
+    "content/JAVA/여러개 테이블",
+    "content/JAVA/기본 CRUD/한달간의 데이터 뽑아내기.md",
+    "content/JAVA/기본 CRUD/생성자주입.md",
+    "content/JAVA/기본 CRUD/데이터 가져오기.md",
+    "content/JAVA/기본 CRUD",
+    "content/JAVA/컨트롤러 분리하는 기준.md",
+    "content/JAVA/(현업) 테이블에서 삭제를 구현하는 방법.md",
+    "content/JAVA/2개의 테이블, D구현.md",
+    "content/JAVA/java에서의 대소문자의 의미.md",
+    "content/JAVA/lombok은 언제 작동하는가?.md",
+    "content/JAVA/JPA의 동작방식.md",
+    "content/memo.md",
+    "ORM과 SQL Mapper.md",
+    "content/JAVA/2개의 테이블, FK 수정 U.md",
     "public/google0754f04175d13a2f.html",
     "google0754f04175d13a2f.html",
     "content/🐶 DOGLOG project",
