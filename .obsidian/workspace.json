@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/front setting -  회원가입 tsx.md",
+                "file": "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "front setting -  회원가입 tsx"
+              "title": "이미지 처리와 Blob - CDN 활용 핵심 개념"
             }
           },
           {
@@ -229,10 +229,10 @@
   },
   "active": "6376989eff83a9b1",
   "lastOpenFiles": [
+    "content/Next js/front setting -  회원가입 tsx.md",
     "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
     "content/Next js/GCP를 이용한 db세팅.md",
     "content/JAVA/JPA의 동작방식.md",
-    "content/Next js/front setting -  회원가입 tsx.md",
     "content/Next js/app.tsx....md",
     "content/Next js/next js 기본 세팅.md",
     "content/JAVA/기본 CRUD/생성자주입.md",
