@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/git/팀작업 git 수행절차.md",
+                "file": "content/람다 Lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "팀작업 git 수행절차"
+              "title": "람다 Lambda"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/git/팀작업 git 수행절차.md",
+                "file": "content/람다 Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 팀작업 git 수행절차"
+              "title": "Backlinks for 람다 Lambda"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/git/팀작업 git 수행절차.md",
+                "file": "content/람다 Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 팀작업 git 수행절차"
+              "title": "Outgoing links from 람다 Lambda"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/git/팀작업 git 수행절차.md",
+                "file": "content/람다 Lambda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 팀작업 git 수행절차"
+              "title": "Outline of 람다 Lambda"
             }
           }
         ]
@@ -185,9 +185,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3222cc213081cb1d",
+  "active": "31d04e57ffee597f",
   "lastOpenFiles": [
-    "content/git/Jenkins.md",
-    "content/git/팀작업 git 수행절차.md"
+    "content/git/팀작업 git 수행절차.md",
+    "content/람다 Lambda.md",
+    "content/git/Jenkins.md"
   ]
 }
