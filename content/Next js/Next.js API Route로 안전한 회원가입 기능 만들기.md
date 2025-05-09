@@ -77,3 +77,8 @@ const backSignFunction = async (req: NextApiRequest, res: NextApiResponse) => {
   
 export default backSignFunction;
 ```
+
+
+여기까지 했으면 이제  front세팅으로 가볼까?
+
+[[front setting -  회원가입 tsx]]
