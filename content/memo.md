@@ -18,3 +18,17 @@ https://particles.js.org/
 
 remote테스트중입니다.... test2a
 
+---
+
+
+
+요구사항 정의서,
+와이어프레임,
+데이터베이스 설계(엑셀)
+
+제목: 팀명 / 주제
+첨부파일 3개 보내고, 내용에 팀원이름 전체 기재 필수
+
+privsqcloud 
+
+@gmail.com
