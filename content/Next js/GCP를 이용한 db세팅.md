@@ -88,3 +88,12 @@ openssl rand -base64 32
 ```ts
 JWT_SECRET = IBkGrPJzXYnDmwZAIZPkACi5RpbXGSTKc7heQrmZZrs=
 ```
+
+
+
+
+
+자, 
+이제 백작업을 해볼까?
+
+[[Next.js API Route로 안전한 회원가입 기능 만들기]]
