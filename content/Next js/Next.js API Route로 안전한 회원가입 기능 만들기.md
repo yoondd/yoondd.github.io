@@ -79,10 +79,6 @@ export default backSignFunction;
 ```
 
 
-여기까지 했으면 이제  front세팅으로 가볼까?
-
-<<<<<<< HEAD
-[[front setting -  회원가입 tsx]]
-=======
+여기까지 했으면 이제  front세팅으로 가보자고.
 [[Next.js 회원가입 폼 구현과 GCP DB 연동 실습]]
->>>>>>> origin/main
+
