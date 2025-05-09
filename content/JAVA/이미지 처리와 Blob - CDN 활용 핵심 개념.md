@@ -39,52 +39,29 @@ cdn에다가 저장하고 해당내용만 백에서 가져온다.
     - 예: `canvas`를 이용해 이미지를 Blob으로 변환 후 편집
         
 
-javascript
-
-`// Canvas를 통해 이미지 편집 후 Blob 생성 예시 const canvas = document.createElement('canvas'); const ctx = canvas.getContext('2d'); ctx.drawImage(img, 0, 0); canvas.toBlob((blob) => {   // Blob을 서버로 전송 또는 로컬 처리 }, 'image/png');`
-
 
 ## **프론트엔드 이미지 처리 흐름**
 
 1. 사용자가 이미지 업로드 → `FileReader`로 Blob 변환.
-    
 2. `canvas`를 통해 픽셀 단위 편집.
-    
 3. 편집된 이미지를 Blob으로 변환 후 서버 전송.
     
 
 ## **백엔드와 CDN 연동**
 
 - **Blob 저장**: Azure Blob Storage, AWS S3 등의 클라우드 스토리지에 원본 이미지 저장
-    
 - **CDN 캐싱**:
-    
     - 자주 요청되는 이미지는 CDN 엣지 서버에 캐싱 → 전송 속도 향상.
-        
-    - 변경 시 CDN 캐시 무효화(purge)로 최신 상태 유지[](https://www.keycdn.com/support/azure-blob-cdn)
-        
+    - 변경 시 CDN 캐시 무효화(purge)로 최신 상태 유지
 
-bash
-
-`# Azure CLI를 이용한 CDN 설정 예시 (검색 결과 6 참고) az cdn endpoint create --name <CDN엔드포인트> --origin <Blob스토리지URL>`
-
-## 5. **핵심 아키텍처**
-
-text
-
-`[프론트엔드]  이미지 → Blob 변환 → canvas 편집 → Blob 전송                 │                ▼ [백엔드]     Blob Storage에 원본 저장 → CDN 캐싱 → 사용자에게 빠른 전달`
 
 ## **왜 Blob과 CDN을 사용할까?**
 
 - **Blob**: 이미지의 원시 데이터 보존 → 정확한 픽셀 조작 가능.
-    
-- **CDN**: 지리적 분산 캐싱 → 50~80% latency 감소 (검색 결과 6).
-    
-- **비용 효율**: 트래픽 분산으로 서버 부하 감소 (검색 결과 4).
-    
+- **CDN**: 지리적 분산 캐싱 → 50~80% latency 감소
+- **비용 효율**: 트래픽 분산으로 서버 부하 감소
 
 ## 사례별 활용
 
 - **캔바(Canva)**: Blob 기반 이미지 편집 후 CDN으로 전송하는 대표적 사례.
-    
-- **이커머스**: 제품 이미지 리사이징 + CDN 캐싱으로 페이지 로딩 최적화.
+- **이커머스**: 제품 이미지 리사이징 + CDN 캐싱으로 페이지 로딩 최적화.gi
