@@ -1,14 +1,70 @@
 {
   "main": {
-    "id": "aaf36a2e1141f395",
+    "id": "9a72078348b52cc5",
     "type": "split",
     "children": [
       {
-        "id": "484eea60cdc543dd",
+        "id": "7a8b5f8334b93594",
         "type": "tabs",
         "children": [
           {
-            "id": "ff997050c988469e",
+            "id": "cc02e84dbee270bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/git/branch/branch 만들기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "branch 만들기"
+            }
+          },
+          {
+            "id": "7b3173d8b0e07e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/react/Intersection Observer API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intersection Observer API"
+            }
+          },
+          {
+            "id": "1d5b98f9e7cd3270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/memo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "memo"
+            }
+          },
+          {
+            "id": "6376989eff83a9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js API Route로 안전한 회원가입 기능 만들기"
+            }
+          },
+          {
+            "id": "ec9b27f48305ff53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +76,37 @@
               "icon": "lucide-file",
               "title": "팀작업 git 수행절차"
             }
+          },
+          {
+            "id": "a04cef4f81eba285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js API Route로 안전한 회원가입 기능 만들기"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cca02aa3adfd8466",
+    "id": "8baae3213925dc19",
     "type": "split",
     "children": [
       {
-        "id": "83125c12e4601b09",
+        "id": "45d7b8c7c9e2e773",
         "type": "tabs",
         "children": [
           {
-            "id": "3222cc213081cb1d",
+            "id": "ec070b026d61fd21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +119,7 @@
             }
           },
           {
-            "id": "bde1a643e95f6b8f",
+            "id": "bc40937b8b5da85e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +136,7 @@
             }
           },
           {
-            "id": "a8c54e42cba10209",
+            "id": "646ebf1dad556852",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +149,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
-    "id": "1c5107a2f91d466a",
+    "id": "8b2173fa939cf7d1",
     "type": "split",
     "children": [
       {
-        "id": "8206a6ce2ddaca85",
+        "id": "c549496e8587949d",
         "type": "tabs",
         "children": [
           {
-            "id": "d62fd1049d22b148",
+            "id": "3169c0db0f9bef39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/git/팀작업 git 수행절차.md",
-                "collapseAll": false,
+                "file": "content/DB/프로시저.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,25 +175,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 팀작업 git 수행절차"
+              "title": "Backlinks for 프로시저"
             }
           },
           {
-            "id": "fe38949e9b65da45",
+            "id": "3ce480bbc5939851",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/git/팀작업 git 수행절차.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 팀작업 git 수행절차"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "c87e95b9da1d4d0a",
+            "id": "7b02a29f03e7be61",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +208,18 @@
             }
           },
           {
-            "id": "8e6283700a356b69",
+            "id": "35b5f774000204cb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/git/팀작업 git 수행절차.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 팀작업 git 수행절차"
+              "title": "Outline of index"
             }
           }
         ]
@@ -170,8 +241,54 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ff997050c988469e",
+  "active": "ec070b026d61fd21",
   "lastOpenFiles": [
-    "content/git/팀작업 git 수행절차.md"
+    "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+    "content/git/팀작업 git 수행절차.md",
+    "content/git/git rebase.md",
+    "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
+    "content/Next js/GCP를 이용한 db세팅.md",
+    "content/Next js/next js 기본 세팅.md",
+    "content/Next js/Next.js에서 bcrypt 사용법.md",
+    "conflict-files-obsidian-git.md",
+    "content/Next js/front setting -  회원가입 tsx.md",
+    "content/Next js/Next.js 파일명, 라우팅, CSS 모듈, 그리고 경로 별칭 정리.md",
+    "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
+    "content/JAVA/JPA의 동작방식.md",
+    "content/Next js/app.tsx....md",
+    "content/JAVA/기본 CRUD/생성자주입.md",
+    "content/JAVA/기본 CRUD/데이터 가져오기.md",
+    "content/JAVA/기본 CRUD/한달간의 데이터 뽑아내기.md",
+    "content/JAVA/기본 CRUD",
+    "content/JAVA/Untitled.md",
+    "content/JAVA/여러개 테이블/2개의 테이블, 단일 데이터 R.md",
+    "content/JAVA/여러개 테이블",
+    "content/JAVA/2개 이상의 테이블.md",
+    "content/JAVA/자바의 클래스.md",
+    "content/JAVA/컨트롤러 분리하는 기준.md",
+    "content/JAVA/lombok은 언제 작동하는가?.md",
+    "content/JAVA/java에서의 대소문자의 의미.md",
+    "content/JAVA/여러개 테이블/2개의 테이블, D구현.md",
+    "content/JAVA/(현업) 테이블에서 삭제를 구현하는 방법.md",
+    "content/memo.md",
+    "public/google0754f04175d13a2f.html",
+    "google0754f04175d13a2f.html",
+    "content/🐶 DOGLOG project",
+    "content/🍚 CodingTest",
+    "content/Next js",
+    "content/DOGLOG project",
+    "content/typescript",
+    "Pasted image 20250424170315.png",
+    "Pasted image 20250424155440.png",
+    "Pasted image 20250424180015.png",
+    "Pasted image 20250424174237.png",
+    "Pasted image 20250424174202.png",
+    "Pasted image 20250424165852.png",
+    "Pasted image 20250424165607.png",
+    "Pasted image 20250424161723.png",
+    "Pasted image 20250424161613.png",
+    "Pasted image 20250424161513.png",
+    "content/Developer",
+    "Untitled.canvas"
   ]
 }
