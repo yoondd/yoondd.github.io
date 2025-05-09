@@ -46,3 +46,27 @@ const isMatch = await bcrypt.compare(inputPassword, hashedPassword); // isMatch�
 - bcrypt는 비밀번호를 안전하게 암호화해서 저장하고, 로그인할 때 입력한 비밀번호랑 비교하는 데 쓰는 라이브러리야.
 - Next.js에서는 API Route나 서버 컴포넌트에서만 써야 해.
 - 보안 신경 쓸 땐 bcrypt가 필수
+
+
+---
+
+
+### 그럼 bcrypt는 nextjs에서만 쓸 수있는 라이브러리인가?
+
+아-니, bcrypt는 Next.js에서만 쓸 수 있는 라이브러리가 아니야.  
+bcrypt는 Node.js 환경에서 동작하는 일반적인 암호화(해시) 라이브러리라서,  
+Express, NestJS, Koa 같은 다른 Node.js 백엔드 프레임워크나 순수 Node.js 프로젝트에서도 똑같이 쓸 수 있어.
+
+단, bcrypt는 서버(백엔드)에서만 동작하고, 브라우저(클라이언트)에서는 쓸 수 없어.  
+Next.js에서 bcrypt를 쓰는 건, Next.js가 서버 기능(API Route 등)을 제공하기 때문이지,  
+bcrypt 자체가 Next.js 전용은 아니야.
+
+정리하면,  
+**bcrypt는 Node.js 서버 환경에서라면 어디서나 쓸 수 있는 라이브러리**야!
+
+
+
+
+#### 그럼 비밀번호가 맞았는지 틀렸는지는 서버가 비교해야겠네?
+
+당연하지..!!! 비밀번호 비교는 서버에서 bcrypt.compare로 처리하고 프론트엔드는 절대로 비밀번호 해시값을 다루면 안돼!!!!!!!!!!!!!!!!!!!!

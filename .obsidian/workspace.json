@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
+                "file": "content/Next js/Next.js에서 bcrypt 사용법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next.js 회원가입 폼 구현과 GCP DB 연동 실습"
+              "title": "Next.js에서 bcrypt 사용법"
             }
           },
           {
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 200
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -243,8 +243,8 @@
   },
   "active": "83e7922d0172d196",
   "lastOpenFiles": [
-    "content/Next js/Next.js에서 bcrypt 사용법.md",
     "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
+    "content/Next js/Next.js에서 bcrypt 사용법.md",
     "content/Next js/Next.js 파일명, 라우팅, CSS 모듈, 그리고 경로 별칭 정리.md",
     "content/Next js/GCP를 이용한 db세팅.md",
     "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
