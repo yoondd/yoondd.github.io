@@ -60,8 +60,8 @@ export default (() => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta property="og:description" content={description} />
-        <meta property="og:image:alt" content={description} />
+        <meta property="og:description" content="개발자 윤혜경의 개발블로그입니다" />
+        <meta property="og:image:alt" content="https://yoondd.github.io/TIL/link-blog.jpg" />
 
         {!usesCustomOgImage && (
           <>
