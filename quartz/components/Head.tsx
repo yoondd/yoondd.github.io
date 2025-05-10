@@ -53,21 +53,21 @@ export default (() => {
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+<meta name="naver-site-verification" content="dbbf35021764711a08f8dc98cf9b9e298253d232" />
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta property="og:description" content={description} />
-        <meta property="og:image:alt" content={description} />
+        <meta property="og:description" content="개발자 윤혜경의 개발블로그입니다" />
+        <meta property="og:image:alt" content="https://yoondd.github.io/TIL/link-blog.jpg" />
 
         {!usesCustomOgImage && (
           <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
+            <meta property="og:image" content="https://yoondd.github.io/TIL/link-blog.jpg" />
+            <meta property="og:image:url" content="https://yoondd.github.io/TIL/link-blog.jpg" />
+            <meta name="twitter:image" content="https://yoondd.github.io/TIL/link-blog.jpg" />
             <meta
               property="og:image:type"
               content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
