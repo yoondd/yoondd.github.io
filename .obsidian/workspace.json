@@ -8,63 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f99e4276c99c824",
+            "id": "cc02e84dbee270bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/Map.md",
+                "file": "content/git/branch/branch 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map"
+              "title": "branch 만들기"
             }
           },
           {
-            "id": "eb6b88a999b8b318",
+            "id": "7b3173d8b0e07e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
+                "file": "content/react/Intersection Observer API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7일차. 문자열 겹쳐쓰기"
+              "title": "Intersection Observer API"
             }
           },
           {
-            "id": "69b4b91b4e95c5a2",
+            "id": "1d5b98f9e7cd3270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Node js/JS의 배열고차함수.md",
+                "file": "content/memo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS의 배열고차함수"
+              "title": "memo"
             }
           },
           {
-            "id": "8c07fe4d4af8fe73",
+            "id": "6376989eff83a9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/valueOf.md",
+                "file": "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "valueOf"
+              "title": "Next.js API Route로 안전한 회원가입 기능 만들기"
+            }
+          },
+          {
+            "id": "ec9b27f48305ff53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Troubleshooting/Next.js 깃에서 바로 받아서 쓸 수 있을까.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js 깃에서 바로 받아서 쓸 수 있을까"
+            }
+          },
+          {
+            "id": "a04cef4f81eba285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js API Route로 안전한 회원가입 기능 만들기"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -137,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Node js/JS의 배열고차함수.md",
+                "file": "content/DB/프로시저.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JS의 배열고차함수"
+              "title": "Backlinks for 프로시저"
             }
           },
           {
@@ -203,64 +231,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8c07fe4d4af8fe73",
+  "active": "ec9b27f48305ff53",
   "lastOpenFiles": [
-    "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
-    "content/Node js/server.js 만들기.md",
-    "content/JAVA/valueOf.md",
-    "content/JAVA/Spring boot/FK걸린 DB - all read.md",
-    "conflict-files-obsidian-git.md",
+    "content/Troubleshooting/Cors Error.md",
+    "content/Troubleshooting/Next.js 깃에서 바로 받아서 쓸 수 있을까.md",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
-    "content/🍚 CodingTest/6일차. 덧셈식 출력하기.md",
-    "content/🍚 CodingTest/5일차. 특수문자 출력하기.md",
+    "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
+    "content/JAVA/valueOf.md",
+    "content/JAVA/Spring boot/FK걸린 DB - all read.md",
     "content/git/팀작업 git 수행절차.md",
-    "content/git/자바 스프링부트 프로젝트 가져오기.md",
-    "content/git/원격저장소에 있는것 가져오기  git clone.md",
-    "content/git/원격저장소.md",
-    "content/git/원격저장소 연결 git remote.md",
-    "content/git/git rebase.md",
-    "content/git/Jenkins.md",
-    "content/Troubleshooting/Cors Error.md",
+    "content/memo.md",
     "content/Troubleshooting",
+    "conflict-files-obsidian-git.md",
+    "content/JAVA/람다 Lambda.md",
+    "content/git/Jenkins.md",
+    "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+    "content/git/git rebase.md",
+    "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
+    "content/Next js/GCP를 이용한 db세팅.md",
     "content/Next js/next js 기본 세팅.md",
     "content/Next js/Next.js에서 bcrypt 사용법.md",
-    "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
+    "content/Next js/front setting -  회원가입 tsx.md",
     "content/Next js/Next.js 파일명, 라우팅, CSS 모듈, 그리고 경로 별칭 정리.md",
-    "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
-    "content/Next js/Next js.md",
-    "content/Next js/Next js 설치.md",
-    "content/Next js/GCP를 이용한 db세팅.md",
-    "content/Next js",
-    "content/JAVA/컨트롤러 분리하는 기준.md",
     "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
-    "content/JAVA/여러개 테이블/외래키 있는 entity연결하기.md",
-    "content/JAVA/여러개 테이블",
+    "content/JAVA/JPA의 동작방식.md",
+    "content/Next js/app.tsx....md",
+    "content/JAVA/기본 CRUD/생성자주입.md",
+    "content/JAVA/기본 CRUD/데이터 가져오기.md",
+    "content/JAVA/기본 CRUD/한달간의 데이터 뽑아내기.md",
     "content/JAVA/기본 CRUD",
-    "public/sql/mysql/workbench-강제종료문제.html",
-    "public/sql/mysql/import-DB-og-image.webp",
-    "public/sql/mysql/workbench-강제종료문제-og-image.webp",
-    "public/sql/mysql/index.html",
-    "public/sql/mysql/import-DB.html",
-    "public/sql/mysql/View.html",
-    "public/sql/mysql/PREPARE--and--EXECUTE.html",
-    "public/sql/mysql/View-og-image.webp",
-    "public/sql/mysql/PREPARE--and--EXECUTE-og-image.webp",
-    "public/sql/postgreSQL/postgreSQL-삭제하기.html",
-    "public/sql/postgreSQL/postgreSQL-삭제하기-og-image.webp",
-    "public/sql/DBeaver-og-image.webp",
-    "public/react/흐르는-슬라이드--and--scroll-대응-모션-og-image.webp",
+    "content/JAVA/Untitled.md",
+    "content/JAVA/여러개 테이블/2개의 테이블, 단일 데이터 R.md",
+    "content/JAVA/여러개 테이블",
+    "public/google0754f04175d13a2f.html",
+    "google0754f04175d13a2f.html",
+    "content/🐶 DOGLOG project",
+    "content/🍚 CodingTest",
+    "content/Next js",
+    "content/DOGLOG project",
+    "content/typescript",
+    "Pasted image 20250424170315.png",
+    "Pasted image 20250424155440.png",
+    "Pasted image 20250424180015.png",
+    "Pasted image 20250424174237.png",
+    "Pasted image 20250424174202.png",
+    "Pasted image 20250424165852.png",
+    "Pasted image 20250424165607.png",
     "Untitled.canvas"
   ]
 }
