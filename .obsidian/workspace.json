@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Troubleshooting/Next.js 깃에서 바로 받아서 쓸 수 있을까.md",
+                "file": "content/🍚 CodingTest/8일차. 문자열 섞기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next.js 깃에서 바로 받아서 쓸 수 있을까"
+              "title": "8일차. 문자열 섞기"
             }
           },
           {
@@ -243,12 +243,13 @@
   },
   "active": "ec9b27f48305ff53",
   "lastOpenFiles": [
-    "content/Troubleshooting/Cors Error.md",
+    "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
+    "content/🍚 CodingTest/8일차. 문자열 섞기.md",
     "content/Troubleshooting/Next.js 깃에서 바로 받아서 쓸 수 있을까.md",
+    "content/Troubleshooting/Cors Error.md",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
-    "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
     "content/JAVA/valueOf.md",
     "content/JAVA/Spring boot/FK걸린 DB - all read.md",
     "content/git/팀작업 git 수행절차.md",
@@ -273,7 +274,6 @@
     "content/JAVA/기본 CRUD/한달간의 데이터 뽑아내기.md",
     "content/JAVA/기본 CRUD",
     "content/JAVA/Untitled.md",
-    "content/JAVA/여러개 테이블/2개의 테이블, 단일 데이터 R.md",
     "content/JAVA/여러개 테이블",
     "public/google0754f04175d13a2f.html",
     "google0754f04175d13a2f.html",
