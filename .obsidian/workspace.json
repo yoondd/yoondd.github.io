@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Math/n 이하 짝수의 제곱의 합.md",
+                "file": "content/Next js/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n 이하 짝수의 제곱의 합"
+              "title": "Untitled"
             }
           }
         ],
@@ -243,8 +243,9 @@
   },
   "active": "a04cef4f81eba285",
   "lastOpenFiles": [
-    "content/🍚 CodingTest/10일차. 홀짝에 따라 다른 값 반환하기.md",
     "content/Math/n 이하 짝수의 제곱의 합.md",
+    "content/Next js/Untitled.md",
+    "content/🍚 CodingTest/10일차. 홀짝에 따라 다른 값 반환하기.md",
     "content/Math/등차수열의 합.md",
     "content/Next js/GCP를 이용한 db세팅.md",
     "content/Math",
@@ -273,7 +274,6 @@
     "content/Next js/front setting -  회원가입 tsx.md",
     "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
     "content/JAVA/JPA의 동작방식.md",
-    "content/Next js/app.tsx....md",
     "content/JAVA/기본 CRUD",
     "content/JAVA/여러개 테이블",
     "public/google0754f04175d13a2f.html",
