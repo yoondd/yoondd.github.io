@@ -34,7 +34,7 @@ export default loginfunction;
 이렇게 함수를 하나 딱. 만들어놓고, 순서대로 차근차근 기능을 구현해볼까?
 
 
-### 1) method부터 확인하고 아니라면 날려주기.
+ㅌ### 1) method부터 확인하고 아니라면 날려주기.
 
 ```tsx
 if(req.method !== 'POST') return res.status(405).json({ error: "Method not allowed" });  
