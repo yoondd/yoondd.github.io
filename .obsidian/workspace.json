@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/GCP를 이용한 db세팅.md",
+                "file": "content/🍚 CodingTest/10일차. 홀짝에 따라 다른 값 반환하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GCP를 이용한 db세팅"
+              "title": "10일차. 홀짝에 따라 다른 값 반환하기"
             }
           },
           {
@@ -83,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
+                "file": "content/Math/n 이하 짝수의 제곱의 합.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next.js API Route로 안전한 회원가입 기능 만들기"
+              "title": "n 이하 짝수의 제곱의 합"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,13 +241,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a04cef4f81eba285",
+  "active": "ec9b27f48305ff53",
   "lastOpenFiles": [
+    "content/Math/n 이하 짝수의 제곱의 합.md",
+    "content/🍚 CodingTest/10일차. 홀짝에 따라 다른 값 반환하기.md",
+    "content/Math/등차수열의 합.md",
+    "content/Next js/GCP를 이용한 db세팅.md",
+    "content/Math",
+    "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
     "content/Next js/Next.js 파일명, 라우팅, CSS 모듈, 그리고 경로 별칭 정리.md",
     "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
     "content/🍚 CodingTest/9일차. 더 크게 합치기.md",
-    "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
-    "content/Next js/GCP를 이용한 db세팅.md",
     "content/Next js/Next.js에서 bcrypt 사용법.md",
     "content/🍚 CodingTest/8일차. 문자열 섞기.md",
     "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
@@ -270,9 +274,6 @@
     "content/JAVA/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
     "content/JAVA/JPA의 동작방식.md",
     "content/Next js/app.tsx....md",
-    "content/JAVA/기본 CRUD/생성자주입.md",
-    "content/JAVA/기본 CRUD/데이터 가져오기.md",
-    "content/JAVA/기본 CRUD/한달간의 데이터 뽑아내기.md",
     "content/JAVA/기본 CRUD",
     "content/JAVA/여러개 테이블",
     "public/google0754f04175d13a2f.html",
@@ -281,7 +282,6 @@
     "content/🍚 CodingTest",
     "content/Next js",
     "content/DOGLOG project",
-    "content/typescript",
     "Pasted image 20250424170315.png",
     "Pasted image 20250424155440.png",
     "Pasted image 20250424180015.png",
