@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,10 +241,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ec9b27f48305ff53",
+  "active": "a04cef4f81eba285",
   "lastOpenFiles": [
-    "content/Math/n 이하 짝수의 제곱의 합.md",
     "content/🍚 CodingTest/10일차. 홀짝에 따라 다른 값 반환하기.md",
+    "content/Math/n 이하 짝수의 제곱의 합.md",
     "content/Math/등차수열의 합.md",
     "content/Next js/GCP를 이용한 db세팅.md",
     "content/Math",
