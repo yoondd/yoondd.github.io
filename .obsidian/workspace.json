@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🍚 CodingTest/9일차. 더 크게 합치기.md",
+                "file": "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9일차. 더 크게 합치기"
+              "title": "Next.js API Route로 안전한 회원가입 기능 만들기"
             }
           }
         ],
@@ -243,12 +243,12 @@
   },
   "active": "a04cef4f81eba285",
   "lastOpenFiles": [
+    "content/Next js/Next.js 파일명, 라우팅, CSS 모듈, 그리고 경로 별칭 정리.md",
+    "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
+    "content/🍚 CodingTest/9일차. 더 크게 합치기.md",
     "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
     "content/Next js/GCP를 이용한 db세팅.md",
-    "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
-    "content/Next js/Next.js 파일명, 라우팅, CSS 모듈, 그리고 경로 별칭 정리.md",
     "content/Next js/Next.js에서 bcrypt 사용법.md",
-    "content/🍚 CodingTest/9일차. 더 크게 합치기.md",
     "content/🍚 CodingTest/8일차. 문자열 섞기.md",
     "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
     "content/Troubleshooting/Next.js 깃에서 바로 받아서 쓸 수 있을까.md",
