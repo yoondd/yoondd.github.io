@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/프로젝트 피드백.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "memo"
+              "title": "프로젝트 피드백"
             }
           }
         ],
@@ -187,6 +187,8 @@
   },
   "active": "31d04e57ffee597f",
   "lastOpenFiles": [
+    "content/memo.md",
+    "content/프로젝트 피드백.md",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
