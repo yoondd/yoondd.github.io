@@ -1,8 +1,7 @@
+수업일자: 2025-05-12 
+# login.ts  - api 만들기
 
-# 1. login.ts  - api 만들기
-
-## 
-기본 import
+## 기본 import
 
 ```tsx
 import type { NextApiRequest, NextApiResponse } from 'next'; // api route사용을 위한 필수
@@ -131,3 +130,12 @@ res.setHeader('Set-Cookie', cookie);
 // 성공했다고보내주기  
 res.status(200).json({message: "Login Success"});  
 ```
+
+
+
+자, 여기까지 예쁘게 서버만들었으니 이제는 page로 넘어가볼까~?
+
+[[로그인 폼 구현하기]]
+
+다시 말하지만 nextjs의 api route는 너무 좋아서, 기본 리액트처럼 따로 써먹을필요가없이
+하나로 다 퉁칠수가있어. 전부 api에 들어가니까!
