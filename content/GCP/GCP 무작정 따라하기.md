@@ -1,3 +1,4 @@
+
 1. 콘솔에서 사용해보기
 	http://cloud.google.com/free?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-ko-dr-BKWS-all-core-athena-EXA-dr-1710102&utm_content=text-ad-none-none-DEV_c-CRE_668690472449-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+-GCP-General-core+brand-main-KWID_43700077514871058-kwd-87853815&userloc_9214122-network_g&utm_term=KW_gcp&gad_source=1&gclid=Cj0KCQjw2N2_BhCAARIsAK4pEkW4rf_1TBNHbh6EFZlosOwhEnA-s2KZa2HsUU1nwH_EqyddiBSyxUwaAiLQEALw_wcB&gclsrc=aw.ds&authuser=1
 
@@ -29,6 +30,14 @@
 
 6. 사용자 메뉴로 가서 root의 비밀번호를 변경했다
 	*내가 사용하는 비밀번호 중에 최고 난이도의 비밀번호로...🤨*
+
+
+
+---
+
+무작정 따라했던 이 내용을 다시 한번 차근히 정리해보았다
+
+[[Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지]]
 
 
 
