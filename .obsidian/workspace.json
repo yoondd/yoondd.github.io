@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/OSI 7계층.md",
+                "file": "content/Developer/OSI 7계층.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/db- 범용게시판.md",
+                "file": "content/DB/db- 범용게시판 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "db- 범용게시판"
+              "title": "db- 범용게시판 만들기"
             }
           }
         ],
@@ -187,8 +187,10 @@
   },
   "active": "d5cdf04ac8fa89c6",
   "lastOpenFiles": [
-    "content/OSI 7계층.md",
-    "content/db- 범용게시판.md",
+    "content/DB/DBeaver.md",
+    "content/DB/key.md",
+    "content/Developer/OSI 7계층.md",
+    "content/DB/db- 범용게시판 만들기.md",
     "content/git/팀장과 팀원의 역할구분.md",
     "content/git/팀작업 git 수행절차.md",
     "content/프로젝트 피드백.md",
@@ -215,7 +217,6 @@
     "content/JAVA/람다 Lambda.md",
     "content/JAVA/valueOf.md",
     "content/JAVA/Spring boot/FK걸린 DB - all read.md",
-    "content/람다 Lambda.md",
-    "content/git/Jenkins.md"
+    "content/람다 Lambda.md"
   ]
 }
