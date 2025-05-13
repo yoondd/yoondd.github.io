@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "9a72078348b52cc5",
+    "id": "aaf36a2e1141f395",
     "type": "split",
     "children": [
       {
-        "id": "7a8b5f8334b93594",
+        "id": "484eea60cdc543dd",
         "type": "tabs",
         "children": [
           {
-            "id": "ec9b27f48305ff53",
+            "id": "ff997050c988469e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
+                "file": "content/git/팀장과 팀원의 역할구분.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14일차👩🏻‍🏫 피드백 정리"
-            }
-          },
-          {
-            "id": "a04cef4f81eba285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지"
+              "title": "팀장과 팀원의 역할구분"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8baae3213925dc19",
+    "id": "cca02aa3adfd8466",
     "type": "split",
     "children": [
       {
-        "id": "45d7b8c7c9e2e773",
+        "id": "83125c12e4601b09",
         "type": "tabs",
         "children": [
           {
-            "id": "ec070b026d61fd21",
+            "id": "3222cc213081cb1d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "bc40937b8b5da85e",
+            "id": "bde1a643e95f6b8f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +65,7 @@
             }
           },
           {
-            "id": "646ebf1dad556852",
+            "id": "a8c54e42cba10209",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 300
   },
   "right": {
-    "id": "8b2173fa939cf7d1",
+    "id": "1c5107a2f91d466a",
     "type": "split",
     "children": [
       {
-        "id": "c549496e8587949d",
+        "id": "8206a6ce2ddaca85",
         "type": "tabs",
         "children": [
           {
-            "id": "3169c0db0f9bef39",
+            "id": "d62fd1049d22b148",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/DB/프로시저.md",
-                "collapseAll": true,
+                "file": "content/memo.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -118,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 프로시저"
+              "title": "Backlinks for memo"
             }
           },
           {
-            "id": "3ce480bbc5939851",
+            "id": "fe38949e9b65da45",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from memo"
             }
           },
           {
-            "id": "7b02a29f03e7be61",
+            "id": "c87e95b9da1d4d0a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,18 +137,18 @@
             }
           },
           {
-            "id": "35b5f774000204cb",
+            "id": "8e6283700a356b69",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/memo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of memo"
             }
           }
         ]
@@ -184,54 +170,35 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ec9b27f48305ff53",
+  "active": "ff997050c988469e",
   "lastOpenFiles": [
+    "content/git/팀작업 git 수행절차.md",
+    "content/git/팀장과 팀원의 역할구분.md",
     "content/프로젝트 피드백.md",
     "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
-    "content/GCP/Cloud shell에서 쿼리문 작성하기.md",
-    "content/GCP/GCP 무작정 따라하기.md",
     "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
     "content/GCP/GCP의 정적페이지 서비스.md",
-    "conflict-files-obsidian-git.md",
-    "content/Next js/로그인 폼 구현하기.md",
-    "content/git/branch/branch 만들기.md",
+    "content/GCP/GCP 무작정 따라하기.md",
     "content/memo.md",
-    "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
-    "content/Cron.md",
-    "content/index.md",
-    "content/Links.md",
-    "content/🍚 CodingTest/10일차. 홀짝에 따라 다른 값 반환하기.md",
-    "content/Next js/Next.js와 TypeScript를 활용한 로그인 API 구현 가이드.md",
-    "content/Math/n 이하 짝수의 제곱의 합.md",
-    "content/Math/등차수열의 합.md",
-    "content/Next js/GCP를 이용한 db세팅.md",
-    "content/Math",
-    "content/Next js/Next.js 파일명, 라우팅, CSS 모듈, 그리고 경로 별칭 정리.md",
-    "content/Next js/Next.js 회원가입 폼 구현과 GCP DB 연동 실습.md",
-    "content/🍚 CodingTest/9일차. 더 크게 합치기.md",
-    "content/Next js/Next.js에서 bcrypt 사용법.md",
-    "content/🍚 CodingTest/8일차. 문자열 섞기.md",
-    "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
-    "content/Troubleshooting/Next.js 깃에서 바로 받아서 쓸 수 있을까.md",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
+    "content/🍚 CodingTest/9일차. 더 크게 합치기.md",
+    "content/🍚 CodingTest/8일차. 문자열 섞기.md",
+    "content/🍚 CodingTest/7일차. 문자열 겹쳐쓰기.md",
+    "content/🍚 CodingTest/10일차. 홀짝에 따라 다른 값 반환하기.md",
+    "content/Troubleshooting/Next.js 깃에서 바로 받아서 쓸 수 있을까.md",
+    "content/Troubleshooting/Cors Error.md",
     "content/Troubleshooting",
-    "content/JAVA/기본 CRUD",
-    "content/JAVA/여러개 테이블",
-    "public/google0754f04175d13a2f.html",
-    "google0754f04175d13a2f.html",
-    "content/🐶 DOGLOG project",
-    "content/🍚 CodingTest",
-    "content/Next js",
-    "content/DOGLOG project",
-    "Pasted image 20250424170315.png",
-    "Pasted image 20250424155440.png",
-    "Pasted image 20250424180015.png",
-    "Pasted image 20250424174237.png",
-    "Pasted image 20250424174202.png",
-    "Pasted image 20250424165852.png",
-    "Pasted image 20250424165607.png",
-    "Untitled.canvas"
+    "content/Next js/로그인 폼 구현하기.md",
+    "content/Next js/Next.js와 TypeScript를 활용한 로그인 API 구현 가이드.md",
+    "content/Math/등차수열의 합.md",
+    "content/Math/n 이하 짝수의 제곱의 합.md",
+    "content/Math",
+    "content/JAVA/람다 Lambda.md",
+    "content/JAVA/valueOf.md",
+    "content/JAVA/Spring boot/FK걸린 DB - all read.md",
+    "content/람다 Lambda.md",
+    "content/git/Jenkins.md"
   ]
 }
