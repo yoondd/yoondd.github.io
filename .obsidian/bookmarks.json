@@ -98,7 +98,7 @@
               "type": "group",
               "ctime": 1746200225814,
               "items": [],
-              "title": "git"
+              "title": "Git"
             },
             {
               "type": "group",
@@ -128,12 +128,6 @@
               "type": "group",
               "ctime": 1746200225814,
               "items": [],
-              "title": "open api"
-            },
-            {
-              "type": "group",
-              "ctime": 1746200225814,
-              "items": [],
               "title": "React"
             },
             {
@@ -145,25 +139,7 @@
             {
               "type": "file",
               "ctime": 1746200225814,
-              "path": "content/Cron.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1746200225814,
               "path": "content/index.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1746200225814,
-              "path": "content/Links.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1746200225814,
-              "path": "content/memo.md",
               "subpath": "#^-"
             }
           ],
