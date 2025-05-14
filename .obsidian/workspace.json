@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/네이버 뉴스 api이용을 위한 next js세팅.md",
+                "file": "content/DB/ORM과 SQL Mapper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "네이버 뉴스 api이용을 위한 next js세팅"
+              "title": "ORM과 SQL Mapper"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/네이버 Developers의 이용하기(뉴스).md",
+                "file": "content/Next js/네이버 Developers의 이용하기(뉴스).md",
                 "mode": "source",
                 "source": false
               },
@@ -186,12 +186,15 @@
   },
   "active": "ec9b27f48305ff53",
   "lastOpenFiles": [
-    "content/네이버 Developers의 이용하기(뉴스).md",
-    "content/네이버 뉴스 api이용을 위한 next js세팅.md",
+    "README.md",
+    "content/DB/ORM과 SQL Mapper.md",
+    "CODE_OF_CONDUCT.md",
+    "content/DB/db-시큐리티.md",
+    "content/JAVA/공용API를 사용하는 경우 프로세스.md",
+    "content/Next js/네이버 Developers의 이용하기(뉴스).md",
+    "content/Next js/네이버 뉴스 api이용을 위한 next js세팅.md",
     "conflict-files-obsidian-git.md",
-    "content/공용API를 사용하는 경우 프로세스.md",
     "content/git/팀장과 팀원의 역할구분.md",
-    "content/db-시큐리티.md",
     "content/Developer/OSI 7계층.md",
     "content/DB/범용게시판 설계하기.md",
     "content/DB/DB 설계 연습(영업실적과 예치금).md",
@@ -209,9 +212,6 @@
     "content/Next js/Next.js API Route로 안전한 회원가입 기능 만들기.md",
     "content/Cron.md",
     "content/index.md",
-    "content/Links.md",
-    "content/🍚 CodingTest/10일차. 홀짝에 따라 다른 값 반환하기.md",
-    "content/Next js/Next.js와 TypeScript를 활용한 로그인 API 구현 가이드.md",
     "content/Math",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
