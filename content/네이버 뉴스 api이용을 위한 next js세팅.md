@@ -1,4 +1,8 @@
-## 가이드 확인
+이미 네이버 개발자도구에 어플리케이션을 생성했다는 전제하에 시작한다. 
+그거 안했으면 그거부터
+[[네이버 Developers의 이용하기(뉴스)]]
+
+## 1. 가이드 확인
 https://developers.naver.com/docs/serviceapi/search/news/news.md#%EB%89%B4%EC%8A%A4
 
 
@@ -8,9 +12,9 @@ https://developers.naver.com/docs/serviceapi/search/news/news.md#%EB%89%B4%EC%8A
 | ----------------------------------------------- | ----- |
 | `https://openapi.naver.com/v1/search/news.xml`  | XML   |
 | `https://openapi.naver.com/v1/search/news.json` | JSON  |
+|                                                 |       |
 
 #### 파라미터도 확인한다(쿼리)
-
 
 | 파라미터    | 타입      | 필수 여부 | 설명                                                                         |
 | ------- | ------- | ----- | -------------------------------------------------------------------------- |
@@ -20,8 +24,13 @@ https://developers.naver.com/docs/serviceapi/search/news/news.md#%EB%89%B4%EC%8A
 | sort    | String  | N     | 검색 결과 정렬 방법  <br>- `sim`: 정확도순으로 내림차순 정렬(기본값)  <br>- `date`: 날짜순으로 내림차순 정렬 |
 
 
+아하, 내가 이렇게 요청하면되는구나
+`https://openapi.naver.com/v1/search/news.json?query=날씨&display=15&sort=date`
 
-## server파일생성
+
+---
+
+## 2. server파일생성
 
 ```ts
 import { NextApiRequest, NextApiResponse } from 'next';  
@@ -33,3 +42,22 @@ export default NewsFunction;
 
 원래 공공 api는 이런게 필요없으나 네이버 뉴스의 보안등급이 높아서
 그걸 감추기위해서 사용한다
+
+
+#### 사용자가 입력한 내용 받아오기
+
+```ts
+const keywords = req.query.query || "뉴스";
+```
+
+#### naver 양식에 맞게 요청하면서 인코딩 추가 - encodeURIComponent
+
+```ts
+const response = await fetch(  
+    `https://openapi.naver.com/v1/search/news.json?query=${encodeURIComponent(keywords as string)}&sort=date`  
+);
+```
+
+검색어를 이상하게 쳐도 대응할 수 있게 만든다, 
+정확히는 자바스크립트에서 문자열을 URI(Uniform Resource Identifier) 구성요소로 안전하게 변환하기 위해 사용하는 함수로, 한글이나 특수문자 등 URL에서 의미가 달라질 수 있는 문자들을 UTF-8로 인코딩해서 %숫자형식(이스케이프 문자)으로 바꿔준다.
+
