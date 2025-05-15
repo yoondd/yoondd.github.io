@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec9b27f48305ff53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/DB/ORM과 SQL Mapper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ORM과 SQL Mapper"
-            }
-          },
-          {
             "id": "a04cef4f81eba285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/네이버 Developers의 이용하기(뉴스).md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "네이버 Developers의 이용하기(뉴스)"
+              "title": "index"
             }
           }
         ]
@@ -184,14 +170,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ec9b27f48305ff53",
+  "active": "a04cef4f81eba285",
   "lastOpenFiles": [
-    "README.md",
+    "content/Next js/네이버 Developers의 이용하기(뉴스).md",
     "content/DB/ORM과 SQL Mapper.md",
+    "README.md",
     "CODE_OF_CONDUCT.md",
     "content/DB/db-시큐리티.md",
     "content/JAVA/공용API를 사용하는 경우 프로세스.md",
-    "content/Next js/네이버 Developers의 이용하기(뉴스).md",
     "content/Next js/네이버 뉴스 api이용을 위한 next js세팅.md",
     "conflict-files-obsidian-git.md",
     "content/git/팀장과 팀원의 역할구분.md",

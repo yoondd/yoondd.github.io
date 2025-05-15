@@ -6,7 +6,7 @@ image: https://yoondd.github.io/TIL/link-blog.jpg
 ---
 
 
-# 👋 배움에 겁이 없는 윤혜경입니다
+# 👋 겁 없이 배웁니다
 
 <img src="https://i.imgur.com/QXuj0ht.png" width="200" />
 
