@@ -1,6 +1,21 @@
 
+## pretendard설치하기
+
+`npm install pretendard`
+
+그리고 `App.js` 또는 `index.js`에
+
+`import 'pretendard/dist/web/static/pretendard.css';`
+
+
+## _ variables.scss파일 생성
+
+
 ```scss
 // styles/_variables.scss
+
+// 폰트 지정
+$font-family-base: 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', '맑은 고딕', sans-serif;
 
 // 사용자 - 색상(Color)
 $color-primary: #58419C; /*보라*/
@@ -24,7 +39,6 @@ $color-background: #F2F2F2; /*밝은 회색*/
 $color-title: #232323; /*타이틀텍스트-검정*/
 $color-text: #6C6C6C; /*일반텍스트-진회색*/  
 $color-text-secondary: #BEBEBE; /*흐린텍스트-흐린회색*/
-
 
 
 
@@ -84,31 +98,16 @@ $breakpoint-desktop: 1024px;
 $breakpoint-large-desktop: 1200px;
 
 
+```
 
 
+## global.scss 에서 위 파일 불러오기
 
+```scss
+@import './variables';
 
-
-
-나중에 사용할 때,
-
-// styles/components/_button.scss
-
-@import '../variables';
-
-.button {
-  background: $color-primary;
-  color: $color-light;
-  font-size: $font-size-md;
-  border-radius: $radius-md;
-  box-shadow: $shadow-sm;
-  padding: $space-sm $space-md;
-  font-weight: $font-weight-bold;
-
-  &:hover {
-    background: $color-secondary;
-    box-shadow: $shadow-md;
-  }
+body {
+  font-family: $font-family-base;
 }
 
 ```
