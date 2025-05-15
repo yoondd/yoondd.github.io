@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
+                "file": "content/🐶 DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14일차👩🏻‍🏫 피드백 정리"
+              "title": "1일차🐶 프로젝트 주제 선정"
             }
           }
         ]
@@ -170,8 +170,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3222cc213081cb1d",
+  "active": "8844d92b2d508efa",
   "lastOpenFiles": [
+    "content/🐶 DOGLOG project/2일차📬 요구사항 정의서 제작.md",
+    "content/🐶 DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
+    "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
     "content/🐶 DOGLOG project/18일차🎨 프론트 config.md",
     "conflict-files-obsidian-git.md",
     "content/🐶 DOGLOG project/17일차 Entity생성.md",
@@ -179,7 +182,6 @@
     "content/🐶 DOGLOG project/16일차👾 Git&DB Setting.md",
     "content/Git/커밋 컨벤션.md",
     "content/🐶 DOGLOG project/16일차 Git Setting.md",
-    "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
     "content/🐶 DOGLOG project/18일차 프론트 config.md",
     "content/DB/db-시큐리티.md",
     "content/Developer/OSI 7계층.md",
@@ -199,8 +201,6 @@
     "content/JAVA/공용API를 사용하는 경우 프로세스.md",
     "content/DB/ORM과 SQL Mapper.md",
     "content/db-시큐리티.md",
-    "content/DB/범용게시판 설계하기.md",
-    "content/DB/데이터베이스 설계하기.md",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
