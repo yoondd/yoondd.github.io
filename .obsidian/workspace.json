@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Developer/OSI 7계층.md",
+                "file": "content/Next js/Next js 설치.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI 7계층"
+              "title": "Next js 설치"
             }
           },
           {
@@ -200,7 +200,9 @@
   },
   "active": "a04cef4f81eba285",
   "lastOpenFiles": [
+    "content/Next js/next js 기본 세팅.md",
     "content/🐶 DOGLOG project/18일차🎨 프론트 config.md",
+    "content/Developer/OSI 7계층.md",
     "content/YOON/이력서 작성 팁.md",
     "content/🐶 DOGLOG project/17일차🌱 Entity생성.md",
     "content/Git/커밋 컨벤션.md",
@@ -226,8 +228,6 @@
     "content/YOON",
     "content/React/흐르는 슬라이드 & scroll 대응 모션.md",
     "content/React/전역함수 쓰기.md",
-    "content/React/배포직전에404파일제작.md",
-    "content/React/모바일에서만 보이는 햄버거바 만들기.md",
     "content/React",
     "content/Git/branch",
     "content/Git",
