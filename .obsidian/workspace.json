@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🐶 DOGLOG project/18일차 프론트 config.md",
+                "file": "content/🐶 DOGLOG project/17일차 Entity생성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18일차 프론트 config"
+              "title": "17일차 Entity생성"
             }
           }
         ]
@@ -170,11 +170,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "931ebe3e0a1049ee",
+  "active": "3222cc213081cb1d",
   "lastOpenFiles": [
-    "content/🐶 DOGLOG project/17일차 Entity생성.md",
-    "content/🐶 DOGLOG project/18일차 프론트 config.md",
     "content/🐶 DOGLOG project/16일차 Git Setting.md",
+    "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
+    "content/🐶 DOGLOG project/18일차 프론트 config.md",
+    "content/🐶 DOGLOG project/17일차 Entity생성.md",
     "content/DB/db-시큐리티.md",
     "content/Developer/OSI 7계층.md",
     "content/Git/팀장과 팀원의 역할구분.md",
@@ -200,7 +201,6 @@
     "content/DB/DB 설계 연습(구두가게 창업).md",
     "content/DB/DBeaver.md",
     "content/DB/key.md",
-    "content/Git/팀작업 git 수행절차.md",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
