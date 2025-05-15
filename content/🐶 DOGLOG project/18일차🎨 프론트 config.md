@@ -10,7 +10,6 @@
 
 ## _ variables.scss파일 생성
 
-
 ```scss
 // styles/_variables.scss
 
@@ -57,13 +56,12 @@ $font-weight-medium: 500;
 $font-weight-bold: 700;
 $font-weight-black: 900;
 
-$line-height-sm: 1.2;
-$line-height-md: 1.5;
-$line-height-lg: 1.8;
+$line-height-sm: 130%;
+$line-height-md: 150%;
+$line-height-lg: 170%;
 
 $letter-spacing-normal: 0;
-$letter-spacing-wide: 0.05em;
-$letter-spacing-wider: 0.1em;
+$letter-spacing-small: -1px;
 
 // 여백(Spacing)
 $space-none: 0;
