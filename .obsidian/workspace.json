@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "931ebe3e0a1049ee",
+            "id": "8844d92b2d508efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🐶 DOGLOG project/17일차 Entity생성.md",
+                "file": "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17일차 Entity생성"
+              "title": "14일차👩🏻‍🏫 피드백 정리"
             }
           }
         ]
@@ -172,10 +172,15 @@
   },
   "active": "3222cc213081cb1d",
   "lastOpenFiles": [
+    "content/🐶 DOGLOG project/18일차🎨 프론트 config.md",
+    "conflict-files-obsidian-git.md",
+    "content/🐶 DOGLOG project/17일차 Entity생성.md",
+    "content/🐶 DOGLOG project/17일차🌱 Entity생성.md",
+    "content/🐶 DOGLOG project/16일차👾 Git&DB Setting.md",
+    "content/Git/커밋 컨벤션.md",
     "content/🐶 DOGLOG project/16일차 Git Setting.md",
     "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
     "content/🐶 DOGLOG project/18일차 프론트 config.md",
-    "content/🐶 DOGLOG project/17일차 Entity생성.md",
     "content/DB/db-시큐리티.md",
     "content/Developer/OSI 7계층.md",
     "content/Git/팀장과 팀원의 역할구분.md",
@@ -196,11 +201,6 @@
     "content/db-시큐리티.md",
     "content/DB/범용게시판 설계하기.md",
     "content/DB/데이터베이스 설계하기.md",
-    "content/DB/DB 설계 연습(영업실적과 예치금).md",
-    "content/DB/DB 설계 연습(사장님-알바생).md",
-    "content/DB/DB 설계 연습(구두가게 창업).md",
-    "content/DB/DBeaver.md",
-    "content/DB/key.md",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
