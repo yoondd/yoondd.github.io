@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Git/커밋 컨벤션.md",
+                "file": "content/Next js/Next js을 이용한 kakao map사용하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "커밋 컨벤션"
+              "title": "Next js을 이용한 kakao map사용하기"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "8b2173fa939cf7d1",
@@ -187,6 +188,8 @@
   },
   "active": "02d43c364c0449cf",
   "lastOpenFiles": [
+    "content/Git/커밋 컨벤션.md",
+    "content/Next js/Next js을 이용한 kakao map사용하기.md",
     "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
     "content/🐶 DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
     "content/프로젝트 피드백 - 휴대폰 인증.md",
@@ -198,7 +201,6 @@
     "content/Developer/OSI 7계층.md",
     "content/YOON/이력서 작성 팁.md",
     "content/🐶 DOGLOG project/17일차🌱 Entity생성.md",
-    "content/Git/커밋 컨벤션.md",
     "content/🐶 DOGLOG project/16일차👾 Git&DB Setting.md",
     "content/GCP/GCP 무작정 따라하기.md",
     "content/index.md",
@@ -213,7 +215,6 @@
     "content/🍚 CodingTest/프로그래머스/1일차. 등차수열의 특정한 항만 더하기.md",
     "content/🍚 CodingTest/프로그래머스/10일차. 홀짝에 따라 다른 값 반환하기.md",
     "content/🍚 CodingTest/프로그래머스",
-    "content/YOON/코딩테스트.md",
     "content/YOON",
     "content/React",
     "content/Git/branch",
