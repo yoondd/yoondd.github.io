@@ -42,3 +42,74 @@ JWT를 사용하는 인증 워크플로우는 다음과 같이 진행됩니다.
 (만료 시) 사용자 → 서버: 리프레시 토큰으로 액세스 토큰 재발급 요청
 ```
 
+
+
+---
+
+# 실제로 쓰이는 로직을 볼까?
+
+
+### 백엔드 - JWT 유틸리티 클래스 (토큰 생성)
+
+```java
+import io.jsonwebtoken.Jwts;
+import io.jsonwebtoken.SignatureAlgorithm;
+import java.util.Date;
+
+public class JwtUtil {
+    private final String secretKey = "yourSecretKey"; // 환경변수로 관리 권장
+
+    public String generateToken(String username, String role) {
+        return Jwts.builder()
+            .setSubject(username)
+            .claim("role", role)
+            .setIssuedAt(new Date())
+            .setExpiration(new Date(System.currentTimeMillis() + 1000 * 60 * 60)) // 1시간 유효
+            .signWith(SignatureAlgorithm.HS256, secretKey.getBytes())
+            .compact();
+    }
+}
+
+```
+
+아직.... 어떻게 토큰을 생성하는지에 대한 전반적인공부가 필요하다.
+
+
+
+### 프론트엔드 - 토큰 저장
+
+```tsx
+// 로그인 후 응답에서 JWT 추출
+const token = response.headers.get('Authorization').split(' ')[1];
+// 쿠키 또는 localStorage 등에 저장
+localStorage.setItem('jwt', token);
+
+```
+
+
+### 프론트엔드
+
+```java
+const token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...'; // 발급받은 JWT
+
+fetch('https://api.example.com/user/profile', {
+  method: 'GET',
+  headers: {
+    'Authorization': `Bearer ${token}`,
+    'Content-Type': 'application/json'
+  }
+});
+
+```
+
+
+### 백엔드
+
+```java
+String bearerToken = request.getHeader("Authorization");
+if (bearerToken != null && bearerToken.startsWith("Bearer ")) {
+    String token = bearerToken.substring(7); // "Bearer " 이후의 실제 JWT만 추출
+    // 토큰 검증 로직
+}
+
+```
