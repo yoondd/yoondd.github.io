@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "ai를 api형태로"
             }
+          },
+          {
+            "id": "711e2fc7652be0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/db.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,10 +199,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "17df93cae42f50ee",
+  "active": "711e2fc7652be0c0",
   "lastOpenFiles": [
-    "content/JAVA/채팅형태의 쪽지 구현하기.md",
+    "content/db.md",
     "content/ai를 api형태로.md",
+    "content/JAVA/채팅형태의 쪽지 구현하기.md",
     "content/Next js/반응형 디자인.md",
     "content/JAVA/JWT.md",
     "content/React/모바일에서만 보이는 햄버거바 만들기.md",
@@ -212,7 +227,6 @@
     "content/Developer/OSI 7계층.md",
     "content/Git/팀장과 팀원의 역할구분.md",
     "content/🍚 CodingTest/프로그래머스/1일차. 등차수열의 특정한 항만 더하기.md",
-    "content/YOON/코딩테스트.md",
     "content/🍚 CodingTest/프로그래머스",
     "content/YOON",
     "content/ETC",
