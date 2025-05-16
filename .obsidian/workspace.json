@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Next js/반응형 디자인.md",
+                "file": "content/JAVA/JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "반응형 디자인"
+              "title": "JWT"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "8844d92b2d508efa",
   "lastOpenFiles": [
-    "content/React/모바일에서만 보이는 햄버거바 만들기.md",
     "content/Next js/반응형 디자인.md",
+    "content/JAVA/JWT.md",
+    "content/React/모바일에서만 보이는 햄버거바 만들기.md",
     "content/Next js/kakao map 사용하기.md",
     "content/Next js/GCP를 이용한 db세팅.md",
     "conflict-files-obsidian-git.md",
@@ -198,7 +199,6 @@
     "content/🍚 CodingTest/프로그래머스",
     "content/YOON/memo.md",
     "content/YOON/이력서 작성 팁.md",
-    "content/YOON/Links.md",
     "content/YOON",
     "content/ETC",
     "quartz/static/og-image.jpg",
