@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
+                "file": "content/Data structure/Array, Array List, Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지"
+              "title": "Array, Array List, Linked List"
             }
           },
           {
@@ -202,11 +202,12 @@
   "active": "0d0134764e565021",
   "lastOpenFiles": [
     "content/Data structure/Array, Array List, Linked List.md",
+    "content/Data structure/Telegram/Array.md",
+    "content/Data structure/Telegram/ArrayList.md",
+    "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
     "content/Data structure/Telegram",
     "conflict-files-obsidian-git.md",
-    "content/Data structure/Telegram/ArrayList.md",
     "content/Data structure/Telegram/List.md",
-    "content/Data structure/Telegram/Array.md",
     "content/db.md",
     "content/ai를 api형태로.md",
     "content/JAVA/채팅형태의 쪽지 구현하기.md",
@@ -216,7 +217,6 @@
     "content/Next js/반응형 디자인.md",
     "content/Next js/kakao map 사용하기.md",
     "content/JAVA/JWT.md",
-    "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
     "content/🐶 DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
     "content/프로젝트 피드백 - 휴대폰 인증.md",
     "content/JAVA/ENUM.md",
