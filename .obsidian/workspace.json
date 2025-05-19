@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/자바스크립트.md",
+                "file": "content/javascript/mutable immutable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트"
+              "title": "mutable immutable"
             }
           }
         ],
@@ -215,7 +215,7 @@
   },
   "active": "093829b7c0aa1ab9",
   "lastOpenFiles": [
-    "content/javascript/자바스크립트.md",
+    "content/javascript/mutable immutable.md",
     "content/javascript",
     "content/Data structure/Telegram/버블정렬.md",
     "content/Data structure/Telegram/빅 오 표기법.md",
