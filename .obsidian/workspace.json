@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "버블정렬"
             }
+          },
+          {
+            "id": "093829b7c0aa1ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/javascript/자바스크립트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자바스크립트"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,10 +213,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "711e2fc7652be0c0",
+  "active": "093829b7c0aa1ab9",
   "lastOpenFiles": [
-    "content/Data structure/Telegram/빅 오 표기법.md",
+    "content/javascript/자바스크립트.md",
+    "content/javascript",
     "content/Data structure/Telegram/버블정렬.md",
+    "content/Data structure/Telegram/빅 오 표기법.md",
     "content/db.md",
     "content/Next js/오늘부터 할 전반적인 작업 흐름.md",
     "content/Math/log.md",
@@ -228,7 +244,6 @@
     "content/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
     "content/🐶 DOGLOG project/18일차🎨 프론트 config.md",
     "content/🐶 DOGLOG project/17일차 Entity생성.md",
-    "content/🐶 DOGLOG project/17일차🌱 Entity생성.md",
     "content/🍚 CodingTest/프로그래머스",
     "content/YOON",
     "content/ETC",
