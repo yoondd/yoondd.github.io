@@ -25,4 +25,4 @@ Elasticsearch, Logstash, Kibana의 앞글자를 딴 용어 - 이것들은 오픈
 채팅/로그전송이런거를 제외한 진짜 백엔드를 구축한다.
 
 
-[[컴파일언어 vs 인터프리터 언어]]
+[[content/JAVA/Java Lesson/컴파일언어 vs 인터프리터 언어]]
