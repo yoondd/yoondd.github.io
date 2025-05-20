@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/구조분해할당(디스트럭쳐링).md",
+                "file": "content/javascript/클로저 closure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "구조분해할당(디스트럭쳐링)"
+              "title": "클로저 closure"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "💜 Study List."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/javascript/구조분해할당(디스트럭쳐링).md",
+                "file": "content/javascript/💜 Study List..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 구조분해할당(디스트럭쳐링)"
+              "title": "Backlinks for 💜 Study List."
             }
           },
           {
@@ -195,11 +196,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "bc91f044e9d6d552",
+  "active": "0d0134764e565021",
   "lastOpenFiles": [
-    "Pasted image 20250520124626.png",
-    "content/javascript/💜 Study List..md",
+    "content/javascript/클로저 closure.md",
     "content/javascript/구조분해할당(디스트럭쳐링).md",
+    "content/javascript/💜 Study List..md",
+    "Pasted image 20250520124626.png",
     "content/javascript/null 과 undefined.md",
     "content/javascript/자바스크립트의 변수와 호이스팅.md",
     "content/javascript/DOM 트리 탐색하기.md",
@@ -242,7 +244,6 @@
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
     "Pasted image 20250424165852.png",
-    "Pasted image 20250424165607.png",
     "Untitled.canvas"
   ]
 }
