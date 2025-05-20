@@ -1,47 +1,19 @@
 {
   "main": {
-    "id": "aaf36a2e1141f395",
+    "id": "9a72078348b52cc5",
     "type": "split",
     "children": [
       {
-        "id": "88796cfd08dd54ed",
+        "id": "7a8b5f8334b93594",
         "type": "tabs",
         "children": [
           {
-            "id": "17df93cae42f50ee",
+            "id": "0d0134764e565021",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/리액트 설치와 실행명령.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "리액트 설치와 실행명령"
-            }
-          },
-          {
-            "id": "d4f9fd9eccf6b89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/javascript/자바스크립트의 변수와 호이스팅.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "자바스크립트의 변수와 호이스팅"
-            }
-          },
-          {
-            "id": "f746cc1df80487a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/javascript/💜 Study List..md",
+                "file": "content/💜 Study List..md",
                 "mode": "source",
                 "source": false
               },
@@ -50,49 +22,34 @@
             }
           },
           {
-            "id": "d80f593bcd4b4116",
+            "id": "2c2be1269a604886",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Google/AI Studio/AI API 발급.md",
+                "file": "content/Git/vercel로 배포하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI API 발급"
-            }
-          },
-          {
-            "id": "e52c7c9a9ee87e5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/React/화투점.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "화투점"
+              "title": "vercel로 배포하기"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cca02aa3adfd8466",
+    "id": "8baae3213925dc19",
     "type": "split",
     "children": [
       {
-        "id": "83125c12e4601b09",
+        "id": "45d7b8c7c9e2e773",
         "type": "tabs",
         "children": [
           {
-            "id": "3222cc213081cb1d",
+            "id": "ec070b026d61fd21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -105,7 +62,7 @@
             }
           },
           {
-            "id": "bde1a643e95f6b8f",
+            "id": "bc40937b8b5da85e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -122,7 +79,7 @@
             }
           },
           {
-            "id": "a8c54e42cba10209",
+            "id": "646ebf1dad556852",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -135,24 +92,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
-    "id": "1c5107a2f91d466a",
+    "id": "8b2173fa939cf7d1",
     "type": "split",
     "children": [
       {
-        "id": "8206a6ce2ddaca85",
+        "id": "c549496e8587949d",
         "type": "tabs",
         "children": [
           {
-            "id": "d62fd1049d22b148",
+            "id": "3169c0db0f9bef39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/memo.md",
-                "collapseAll": false,
+                "file": "content/💜 Study List..md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -161,25 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for memo"
+              "title": "Backlinks for 💜 Study List."
             }
           },
           {
-            "id": "fe38949e9b65da45",
+            "id": "3ce480bbc5939851",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from memo"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "c87e95b9da1d4d0a",
+            "id": "7b02a29f03e7be61",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,22 +151,22 @@
             }
           },
           {
-            "id": "8e6283700a356b69",
+            "id": "35b5f774000204cb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of memo"
+              "title": "Outline of index"
             }
           },
           {
-            "id": "7ce9c78bae8010dd",
+            "id": "07c7621a80323b1c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -218,7 +175,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -237,46 +195,54 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e52c7c9a9ee87e5d",
+  "active": "0d0134764e565021",
   "lastOpenFiles": [
-    "content/javascript/💜 Study List..md",
-    "content/React/화투점.md",
-    "content/Google/AI Studio/AI API 발급.md",
+    "content/Git/vercel로 배포하기.md",
+    "content/💜 Study List..md",
+    "content/React/SPA.md",
     "content/javascript/호이스팅 추가설명.md",
-    "content/Google/Untitled.md",
-    "content/Google/AI Studio",
+    "content/React/화투점.md",
+    "content/Google/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
+    "content/Google/GCP/GCP의 정적페이지 서비스.md",
+    "content/Google/GCP/GCP 무작정 따라하기.md",
     "content/Google/GCP/Cloud shell에서 쿼리문 작성하기.md",
+    "content/Google/AI Studio/AI API 발급.md",
     "content/Google/GCP",
-    "content/javascript/자바스크립트의 변수와 호이스팅.md",
-    "content/javascript/DOM.md",
-    "content/React/리액트 설치와 실행명령.md",
+    "content/Google/AI Studio",
+    "content/Google",
     "content/Data structure/Telegram/stack.md",
-    "content/JAVA/채팅형태의 쪽지 구현하기.md",
-    "conflict-files-obsidian-git.md",
     "content/React/리액트 컴포넌트 만들기.md",
-    "content/javascript/컴파일언어 vs 인터프리터 언어.md",
-    "content/javascript/mutable immutable.md",
-    "content/Developer/OSI 7계층.md",
-    "content/javascript/Study List..md",
-    "content/javascript/프로그래밍언어 종류.md",
-    "content/javascript/클로저 closure와 렉시컬 스코프.md",
-    "content/javascript/콜백과 프로미스.md",
-    "content/javascript/자바스크립트의 익명함수.md",
-    "content/javascript/일급객체.md",
-    "content/javascript/배열고차함수.md",
+    "content/React/리액트 설치와 실행명령.md",
+    "content/React/V-DOM.md",
     "content/javascript/미림쌤과 Node js에 대해 알아보기.md",
+    "content/javascript/배열고차함수.md",
+    "content/javascript/콜백과 프로미스.md",
+    "content/Node js/1. Node js.md",
     "content/javascript/동기와 비동기.md",
+    "content/javascript/클로저 closure와 렉시컬 스코프.md",
+    "content/javascript/일급객체.md",
+    "content/javascript/프로그래밍언어 종류.md",
+    "content/javascript/자바스크립트의 익명함수.md",
+    "Pasted image 20250520142516.png",
     "content/javascript/구조분해할당(디스트럭쳐링).md",
+    "Pasted image 20250520124626.png",
+    "content/javascript/null 과 undefined.md",
+    "content/javascript/자바스크립트의 변수와 호이스팅.md",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
     "content/🍚 CodingTest/프로그래머스",
     "content/YOON",
-    "content/ETC",
+    "content/React",
+    "content/Git/branch",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
-    "content/ETC/Troubleshooting",
-    "content/Math"
+    "Pasted image 20250424170315.png",
+    "Pasted image 20250424155440.png",
+    "Pasted image 20250424180015.png",
+    "Pasted image 20250424174237.png",
+    "Pasted image 20250424174202.png",
+    "Untitled.canvas"
   ]
 }
