@@ -30,4 +30,4 @@ DOM은 트리구조다.
 
 
 
-
+![](https://i.imgur.com/o6qiEFi.png)
