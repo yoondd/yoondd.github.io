@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "콜백과 프로미스"
             }
+          },
+          {
+            "id": "7a3e78ec577973f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/javascript/미림쌤과 Node js에 대해 알아보기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "미림쌤과 Node js에 대해 알아보기"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/javascript/배열고차함수.md",
+                "file": "content/javascript/미림쌤과 Node js에 대해 알아보기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 배열고차함수"
+              "title": "Backlinks for 미림쌤과 Node js에 대해 알아보기"
             }
           },
           {
@@ -224,11 +238,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "14fe22879b05a7e1",
+  "active": "7a3e78ec577973f4",
   "lastOpenFiles": [
-    "content/javascript/콜백과 프로미스.md",
     "content/javascript/💜 Study List..md",
     "content/javascript/배열고차함수.md",
+    "content/javascript/콜백과 프로미스.md",
+    "content/javascript/미림쌤과 Node js에 대해 알아보기.md",
+    "content/Node js/1. Node js.md",
+    "content/javascript/동기와 비동기.md",
     "content/javascript/클로저 closure와 렉시컬 스코프.md",
     "content/javascript/일급객체.md",
     "content/javascript/프로그래밍언어 종류.md",
@@ -252,9 +269,6 @@
     "content/javascript/mutable immutable.md",
     "content/javascript",
     "content/Data structure/Telegram/빅 오 표기법.md",
-    "content/Data structure/Telegram/버블정렬.md",
-    "content/Data structure/Telegram/Array.md",
-    "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
     "content/Data structure/Telegram",
     "content/Data structure",
     "content/🍚 CodingTest/프로그래머스",
