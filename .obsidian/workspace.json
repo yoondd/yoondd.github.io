@@ -50,21 +50,35 @@
             }
           },
           {
-            "id": "dc565a1357eefd88",
+            "id": "d4f9fd9eccf6b89c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/리액트 컴포넌트 만들기.md",
+                "file": "content/javascript/자바스크립트의 변수와 호이스팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리액트 컴포넌트 만들기"
+              "title": "자바스크립트의 변수와 호이스팅"
+            }
+          },
+          {
+            "id": "f746cc1df80487a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/javascript/호이스팅 추가설명.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "호이스팅 추가설명"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,10 +237,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a6d3eab8914f3046",
+  "active": "f746cc1df80487a2",
   "lastOpenFiles": [
-    "content/React/리액트 컴포넌트 만들기.md",
     "content/javascript/💜 Study List..md",
+    "content/javascript/호이스팅 추가설명.md",
+    "content/javascript/자바스크립트의 변수와 호이스팅.md",
+    "content/React/리액트 컴포넌트 만들기.md",
+    "content/javascript/컴파일언어 vs 인터프리터 언어.md",
+    "content/javascript/mutable immutable.md",
     "content/React/리액트 설치와 실행명령.md",
     "content/Developer/OSI 7계층.md",
     "conflict-files-obsidian-git.md",
@@ -247,10 +265,6 @@
     "content/javascript/얕은복사와 깊은복사.md",
     "content/javascript/DOM.md",
     "content/ai를 api형태로.md",
-    "content/javascript/컴파일언어 vs 인터프리터 언어.md",
-    "content/javascript/자바스크립트의 변수와 호이스팅.md",
-    "content/javascript/자바스크립트의 프로토타입.md",
-    "content/javascript/mutable immutable.md",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
