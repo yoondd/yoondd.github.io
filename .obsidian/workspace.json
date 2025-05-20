@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/DOM 트리 탐색하기.md",
+                "file": "content/javascript/구조분해할당(디스트럭쳐링).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM 트리 탐색하기"
+              "title": "구조분해할당(디스트럭쳐링)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/자바스크립트의 변수와 호이스팅.md",
+                "file": "content/javascript/💜 Study List..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바스크립트의 변수와 호이스팅"
+              "title": "💜 Study List."
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/javascript/DOM 트리 탐색하기.md",
+                "file": "content/javascript/구조분해할당(디스트럭쳐링).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DOM 트리 탐색하기"
+              "title": "Backlinks for 구조분해할당(디스트럭쳐링)"
             }
           },
           {
@@ -197,13 +197,16 @@
   },
   "active": "bc91f044e9d6d552",
   "lastOpenFiles": [
+    "Pasted image 20250520124626.png",
+    "content/javascript/💜 Study List..md",
+    "content/javascript/구조분해할당(디스트럭쳐링).md",
+    "content/javascript/null 과 undefined.md",
+    "content/javascript/자바스크립트의 변수와 호이스팅.md",
+    "content/javascript/DOM 트리 탐색하기.md",
     "content/javascript/DOM.md",
     "content/javascript/얕은복사와 깊은복사.md",
-    "content/javascript/DOM 트리 탐색하기.md",
     "content/Next js/오늘부터 할 전반적인 작업 흐름.md",
     "content/Next js/로그인 폼 구현하기.md",
-    "content/javascript/Study List..md",
-    "content/javascript/자바스크립트의 변수와 호이스팅.md",
     "content/Data structure/Array, Array List, Linked List.md",
     "content/Data structure/Telegram/ArrayList.md",
     "content/GCP/Cloud shell에서 쿼리문 작성하기.md",
@@ -223,9 +226,6 @@
     "content/ai를 api형태로.md",
     "content/JAVA/채팅형태의 쪽지 구현하기.md",
     "content/Data structure",
-    "content/Git/커밋 컨벤션.md",
-    "content/Next js/Next js을 이용한 kakao map사용하기.md",
-    "content/Next js/반응형 디자인.md",
     "content/🍚 CodingTest/프로그래머스",
     "content/YOON",
     "content/React",
