@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/💜 Study List..md",
+                "file": "content/Data structure/Telegram/stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💜 Study List."
+              "title": "stack"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,11 +237,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f746cc1df80487a2",
+  "active": "a6d3eab8914f3046",
   "lastOpenFiles": [
     "content/javascript/💜 Study List..md",
-    "content/javascript/호이스팅 추가설명.md",
+    "content/Data structure/Telegram/stack.md",
     "content/javascript/자바스크립트의 변수와 호이스팅.md",
+    "content/javascript/호이스팅 추가설명.md",
     "content/React/리액트 컴포넌트 만들기.md",
     "content/javascript/컴파일언어 vs 인터프리터 언어.md",
     "content/javascript/mutable immutable.md",
@@ -264,7 +265,6 @@
     "content/javascript/DOM 트리 탐색하기.md",
     "content/javascript/얕은복사와 깊은복사.md",
     "content/javascript/DOM.md",
-    "content/ai를 api형태로.md",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
