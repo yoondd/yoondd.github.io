@@ -36,7 +36,7 @@
 |       |                                                | [[useEffect]]                                                                                                                                                                          |
 | 03-26 | JS_250326_1 HTML CSS WEB 틀 만들기                 | -소리가나오지않음-<br>대략 HTML 틀 만드는 것으로 보임                                                                                                                                                     |
 |       | JS_250326_2 리엑트 개발자모드 StricMode                | [[오류는 왜 발생했을까?]]                                                                                                                                                                       |
-|       |                                                |                                                                                                                                                                                        |
+|       | JS_250326_3 리엑트 Hook <br>useState useEffect    | [[Hook]]                                                                                                                                                                               |
 
 # 화투점
 포폴처럼 만들어서 작업할 예정
