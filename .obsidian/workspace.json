@@ -35,8 +35,7 @@
               "title": "리액트 라이프사이클"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/React/리액트 라이프사이클.md",
+                "file": "content/💜 Study List..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 리액트 라이프사이클"
+              "title": "Backlinks for 💜 Study List."
             }
           },
           {
@@ -196,11 +195,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6f123248ea812320",
+  "active": "0d0134764e565021",
   "lastOpenFiles": [
+    "content/React/리액트 라이프사이클.md",
     "content/💜 Study List..md",
     "content/Git/vercel로 배포하기.md",
-    "content/React/리액트 라이프사이클.md",
     "content/React/SPA.md",
     "content/javascript/호이스팅 추가설명.md",
     "content/React/화투점.md",
