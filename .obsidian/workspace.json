@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e52c7c9a9ee87e5d",
+  "active": "f746cc1df80487a2",
   "lastOpenFiles": [
-    "content/javascript/💜 Study List..md",
     "content/React/화투점.md",
+    "content/javascript/💜 Study List..md",
     "content/Google/AI Studio/AI API 발급.md",
     "content/javascript/호이스팅 추가설명.md",
     "content/Google/Untitled.md",
