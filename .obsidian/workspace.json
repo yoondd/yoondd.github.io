@@ -1,14 +1,42 @@
 {
   "main": {
-    "id": "9a72078348b52cc5",
+    "id": "aaf36a2e1141f395",
     "type": "split",
     "children": [
       {
-        "id": "7a8b5f8334b93594",
+        "id": "88796cfd08dd54ed",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0134764e565021",
+            "id": "17df93cae42f50ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/javascript/일급객체와 클로저의 상관관계.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "일급객체와 클로저의 상관관계"
+            }
+          },
+          {
+            "id": "d4f9fd9eccf6b89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "next js 설치.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "next js 설치"
+            }
+          },
+          {
+            "id": "c646cc713ab5f45a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +50,35 @@
             }
           },
           {
-            "id": "6f123248ea812320",
+            "id": "d3f1d705f418ca44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/리액트 라이프사이클.md",
+                "file": "content/React/Redux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리액트 라이프사이클"
-            }
-          },
-          {
-            "id": "17f039a9b748b82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "next js 설치.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "next js 설치"
+              "title": "Redux"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8baae3213925dc19",
+    "id": "cca02aa3adfd8466",
     "type": "split",
     "children": [
       {
-        "id": "45d7b8c7c9e2e773",
+        "id": "83125c12e4601b09",
         "type": "tabs",
         "children": [
           {
-            "id": "ec070b026d61fd21",
+            "id": "3222cc213081cb1d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +91,7 @@
             }
           },
           {
-            "id": "bc40937b8b5da85e",
+            "id": "bde1a643e95f6b8f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +108,7 @@
             }
           },
           {
-            "id": "646ebf1dad556852",
+            "id": "a8c54e42cba10209",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,25 +121,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "8b2173fa939cf7d1",
+    "id": "1c5107a2f91d466a",
     "type": "split",
     "children": [
       {
-        "id": "c549496e8587949d",
+        "id": "8206a6ce2ddaca85",
         "type": "tabs",
         "children": [
           {
-            "id": "3169c0db0f9bef39",
+            "id": "d62fd1049d22b148",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next js 설치.md",
-                "collapseAll": true,
+                "file": "content/memo.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -134,25 +147,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for next js 설치"
+              "title": "Backlinks for memo"
             }
           },
           {
-            "id": "3ce480bbc5939851",
+            "id": "fe38949e9b65da45",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from memo"
             }
           },
           {
-            "id": "7b02a29f03e7be61",
+            "id": "c87e95b9da1d4d0a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,22 +180,22 @@
             }
           },
           {
-            "id": "35b5f774000204cb",
+            "id": "8e6283700a356b69",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/memo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of memo"
             }
           },
           {
-            "id": "07c7621a80323b1c",
+            "id": "7ce9c78bae8010dd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -191,8 +204,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,54 +223,50 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "17f039a9b748b82a",
+  "active": "d3f1d705f418ca44",
   "lastOpenFiles": [
     "content/💜 Study List..md",
-    "next js 설치.md",
-    "conflict-files-obsidian-git.md",
-    "content/javascript/일급객체와 클로저의 상관관계.md",
-    "content/React/오류는 왜 발생했을까?.md",
-    "content/React/반복되는 코드 컴포넌트화.md",
+    "content/React/Redux.md",
+    "content/React/webfont.md",
     "content/React/Hook.md",
+    "next js 설치.md",
+    "content/React/오류는 왜 발생했을까?.md",
+    "content/React/useEffect.md",
     "Pasted image 20250521122643.png",
     "Pasted image 20250521122548.png",
+    "content/javascript/클로저 closure와 렉시컬 스코프.md",
+    "content/React/리액트 라이프사이클.md",
+    "content/javascript/자바스크립트의 변수와 호이스팅.md",
+    "content/javascript/일급객체와 클로저의 상관관계.md",
+    "content/javascript/일급객체.md",
+    "content/React/리액트 설치와 실행명령.md",
+    "content/React/반복되는 코드 컴포넌트화.md",
+    "content/Git/vercel로 배포하기.md",
+    "content/React/화투점.md",
     "Pasted image 20250521105018.png",
     "Pasted image 20250521101729.png",
-    "content/React/리액트 라이프사이클.md",
-    "content/Git/vercel로 배포하기.md",
-    "content/React/SPA.md",
-    "content/javascript/호이스팅 추가설명.md",
-    "content/React/화투점.md",
-    "content/Google/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
-    "content/Google/GCP/GCP의 정적페이지 서비스.md",
-    "content/Google/GCP/GCP 무작정 따라하기.md",
-    "content/Google/GCP/Cloud shell에서 쿼리문 작성하기.md",
     "content/Google/AI Studio/AI API 발급.md",
-    "content/Google/GCP",
+    "conflict-files-obsidian-git.md",
+    "content/javascript/💜 Study List..md",
+    "content/javascript/호이스팅 추가설명.md",
+    "content/Google/Untitled.md",
     "content/Google/AI Studio",
-    "content/Google",
+    "content/Google/GCP/Cloud shell에서 쿼리문 작성하기.md",
+    "content/Google/GCP",
+    "content/javascript/DOM.md",
     "content/Data structure/Telegram/stack.md",
+    "content/JAVA/채팅형태의 쪽지 구현하기.md",
     "content/React/리액트 컴포넌트 만들기.md",
-    "content/React/리액트 설치와 실행명령.md",
-    "content/React/V-DOM.md",
-    "content/javascript/미림쌤과 Node js에 대해 알아보기.md",
-    "content/javascript/배열고차함수.md",
-    "content/javascript/콜백과 프로미스.md",
-    "content/Node js/1. Node js.md",
-    "content/javascript/동기와 비동기.md",
-    "Pasted image 20250520142516.png",
-    "Pasted image 20250520124626.png",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
     "content/🍚 CodingTest/프로그래머스",
     "content/YOON",
-    "content/React",
-    "content/Git/branch",
+    "content/ETC",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
     "public/link-blog.jpg",
-    "Pasted image 20250424170315.png",
-    "Untitled.canvas"
+    "content/ETC/Troubleshooting",
+    "content/Math"
   ]
 }
