@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/💜 Study List..md",
+                "file": "content/React/Redux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💜 Study List."
+              "title": "Redux"
             }
           },
           {
@@ -48,9 +48,22 @@
               "icon": "lucide-file",
               "title": "next js 설치"
             }
+          },
+          {
+            "id": "4d7601a3a1c1a06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next js 설치.md",
+                "file": "content/React/Redux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for next js 설치"
+              "title": "Backlinks for Redux"
             }
           },
           {
@@ -211,11 +224,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "17f039a9b748b82a",
+  "active": "0d0134764e565021",
   "lastOpenFiles": [
     "content/💜 Study List..md",
-    "next js 설치.md",
     "conflict-files-obsidian-git.md",
+    "next js 설치.md",
+    "content/React/webfont.md",
+    "content/React/Redux.md",
     "content/javascript/일급객체와 클로저의 상관관계.md",
     "content/React/오류는 왜 발생했을까?.md",
     "content/React/반복되는 코드 컴포넌트화.md",
@@ -244,8 +259,6 @@
     "content/javascript/미림쌤과 Node js에 대해 알아보기.md",
     "content/javascript/배열고차함수.md",
     "content/javascript/콜백과 프로미스.md",
-    "content/Node js/1. Node js.md",
-    "content/javascript/동기와 비동기.md",
     "Pasted image 20250520142516.png",
     "Pasted image 20250520124626.png",
     "content/javascript",
