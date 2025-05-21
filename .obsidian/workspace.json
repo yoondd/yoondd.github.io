@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "f746cc1df80487a2",
+            "id": "c9bc19ba73edbf6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/💜 Study List..md",
+                "file": "content/💜 Study List..md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Google/AI Studio/AI API 발급.md",
+                "file": "content/React/리액트 라이프사이클.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI API 발급"
+              "title": "리액트 라이프사이클"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/화투점.md",
+                "file": "content/Git/vercel로 배포하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "화투점"
+              "title": "vercel로 배포하기"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,11 +237,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f746cc1df80487a2",
+  "active": "d80f593bcd4b4116",
   "lastOpenFiles": [
+    "content/Git/vercel로 배포하기.md",
+    "content/React/리액트 라이프사이클.md",
+    "content/💜 Study List..md",
     "content/React/화투점.md",
-    "content/javascript/💜 Study List..md",
+    "Pasted image 20250521105018.png",
+    "Pasted image 20250521101729.png",
     "content/Google/AI Studio/AI API 발급.md",
+    "conflict-files-obsidian-git.md",
+    "content/javascript/💜 Study List..md",
     "content/javascript/호이스팅 추가설명.md",
     "content/Google/Untitled.md",
     "content/Google/AI Studio",
@@ -252,7 +258,6 @@
     "content/React/리액트 설치와 실행명령.md",
     "content/Data structure/Telegram/stack.md",
     "content/JAVA/채팅형태의 쪽지 구현하기.md",
-    "conflict-files-obsidian-git.md",
     "content/React/리액트 컴포넌트 만들기.md",
     "content/javascript/컴파일언어 vs 인터프리터 언어.md",
     "content/javascript/mutable immutable.md",
@@ -263,10 +268,6 @@
     "content/javascript/콜백과 프로미스.md",
     "content/javascript/자바스크립트의 익명함수.md",
     "content/javascript/일급객체.md",
-    "content/javascript/배열고차함수.md",
-    "content/javascript/미림쌤과 Node js에 대해 알아보기.md",
-    "content/javascript/동기와 비동기.md",
-    "content/javascript/구조분해할당(디스트럭쳐링).md",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
