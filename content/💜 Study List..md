@@ -44,7 +44,7 @@
 |       | 250328_2 Git  충돌상황 대처방법                        | merge을 웹에서 하는 방법 소개                                                                                  |
 | 03-31 | 250331_1 리엑트 상태관리 Redux Toolkit                | [[Redux의 필요성]]                                                                                       |
 |       | 250331_2 Redux설치                               | [[Redux 설치하기]]                                                                                       |
-|       | 250331_3 redux slice                           |                                                                                                      |
+|       | 250331_3 redux slice                           | [[Redux 실전]]                                                                                         |
 |       |                                                |                                                                                                      |
 
 # 화투점
