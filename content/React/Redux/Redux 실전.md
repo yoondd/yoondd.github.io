@@ -1,12 +1,12 @@
 
 
-## redux폴더 만들기
+## 1. redux폴더 만들기
 app폴더 말고, 소스가 모인 src폴더에 redux 디렉토리 만들기
 우리가 새로 설치한거니까 아예 따로 관리하기위해서 만드는거야.
 
 ---
 
-## 큰 가게 만들기 - store.js
+## 2. 큰 가게 만들기 - store.js
 
 가게에 가면 코너가 나누어져있는데, 일단 그 전에 큰 가게가 필요하다
 그래서 큰 가게를 만들어야한다
@@ -31,7 +31,7 @@ export const store = configureStore({
 
 ---
 
-## 가게 내부의 코너 만들기 - createSlice
+## 3. 가게 내부의 코너 만들기 - createSlice
 
 이제 코너 하나씩하나씩 만들면된다. 
 그러니까 redux폴더에 menuSlice.js와 memberSlide.js를 만들어서 각 코너를 만들어보자
@@ -87,7 +87,7 @@ store에다가 등록을 해줘야지.
 
 ---
 
-## Store에다가 알려주기
+## 4. Store에다가 알려주기
 
 근데 그냥 알려주면 알수가없어. export설정을 안했잖아.
 
@@ -107,7 +107,7 @@ export하지도않았는데 뭐가 있는줄알고 가져오겠냔말이야.
 
 ---
 
-### reducer의 등장
+## 5. reducer의 등장
 
 옛날에, toolkit을 사용하기 이전에는 3명이 따로 있었어
 getter, setter(mutation-돌연변이), action(행동)
@@ -119,6 +119,8 @@ getter, setter(mutation-돌연변이), action(행동)
 reducer라는 하나로 퉁치자는 말이 나온거야
 "두 개의 파이프를 연결하기위한 피팅"이라고 생각하면돼. 
 
+
+#### menuSlice 사람만들자 
 
 ```js
 //menuSlice.js
@@ -156,6 +158,42 @@ const menuSlice = createSlice({
 	파라미터: 값, 액션
 	`state.selectedMenu = action.payload` 를 살펴보면 action이라는게 나오는데, 바로 행위자를 뜻한다. 세팅할 값을 누가 가지고있냐면 바로 action이라는 행위자가 가지고 있는거다. 
 	그리고 payload라는 개념을 알아볼까? 이건 따로 정리했다 - [[payload]]
+	
 
-5. 
 
+#### export로 뽑아주자
+
+```js
+export const { setSelectMenu } = menuSlice.actions;  
+export default menuSlice.reducer;
+```
+
+{}으로 묶은이유는 내보낼 메서드만 고르라는거다
+자동으로 reducer같은걸 만들어주다
+결국 위쪽에서 만들어낸 return값이라고 볼 수 있다.
+결과물이다.
+
+---
+
+
+## 6. 이제 진짜로 store에 세팅해보자
+
+```js
+//store.js
+import { configureStore } from '@reduxjs/toolkit';  
+import menuReducer from './menuSlice';  
+import memberReducer from './memberSlice';  
+  
+export const store = configureStore({  
+    reducer: {  
+        menu: menuReducer,  
+        member: memberReducer  
+    }  
+})
+```
+
+reducer을 구독하는 형식으로 사용하는거다.
+구독하면 provider가 원하는 내용을 제공하는것이다.
+
+앞으로 값을 수정하려면 해당 slice의 reducer에게 부탁해야하는거다 (action - 행동하는 사람)
+액션배우를 따라다니는 디스패치가 있다. dispatch가 따라다닌다.
