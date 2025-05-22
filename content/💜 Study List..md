@@ -47,5 +47,5 @@
 |          | 250331_3 redux slice                                   | [[Redux 실전]]                                                                                         |
 |          | 250331_4 Redux <br>Action Reduce                       | [[Redux 실전]]<br>[[payload]]                                                                          |
 | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]                                     |
-|          |                                                        |                                                                                                      |
+|          | 250401_2 npm 패키지 사용법<br>(차트 가져오기)                      | [[chart js]]                                                                                         |
 

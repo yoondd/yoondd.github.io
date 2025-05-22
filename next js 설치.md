@@ -3,8 +3,7 @@
 
 모든 작업을 하기전에 늘 공식문서를 보아라.
 
-<<<<<<< HEAD
-=======
+
 ```bash
 npx create-next-app@latest
 ```
@@ -20,4 +19,3 @@ npx create-next-app@latest
 ✔ Would you like to customize the import alias (`@/*` by default)? … No / Yes
 ```
 
->>>>>>> origin/main
