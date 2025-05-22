@@ -46,6 +46,6 @@
 |          | 250331_2 Redux설치                                       | [[Redux 설치하기]]                                                                                       |
 |          | 250331_3 redux slice                                   | [[Redux 실전]]                                                                                         |
 |          | 250331_4 Redux <br>Action Reduce                       | [[Redux 실전]]<br>[[payload]]                                                                          |
-| 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]                                                                  |
+| 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]                                     |
 |          |                                                        |                                                                                                      |
 

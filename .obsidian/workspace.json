@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/use client.md",
+                "file": "content/React/React developer tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "use client"
+              "title": "React developer tools"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,11 +237,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c646cc713ab5f45a",
+  "active": "d3f1d705f418ca44",
   "lastOpenFiles": [
-    "content/React/use client.md",
-    "content/React/Redux/Provider 사용하기.md",
+    "content/React/React developer tools.md",
     "content/💜 Study List..md",
+    "content/React/Redux/Provider 사용하기.md",
+    "content/React/use client.md",
     "content/React/Redux/Redux 설치하기.md",
     "content/React/Redux/Redux 실전.md",
     "content/React/Redux",
@@ -269,7 +270,6 @@
     "content/Google/AI Studio/AI API 발급.md",
     "conflict-files-obsidian-git.md",
     "content/javascript/💜 Study List..md",
-    "content/javascript/호이스팅 추가설명.md",
     "content/Google/AI Studio",
     "content/Google/GCP",
     "content/javascript",
