@@ -48,8 +48,8 @@
 |          | 250331_4 Redux <br>Action Reduce                       | [[Redux 실전]]<br>[[payload]]                                                                          |
 | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]                                     |
 |          | 250401_2 npm 패키지 사용법<br>(차트 가져오기)                      | [[chart js]]                                                                                         |
-| 04-02    | 25 0402_1 동적라우팅                                        |                                                                                                      |
-|          |                                                        |                                                                                                      |
+| 04-02    | 25 0402_1 동적라우팅                                        | [[동적라우팅]]                                                                                            |
+|          | 250402_2 GPT 활용방법                                      |                                                                                                      |
 
 
 provider 동작 원리에 대해 설명해주세요. 
