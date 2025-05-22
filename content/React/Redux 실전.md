@@ -106,3 +106,56 @@ export하지도않았는데 뭐가 있는줄알고 가져오겠냔말이야.
 
 
 ---
+
+### reducer의 등장
+
+옛날에, toolkit을 사용하기 이전에는 3명이 따로 있었어
+getter, setter(mutation-돌연변이), action(행동)
+가져다 주는 애(리드온리), 넣어주는 애, 행동자가 3개를 받아서 세터를 호출해준다
+이렇게 작업을 했었지.(redux순정말이야)
+근데 이게 짱 불편하고 코드가 너무 많아지는거야.
+
+어차피 setter와 action이 값을 수정하려는 목적이 동일하니까
+reducer라는 하나로 퉁치자는 말이 나온거야
+"두 개의 파이프를 연결하기위한 피팅"이라고 생각하면돼. 
+
+
+```js
+//menuSlice.js
+const menuSlice = createSlice({  
+    name: "menu",  //슬라이스 이름 지어주기. 알아보기 쉽게 지어라. menuSlice에서 Slice떼고.
+    initialState,  //이 구역에서 관리할 값이 뭐야? 바로 이거야. 위에서 만든거.
+    reducers: {  //자 이제 사람 배치해보자!!
+        setSelectMenu: (state, action) =>{  // 사람이 하는 일도 지정하자
+            state.selectedMenu= action.payload;  
+            state.menus.forEach(menu => {  
+                menu.isActive = (menu.path === state.selectedMenu)  
+            });  
+        }  
+    }  
+})
+```
+
+결국 나가는애는 ***menuSlice***야. 알아보기쉽게 이름은 똑같이 지어버려.
+이 구역에 대해 설정하는 Slice의 기능을 진행하는 아이다
+
+1. 슬라이스 이름 쉽게 지어주기
+
+2. 관리할 값 알려주기
+
+3. reducers만들어주기
+	바로 이게 관리할 사람인데.
+	원래 우리는 getter, setter, action만들어야하는게 맞아.
+	근데 귀찮으니까 누구한테 부탁하는거야?- toolkit이지!
+
+4. setSelectMenu라는 '선택된 메뉴' 관리해주는 사람을 만들어주자. 
+	액션은 한번에 일어나는거니까 필요한것들을 여기다가 다 넣어주는거야.
+	두개처럼 보이지만 어차피 한놈이 하면되는 일이거든.
+	할 일을 정해주면되는거니까 "익명함수"로 지정해준다.
+	
+	파라미터: 값, 액션
+	`state.selectedMenu = action.payload` 를 살펴보면 action이라는게 나오는데, 바로 행위자를 뜻한다. 세팅할 값을 누가 가지고있냐면 바로 action이라는 행위자가 가지고 있는거다. 
+	그리고 payload라는 개념을 알아볼까? 이건 따로 정리했다 - [[payload]]
+
+5. 
+
