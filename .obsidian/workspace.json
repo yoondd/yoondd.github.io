@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/Redux의 필요성.md",
+                "file": "content/React/Redux 설치하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redux의 필요성"
+              "title": "Redux 설치하기"
             }
           }
         ],
@@ -226,6 +226,7 @@
   "active": "d3f1d705f418ca44",
   "lastOpenFiles": [
     "content/💜 Study List..md",
+    "content/React/Redux 설치하기.md",
     "content/React/Redux의 필요성.md",
     "content/React/webfont.md",
     "content/React/Hook.md",
@@ -256,7 +257,6 @@
     "content/javascript/DOM.md",
     "content/Data structure/Telegram/stack.md",
     "content/JAVA/채팅형태의 쪽지 구현하기.md",
-    "content/React/리액트 컴포넌트 만들기.md",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
