@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/일급객체와 클로저의 상관관계.md",
+                "file": "content/💜 Study List..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "일급객체와 클로저의 상관관계"
-            }
-          },
-          {
-            "id": "d4f9fd9eccf6b89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "next js 설치.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "next js 설치"
+              "title": "💜 Study List."
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/chart js.md",
+                "file": "content/React/리액트 라이프사이클.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chart js"
+              "title": "리액트 라이프사이클"
             }
           },
           {
@@ -55,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/💜 Study List..md",
+                "file": "content/javascript/콜백과 프로미스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💜 Study List."
+              "title": "콜백과 프로미스"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,12 +208,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c646cc713ab5f45a",
+  "active": "17df93cae42f50ee",
   "lastOpenFiles": [
-    "content/💜 Study List..md",
-    "content/React/Redux/Provider 사용하기.md",
-    "content/React/chart js.md",
+    "content/javascript/일급객체와 클로저의 상관관계.md",
     "next js 설치.md",
+    "content/React/리액트 라이프사이클.md",
+    "content/💜 Study List..md",
+    "content/React/chart js.md",
+    "content/javascript/콜백과 프로미스.md",
+    "content/React/Redux/Provider 사용하기.md",
     "content/React/React developer tools.md",
     "content/React/use client.md",
     "content/React/Redux/Redux 설치하기.md",
@@ -244,9 +232,7 @@
     "Pasted image 20250521122643.png",
     "Pasted image 20250521122548.png",
     "content/javascript/클로저 closure와 렉시컬 스코프.md",
-    "content/React/리액트 라이프사이클.md",
     "content/javascript/자바스크립트의 변수와 호이스팅.md",
-    "content/javascript/일급객체와 클로저의 상관관계.md",
     "content/javascript/일급객체.md",
     "content/React/리액트 설치와 실행명령.md",
     "content/React/반복되는 코드 컴포넌트화.md",
@@ -255,7 +241,6 @@
     "Pasted image 20250521105018.png",
     "Pasted image 20250521101729.png",
     "content/Google/AI Studio/AI API 발급.md",
-    "conflict-files-obsidian-git.md",
     "content/Google/AI Studio",
     "content/Google/GCP",
     "content/javascript",
