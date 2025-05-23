@@ -14,4 +14,4 @@
 
 ---
 
-[[컴파일언어 vs 인터프리터 언어]]
+[[content/JAVA/Java Lesson/컴파일언어 vs 인터프리터 언어]]
