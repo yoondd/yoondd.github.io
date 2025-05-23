@@ -37,70 +37,81 @@ export default (() => {
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
-      <head>
-        <title>YOON's Blog</title>
-        <meta charSet="utf-8" />
-        {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
-          <>
-            <link rel="preconnect" href="https://fonts.googleapis.com" />
-            <link rel="preconnect" href="https://fonts.gstatic.com" />
-            <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet" />
-            <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
-            {cfg.theme.typography.title && (
-              <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
+        <head>
+            <title>YOON's Blog</title>
+            <meta charSet="utf-8"/>
+            {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
+                <>
+                    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+                    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+                    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap"
+                          rel="stylesheet"/>
+                    <link rel="stylesheet" href={googleFontHref(cfg.theme)}/>
+                    {cfg.theme.typography.title && (
+                        <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)}/>
+                    )}
+                </>
             )}
-          </>
-        )}
-        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="naver-site-verification" content="dbbf35021764711a08f8dc98cf9b9e298253d232" />
-        <meta name="og:site_name" content={cfg.pageTitle}></meta>
-        <meta property="og:title" content={title} />
-        <meta property="og:type" content="website" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={description} />
-        <meta property="og:description" content="개발자 윤혜경의 개발블로그입니다" />
-        <meta property="og:image:alt" content="https://yoondd.github.io/TIL/link-blog.jpg" />
+            <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous"/>
 
-        {!usesCustomOgImage && (
-          <>
-            <meta property="og:image" content="https://yoondd.github.io/TIL/link-blog.jpg" />
-            <meta property="og:image:url" content="https://yoondd.github.io/TIL/link-blog.jpg" />
-            <meta name="twitter:image" content="https://yoondd.github.io/TIL/link-blog.jpg" />
-            <meta
-              property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
-            />
-          </>
-        )}
 
-        {cfg.baseUrl && (
-          <>
-            <meta property="twitter:domain" content={cfg.baseUrl}></meta>
-            <meta property="og:url" content={socialUrl}></meta>
-            <meta property="twitter:url" content={socialUrl}></meta>
-          </>
-        )}
+            <meta property="og:type" content="website"/>
+            <meta property="og:url" content="https://yoondd.github.io/"/>
+            <meta property="og:title" content="YOON's Blog"/>
+            <meta property="og:image" content="https://yoondd.github.io/TIL/link-blog.jpg"/>
+            <meta property="og:description" content="개발자 윤혜경의 블로그입니다"/>
+            <meta property="og:site_name" content="YOON's Blog"/>
 
-        <link rel="icon" href={iconPath} />
-        <meta name="description" content={description} />
-        <meta name="generator" content="Quartz" />
 
-        {css.map((resource) => CSSResourceToStyleElement(resource, true))}
-        {js
-          .filter((resource) => resource.loadTime === "beforeDOMReady")
-          .map((res) => JSResourceToScriptElement(res, true))}
-        {additionalHead.map((resource) => {
-          if (typeof resource === "function") {
-            return resource(fileData)
-          } else {
-            return resource
-          }
-        })}
-      </head>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+            <meta name="naver-site-verification" content="dbbf35021764711a08f8dc98cf9b9e298253d232"/>
+            <meta name="og:site_name" content={cfg.pageTitle}></meta>
+            <meta property="og:title" content={title}/>
+            <meta property="og:type" content="website"/>
+            <meta name="twitter:card" content="summary_large_image"/>
+            <meta name="twitter:title" content={title}/>
+            <meta name="twitter:description" content={description}/>
+            <meta property="og:description" content="개발자 윤혜경의 개발블로그입니다"/>
+            <meta property="og:image:alt" content="https://yoondd.github.io/TIL/link-blog.jpg"/>
+
+            {!usesCustomOgImage && (
+                <>
+                    <meta property="og:image" content="https://yoondd.github.io/TIL/link-blog.jpg"/>
+                    <meta property="og:image:url" content="https://yoondd.github.io/TIL/link-blog.jpg"/>
+                    <meta name="twitter:image" content="https://yoondd.github.io/TIL/link-blog.jpg"/>
+                    <meta
+                        property="og:image:type"
+                        content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
+                    />
+                </>
+            )}
+
+            {cfg.baseUrl && (
+                <>
+                    <meta property="twitter:domain" content={cfg.baseUrl}></meta>
+                    <meta property="og:url" content={socialUrl}></meta>
+                    <meta property="twitter:url" content={socialUrl}></meta>
+                </>
+            )}
+
+            <link rel="icon" href={iconPath}/>
+            <meta name="description" content={description}/>
+            <meta name="generator" content="Quartz"/>
+
+            {css.map((resource) => CSSResourceToStyleElement(resource, true))}
+            {js
+                .filter((resource) => resource.loadTime === "beforeDOMReady")
+                .map((res) => JSResourceToScriptElement(res, true))}
+            {additionalHead.map((resource) => {
+                if (typeof resource === "function") {
+                    return resource(fileData)
+                } else {
+                    return resource
+                }
+            })}
+        </head>
     )
   }
 
-  return Head
+    return Head
 }) satisfies QuartzComponentConstructor
