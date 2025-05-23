@@ -63,8 +63,7 @@
               "title": "방화벽 설정"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Developer/방화벽 설정.md",
+                "file": "content/💜 Study List..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 방화벽 설정"
+              "title": "Backlinks for 💜 Study List."
             }
           },
           {
@@ -224,7 +223,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f4558f13437ddc0f",
+  "active": "0d0134764e565021",
   "lastOpenFiles": [
     "content/Developer/방화벽 설정.md",
     "content/💜 Study List..md",
