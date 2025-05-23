@@ -1,14 +1,42 @@
 {
   "main": {
-    "id": "aaf36a2e1141f395",
+    "id": "9a72078348b52cc5",
     "type": "split",
     "children": [
       {
-        "id": "88796cfd08dd54ed",
+        "id": "7a8b5f8334b93594",
         "type": "tabs",
         "children": [
           {
-            "id": "9483a109d537738c",
+            "id": "0d0134764e565021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/💜 Study List..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💜 Study List."
+            }
+          },
+          {
+            "id": "6f123248ea812320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/javascript/동기.비동기.블로킹.논블로킹.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "동기.비동기.블로킹.논블로킹"
+            }
+          },
+          {
+            "id": "17f039a9b748b82a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,21 +49,22 @@
               "title": "Redux 여행의 지도"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cca02aa3adfd8466",
+    "id": "8baae3213925dc19",
     "type": "split",
     "children": [
       {
-        "id": "83125c12e4601b09",
+        "id": "45d7b8c7c9e2e773",
         "type": "tabs",
         "children": [
           {
-            "id": "3222cc213081cb1d",
+            "id": "ec070b026d61fd21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +77,7 @@
             }
           },
           {
-            "id": "bde1a643e95f6b8f",
+            "id": "bc40937b8b5da85e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +94,7 @@
             }
           },
           {
-            "id": "a8c54e42cba10209",
+            "id": "646ebf1dad556852",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +107,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
-    "id": "1c5107a2f91d466a",
+    "id": "8b2173fa939cf7d1",
     "type": "split",
     "children": [
       {
-        "id": "8206a6ce2ddaca85",
+        "id": "c549496e8587949d",
         "type": "tabs",
         "children": [
           {
-            "id": "d62fd1049d22b148",
+            "id": "3169c0db0f9bef39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/memo.md",
-                "collapseAll": false,
+                "file": "content/Redux/Redux 여행의 지도.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for memo"
+              "title": "Backlinks for Redux 여행의 지도"
             }
           },
           {
-            "id": "fe38949e9b65da45",
+            "id": "3ce480bbc5939851",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from memo"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "c87e95b9da1d4d0a",
+            "id": "7b02a29f03e7be61",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +166,22 @@
             }
           },
           {
-            "id": "8e6283700a356b69",
+            "id": "35b5f774000204cb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of memo"
+              "title": "Outline of index"
             }
           },
           {
-            "id": "7ce9c78bae8010dd",
+            "id": "07c7621a80323b1c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -161,7 +190,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,50 +210,54 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9483a109d537738c",
+  "active": "17f039a9b748b82a",
   "lastOpenFiles": [
+    "content/💜 Study List..md",
+    "content/Flutter/준비해야할 것.md",
+    "content/React/Redux/Redux.md",
     "content/Redux/Redux.md",
     "content/Redux/Redux 여행의 지도.md",
     "content/Redux",
-    "content/Redux.md",
-    "content/Developer/방화벽.md",
-    "content/javascript/배열고차함수.md",
-    "content/javascript/동기와 비동기.md",
     "content/React/Redux/React Redux.md",
-    "content/Developer/iptables 방화벽 실전.md",
-    "content/Developer/Cidr.md",
-    "content/💜 Study List..md",
-    "content/React/Redux/Redux 실전.md",
-    "content/React/Redux/Redux의 필요성.md",
-    "content/Developer/iptables.md",
-    "content/Developer/공유기와 허브.md",
-    "content/Developer/Port Forwarding.md",
     "content/Developer/방화벽의 설정 진행순서.md",
-    "content/Git/fork와 clone의 차이.md",
-    "conflict-files-obsidian-git.md",
+    "content/Developer/방화벽.md",
+    "content/Developer/공유기와 허브.md",
+    "content/Developer/iptables.md",
+    "content/Developer/iptables 방화벽 실전.md",
+    "content/Developer/Port Forwarding.md",
+    "content/Developer/Cidr.md",
+    "content/Developer/방화벽 설정.md",
     "content/javascript/동기.비동기.블로킹.논블로킹.md",
-    "content/Flutter/준비해야할 것.md",
-    "content/Flutter",
-    "content/React/오류는 왜 발생했을까?.md",
     "content/React/리액트 라이프사이클.md",
-    "content/React/Redux/Provider 사용하기.md",
+    "content/Flutter",
+    "next js 설치.md",
+    "content/React/use client.md",
+    "content/React/payload.md",
+    "content/React/chart js.md",
     "content/React/Redux/pub.sub.md",
-    "content/Node js/Node 핵심 개념.md",
-    "Pasted image 20250522183852.png",
+    "content/React/Redux/Redux의 필요성.md",
+    "content/React/Redux/Redux 실전.md",
+    "content/React/Redux/Redux 설치하기.md",
+    "content/React/Redux/Provider 사용하기.md",
     "content/React/Redux",
+    "content/React/React developer tools.md",
+    "Pasted image 20250522183852.png",
     "Pasted image 20250521122643.png",
     "Pasted image 20250521122548.png",
     "Pasted image 20250521105018.png",
     "Pasted image 20250521101729.png",
-    "content/Google/AI Studio",
     "content/Google/GCP",
+    "content/Google/AI Studio",
+    "content/Google",
+    "Pasted image 20250520142516.png",
+    "Pasted image 20250520124626.png",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
     "content/🍚 CodingTest/프로그래머스",
-    "content/YOON",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
-    "public/link-blog.jpg"
+    "public/link-blog.jpg",
+    "Untitled.canvas"
   ]
 }

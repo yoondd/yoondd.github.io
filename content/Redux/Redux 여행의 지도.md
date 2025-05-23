@@ -8,3 +8,5 @@ CRD를 구현할 예정.
 
 
 미리 한번 공부지도를 살펴보자구.
+
+![](https://i.imgur.com/bWFNU29.png)
