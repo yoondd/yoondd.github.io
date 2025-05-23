@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/💜 Study List..md",
+                "file": "content/Developer/방화벽.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💜 Study List."
+              "title": "방화벽"
             }
           },
           {
@@ -50,91 +50,49 @@
             }
           },
           {
-            "id": "dcbce16f8a05d9da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/React/리액트 라이프사이클.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "리액트 라이프사이클"
-            }
-          },
-          {
-            "id": "c646cc713ab5f45a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/React/Redux/Provider 사용하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Provider 사용하기"
-            }
-          },
-          {
-            "id": "d3f1d705f418ca44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Node js/Node 핵심 개념.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Node 핵심 개념"
-            }
-          },
-          {
-            "id": "100f4aad02463436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/React/오류는 왜 발생했을까?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "오류는 왜 발생했을까?"
-            }
-          },
-          {
-            "id": "c02a3a5fb707f289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/React/Redux/pub.sub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pub.sub"
-            }
-          },
-          {
             "id": "57556bee51eaf4c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Git/fork와 clone의 차이.md",
+                "file": "content/💜 Study List..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fork와 clone의 차이"
+              "title": "💜 Study List."
+            }
+          },
+          {
+            "id": "67544bb09fc84903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Developer/iptables 방화벽 실전.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "iptables 방화벽 실전"
+            }
+          },
+          {
+            "id": "ea5b4f1f9598f68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Developer/Cidr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cidr"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,14 +253,27 @@
   },
   "active": "57556bee51eaf4c4",
   "lastOpenFiles": [
+    "content/Developer/iptables 방화벽 실전.md",
     "content/💜 Study List..md",
+    "content/React/Redux/Redux 실전.md",
+    "content/React/Redux/Redux의 필요성.md",
+    "content/Developer/iptables.md",
+    "content/Developer/Cidr.md",
+    "content/Developer/공유기와 허브.md",
+    "content/Developer/Port Forwarding.md",
+    "content/Developer/방화벽의 설정 진행순서.md",
+    "content/Developer/방화벽.md",
+    "content/Git/fork와 clone의 차이.md",
+    "conflict-files-obsidian-git.md",
+    "content/javascript/동기.비동기.블로킹.논블로킹.md",
+    "content/Flutter/준비해야할 것.md",
+    "content/Flutter",
     "content/javascript/배열고차함수.md",
     "content/javascript/동기와 비동기.md",
     "content/React/오류는 왜 발생했을까?.md",
     "content/React/리액트 라이프사이클.md",
     "content/React/Redux/Provider 사용하기.md",
     "content/React/Redux/pub.sub.md",
-    "content/Git/fork와 clone의 차이.md",
     "content/Node js/Node 핵심 개념.md",
     "content/React/V-DOM.md",
     "content/Next js/동적라우팅.md",
@@ -310,21 +281,9 @@
     "Pasted image 20250522183852.png",
     "content/javascript/일급객체와 클로저의 상관관계.md",
     "next js 설치.md",
-    "content/React/chart js.md",
-    "content/React/React developer tools.md",
-    "content/React/use client.md",
-    "content/React/Redux/Redux 설치하기.md",
-    "content/React/Redux/Redux 실전.md",
     "content/React/Redux",
-    "content/Developer/OSI 7계층.md",
-    "content/React/payload.md",
-    "content/React/Redux/Redux의 필요성.md",
-    "content/React/webfont.md",
-    "content/React/Hook.md",
-    "content/React/useEffect.md",
     "Pasted image 20250521122643.png",
     "Pasted image 20250521122548.png",
-    "content/javascript/클로저 closure와 렉시컬 스코프.md",
     "Pasted image 20250521105018.png",
     "Pasted image 20250521101729.png",
     "content/Google/AI Studio",
@@ -337,7 +296,6 @@
     "content/ETC",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
-    "public/link-blog.jpg",
-    "content/ETC/Troubleshooting"
+    "public/link-blog.jpg"
   ]
 }
