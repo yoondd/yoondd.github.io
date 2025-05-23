@@ -1,84 +1,41 @@
 {
   "main": {
-    "id": "9a72078348b52cc5",
+    "id": "aaf36a2e1141f395",
     "type": "split",
     "children": [
       {
-        "id": "7a8b5f8334b93594",
+        "id": "88796cfd08dd54ed",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0134764e565021",
+            "id": "9483a109d537738c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/💜 Study List..md",
+                "file": "content/Redux/Redux 여행의 지도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💜 Study List."
-            }
-          },
-          {
-            "id": "6f123248ea812320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/javascript/동기.비동기.블로킹.논블로킹.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "동기.비동기.블로킹.논블로킹"
-            }
-          },
-          {
-            "id": "17f039a9b748b82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Flutter/준비해야할 것.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "준비해야할 것"
-            }
-          },
-          {
-            "id": "d428543c27b00ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/React/Redux/Redux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redux"
+              "title": "Redux 여행의 지도"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8baae3213925dc19",
+    "id": "cca02aa3adfd8466",
     "type": "split",
     "children": [
       {
-        "id": "45d7b8c7c9e2e773",
+        "id": "83125c12e4601b09",
         "type": "tabs",
         "children": [
           {
-            "id": "ec070b026d61fd21",
+            "id": "3222cc213081cb1d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +48,7 @@
             }
           },
           {
-            "id": "bc40937b8b5da85e",
+            "id": "bde1a643e95f6b8f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +65,7 @@
             }
           },
           {
-            "id": "646ebf1dad556852",
+            "id": "a8c54e42cba10209",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 300
   },
   "right": {
-    "id": "8b2173fa939cf7d1",
+    "id": "1c5107a2f91d466a",
     "type": "split",
     "children": [
       {
-        "id": "c549496e8587949d",
+        "id": "8206a6ce2ddaca85",
         "type": "tabs",
         "children": [
           {
-            "id": "3169c0db0f9bef39",
+            "id": "d62fd1049d22b148",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/React/Redux/Redux.md",
-                "collapseAll": true,
+                "file": "content/memo.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -147,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Redux"
+              "title": "Backlinks for memo"
             }
           },
           {
-            "id": "3ce480bbc5939851",
+            "id": "fe38949e9b65da45",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from memo"
             }
           },
           {
-            "id": "7b02a29f03e7be61",
+            "id": "c87e95b9da1d4d0a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,22 +137,22 @@
             }
           },
           {
-            "id": "35b5f774000204cb",
+            "id": "8e6283700a356b69",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/memo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of memo"
             }
           },
           {
-            "id": "07c7621a80323b1c",
+            "id": "7ce9c78bae8010dd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -204,8 +161,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,46 +180,43 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d428543c27b00ee7",
+  "active": "9483a109d537738c",
   "lastOpenFiles": [
-    "content/Flutter/준비해야할 것.md",
-    "content/💜 Study List..md",
-    "content/React/Redux/Redux.md",
-    "content/React/Redux/React Redux.md",
-    "content/Developer/방화벽의 설정 진행순서.md",
+    "content/Redux/Redux.md",
+    "content/Redux/Redux 여행의 지도.md",
+    "content/Redux",
+    "content/Redux.md",
     "content/Developer/방화벽.md",
-    "content/Developer/공유기와 허브.md",
-    "content/Developer/iptables.md",
+    "content/javascript/배열고차함수.md",
+    "content/javascript/동기와 비동기.md",
+    "content/React/Redux/React Redux.md",
     "content/Developer/iptables 방화벽 실전.md",
-    "content/Developer/Port Forwarding.md",
     "content/Developer/Cidr.md",
-    "content/Developer/방화벽 설정.md",
-    "content/javascript/동기.비동기.블로킹.논블로킹.md",
-    "content/React/리액트 라이프사이클.md",
-    "content/Flutter",
-    "next js 설치.md",
-    "content/React/use client.md",
-    "content/React/payload.md",
-    "content/React/chart js.md",
-    "content/React/Redux/pub.sub.md",
-    "content/React/Redux/Redux의 필요성.md",
+    "content/💜 Study List..md",
     "content/React/Redux/Redux 실전.md",
-    "content/React/Redux/Redux 설치하기.md",
-    "content/React/Redux/Provider 사용하기.md",
-    "content/React/Redux",
-    "content/React/React developer tools.md",
-    "content/Next js/동적라우팅.md",
+    "content/React/Redux/Redux의 필요성.md",
+    "content/Developer/iptables.md",
+    "content/Developer/공유기와 허브.md",
+    "content/Developer/Port Forwarding.md",
+    "content/Developer/방화벽의 설정 진행순서.md",
     "content/Git/fork와 clone의 차이.md",
+    "conflict-files-obsidian-git.md",
+    "content/javascript/동기.비동기.블로킹.논블로킹.md",
+    "content/Flutter/준비해야할 것.md",
+    "content/Flutter",
+    "content/React/오류는 왜 발생했을까?.md",
+    "content/React/리액트 라이프사이클.md",
+    "content/React/Redux/Provider 사용하기.md",
+    "content/React/Redux/pub.sub.md",
+    "content/Node js/Node 핵심 개념.md",
     "Pasted image 20250522183852.png",
+    "content/React/Redux",
     "Pasted image 20250521122643.png",
     "Pasted image 20250521122548.png",
     "Pasted image 20250521105018.png",
     "Pasted image 20250521101729.png",
-    "content/Google/GCP",
     "content/Google/AI Studio",
-    "content/Google",
-    "Pasted image 20250520142516.png",
-    "Pasted image 20250520124626.png",
+    "content/Google/GCP",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
@@ -271,7 +224,6 @@
     "content/YOON",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
-    "public/link-blog.jpg",
-    "Untitled.canvas"
+    "public/link-blog.jpg"
   ]
 }
