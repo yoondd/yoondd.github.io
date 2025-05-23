@@ -133,7 +133,8 @@
               "title": "fork와 clone의 차이"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -292,10 +293,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "17df93cae42f50ee",
+  "active": "57556bee51eaf4c4",
   "lastOpenFiles": [
-    "content/javascript/배열고차함수.md",
     "content/💜 Study List..md",
+    "content/javascript/배열고차함수.md",
     "content/javascript/동기와 비동기.md",
     "content/React/오류는 왜 발생했을까?.md",
     "content/React/리액트 라이프사이클.md",
