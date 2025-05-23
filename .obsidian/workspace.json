@@ -1,126 +1,70 @@
 {
   "main": {
-    "id": "aaf36a2e1141f395",
+    "id": "9a72078348b52cc5",
     "type": "split",
     "children": [
       {
-        "id": "88796cfd08dd54ed",
+        "id": "7a8b5f8334b93594",
         "type": "tabs",
         "children": [
           {
-            "id": "9483a109d537738c",
+            "id": "bc91f044e9d6d552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/동기.비동기.블로킹.논블로킹.md",
+                "file": "content/Data structure/Array, Array List, Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동기.비동기.블로킹.논블로킹"
+              "title": "Array, Array List, Linked List"
             }
           },
           {
-            "id": "3c2e8150893f3c5a",
+            "id": "02d43c364c0449cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/Redux/pub.sub.md",
+                "file": "content/Data structure/Telegram/ArrayList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pub.sub"
+              "title": "ArrayList"
             }
           },
           {
-            "id": "67ed934005f1401e",
+            "id": "0d0134764e565021",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/Redux/Provider 사용하기.md",
+                "file": "content/Math/log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Provider 사용하기"
-            }
-          },
-          {
-            "id": "6d94ee15fd2be0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/React/React developer tools.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React developer tools"
-            }
-          },
-          {
-            "id": "70f9fe9f57634751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/javascript/동기.비동기.블로킹.논블로킹.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "동기.비동기.블로킹.논블로킹"
-            }
-          },
-          {
-            "id": "fd8569326e6dfda6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/React/Rendering 동작방식.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rendering 동작방식"
-            }
-          },
-          {
-            "id": "52416c037d801dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/프론트의 법칙.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "프론트의 법칙"
+              "title": "log"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cca02aa3adfd8466",
+    "id": "8baae3213925dc19",
     "type": "split",
     "children": [
       {
-        "id": "83125c12e4601b09",
+        "id": "45d7b8c7c9e2e773",
         "type": "tabs",
         "children": [
           {
-            "id": "3222cc213081cb1d",
+            "id": "ec070b026d61fd21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -133,12 +77,12 @@
             }
           },
           {
-            "id": "bde1a643e95f6b8f",
+            "id": "bc40937b8b5da85e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "provider",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +94,7 @@
             }
           },
           {
-            "id": "a8c54e42cba10209",
+            "id": "646ebf1dad556852",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -163,24 +107,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
-    "id": "1c5107a2f91d466a",
+    "id": "8b2173fa939cf7d1",
     "type": "split",
     "children": [
       {
-        "id": "8206a6ce2ddaca85",
+        "id": "c549496e8587949d",
         "type": "tabs",
         "children": [
           {
-            "id": "d62fd1049d22b148",
+            "id": "3169c0db0f9bef39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/memo.md",
-                "collapseAll": false,
+                "file": "content/DB/프로시저.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -189,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for memo"
+              "title": "Backlinks for 프로시저"
             }
           },
           {
-            "id": "fe38949e9b65da45",
+            "id": "3ce480bbc5939851",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from memo"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "c87e95b9da1d4d0a",
+            "id": "7b02a29f03e7be61",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -222,28 +166,18 @@
             }
           },
           {
-            "id": "8e6283700a356b69",
+            "id": "35b5f774000204cb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of memo"
-            }
-          },
-          {
-            "id": "7ce9c78bae8010dd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of index"
             }
           }
         ]
@@ -262,56 +196,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "52416c037d801dfe",
+  "active": "0d0134764e565021",
   "lastOpenFiles": [
-    "content/프론트의 법칙.md",
-    "content/React/Redux/pub.sub.md",
-    "content/javascript/동기.비동기.블로킹.논블로킹.md",
-    "content/React/Redux/Provider 사용하기.md",
-    "content/React/React developer tools.md",
-    "content/React/Rendering 동작방식.md",
-    "content/💜 Study List..md",
-    "content/Redux/Redux Reducer.md",
-    "content/Redux/Redux.md",
-    "content/Redux/Redux 여행의 지도.md",
-    "content/Redux",
-    "content/Redux.md",
-    "content/Developer/방화벽.md",
-    "content/javascript/배열고차함수.md",
-    "content/javascript/동기와 비동기.md",
-    "content/React/Redux/React Redux.md",
-    "content/Developer/iptables 방화벽 실전.md",
-    "content/Developer/Cidr.md",
-    "content/React/Redux/Redux 실전.md",
-    "content/React/Redux/Redux의 필요성.md",
-    "content/Developer/iptables.md",
-    "content/Developer/공유기와 허브.md",
-    "content/Developer/Port Forwarding.md",
-    "content/Developer/방화벽의 설정 진행순서.md",
-    "content/Git/fork와 clone의 차이.md",
-    "conflict-files-obsidian-git.md",
-    "content/Flutter/준비해야할 것.md",
-    "content/Flutter",
-    "Pasted image 20250522183852.png",
-    "content/React/Redux",
-    "Pasted image 20250521122643.png",
-    "Pasted image 20250521122548.png",
-    "Pasted image 20250521105018.png",
-    "Pasted image 20250521101729.png",
-    "content/Google/AI Studio",
-    "content/Google/GCP",
-    "content/javascript",
+    "public/static/icon.jpg",
+    "content/React/오류는 왜 발생했을까.md",
+    "content/Data structure/Telegram/Array.md",
+    "content/Math/log.md",
+    "content/Data structure/Array, Array List, Linked List.md",
+    "content/Data structure/Telegram/ArrayList.md",
+    "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
     "content/Data structure/Telegram",
+    "conflict-files-obsidian-git.md",
+    "content/Data structure/Telegram/List.md",
+    "content/db.md",
+    "content/ai를 api형태로.md",
+    "content/JAVA/채팅형태의 쪽지 구현하기.md",
     "content/Data structure",
+    "content/Git/커밋 컨벤션.md",
+    "content/Next js/Next js을 이용한 kakao map사용하기.md",
+    "content/Next js/반응형 디자인.md",
+    "content/Next js/kakao map 사용하기.md",
+    "content/JAVA/JWT.md",
+    "content/🐶 DOGLOG project/1일차🐶 프로젝트 주제 선정.md",
+    "content/프로젝트 피드백 - 휴대폰 인증.md",
+    "content/JAVA/ENUM.md",
+    "content/Next js/Next js 설치.md",
+    "content/Next js/next js 기본 세팅.md",
+    "content/🐶 DOGLOG project/18일차🎨 프론트 config.md",
+    "content/Developer/OSI 7계층.md",
+    "content/YOON/이력서 작성 팁.md",
+    "content/🐶 DOGLOG project/17일차🌱 Entity생성.md",
     "content/🍚 CodingTest/프로그래머스",
     "content/YOON",
+    "content/React",
+    "content/Git/branch",
+    "content/Git",
+    "content/ETC/open api",
+    "content/ETC/Troubleshooting",
+    "content/ETC",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
-    "public/link-blog.jpg"
+    "public/link-blog.jpg",
+    "Pasted image 20250424170315.png",
+    "Pasted image 20250424155440.png",
+    "Pasted image 20250424180015.png",
+    "Pasted image 20250424174237.png",
+    "Pasted image 20250424174202.png",
+    "Pasted image 20250424165852.png",
+    "Pasted image 20250424165607.png",
+    "Untitled.canvas"
   ]
 }
