@@ -34,7 +34,7 @@
 | 31  |          | 250331_2 Redux설치                                       | [[Redux 설치하기]]                                                                                                                       |
 | 32  |          | 250331_3 redux slice                                   | [[Redux 실전]]                                                                                                                         |
 | 33  |          | 250331_4 Redux <br>Action Reduce                       | [[Redux 실전]]<br>[[payload]]                                                                                                          |
-| 34  | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]                                                                     |
+| 34  | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]<br>[[pub.sub]]                                                      |
 | 35  |          | 250401_2 npm 패키지 사용법<br>(차트 가져오기)                      | [[chart js]]                                                                                                                         |
 | 36  | 04-02    | 25 0402_1 동적라우팅                                        | [[동적라우팅]]                                                                                                                            |
 | 37  |          | 250402_2 GPT 활용방법                                      | gpt에게 css코드만들어달라고하기                                                                                                                  |
@@ -59,4 +59,3 @@ Q. provider 동작 원리에 대해 설명해주세요.
 - 채용공고가 점점 늘고있다
 - 리액트 네이티브보다 플러터를 더 선호한다(리액트 네이티브는 느리거든)
 - IOS와 안드로이드, 웹까지 모두 가능.
-- 
