@@ -65,7 +65,10 @@ export default ((opts?: Partial<GraphOptions>) => {
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
     return (
         <>
-          <img src="https://i.imgur.com/QXuj0ht.png" width="180" />
+          <div style={{textAlign: 'center'}}>
+            <img src="https://i.imgur.com/QXuj0ht.png" width="120" />
+          </div>
+
           <div className={classNames(displayClass, "graph")}>
             <h3>{i18n(cfg.locale).components.graph.title}</h3>
             <div className="graph-outer">
