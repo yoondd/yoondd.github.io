@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Math/log.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "index"
             }
           }
         ],
@@ -201,10 +201,10 @@
   },
   "active": "0d0134764e565021",
   "lastOpenFiles": [
+    "content/Math/log.md",
     "public/static/icon.jpg",
     "content/React/오류는 왜 발생했을까.md",
     "content/Data structure/Telegram/Array.md",
-    "content/Math/log.md",
     "content/Data structure/Array, Array List, Linked List.md",
     "content/Data structure/Telegram/ArrayList.md",
     "content/GCP/Google Cloud SQL 인스턴스 생성부터 Cloud Run API 배포까지.md",
@@ -246,7 +246,6 @@
     "Pasted image 20250424174237.png",
     "Pasted image 20250424174202.png",
     "Pasted image 20250424165852.png",
-    "Pasted image 20250424165607.png",
     "Untitled.canvas"
   ]
 }
