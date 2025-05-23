@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,12 +237,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3c2e8150893f3c5a",
+  "active": "70f9fe9f57634751",
   "lastOpenFiles": [
+    "content/React/Redux/pub.sub.md",
     "content/javascript/동기.비동기.블로킹.논블로킹.md",
     "content/💜 Study List..md",
     "content/React/React developer tools.md",
-    "content/React/Redux/pub.sub.md",
     "content/React/Redux/Provider 사용하기.md",
     "content/Redux/Redux Reducer.md",
     "content/Redux/Redux.md",
