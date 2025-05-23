@@ -67,7 +67,8 @@ export default ((opts?: Partial<GraphOptions>) => {
         <>
           <div style={{textAlign: 'center'}}>
             <img src="https://i.imgur.com/QXuj0ht.png" width="120" /><br/>
-            <img src="https://hits.sh/yoondd.github.io.svg?view=today,total" alt="방문자 카운터" />
+            <img src="https://hits.sh/yoondd.github.io.svg?view=today+total" alt="방문자 카운터" />
+
           </div>
 
           <div className={classNames(displayClass, "graph")}>
