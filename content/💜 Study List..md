@@ -34,7 +34,7 @@
 | 31  |          | 250331_2 Redux설치                                       | [[Redux 설치하기]]                                                                                                                       |
 | 32  |          | 250331_3 redux slice                                   | [[Redux 실전]]                                                                                                                         |
 | 33  |          | 250331_4 Redux <br>Action Reduce                       | [[Redux 실전]]<br>[[payload]]                                                                                                          |
-| 34  | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]                                                                     |
+| 34  | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]<br>[[pub.sub]]                                                      |
 | 35  |          | 250401_2 npm 패키지 사용법<br>(차트 가져오기)                      | [[chart js]]                                                                                                                         |
 | 36  | 04-02    | 25 0402_1 동적라우팅                                        | [[동적라우팅]]                                                                                                                            |
 | 37  |          | 250402_2 GPT 활용방법                                      | gpt에게 css코드만들어달라고하기                                                                                                                  |
@@ -42,12 +42,15 @@
 | 39  |          | 250409_2 방화벽 <br>iptables 공유기이해                        | [[iptables]]<br>[[공유기와 허브]]<br>[[Port Forwarding]]                                                                                   |
 | 40  |          | 250409_3 방화벽 <br>Docker의 방화벽                           | [[iptables 방화벽 실전]]                                                                                                                  |
 | 41  |          | 250409_4 방화벽<br>Docker의 방화벽II                          | [[iptables 방화벽 실전]]                                                                                                                  |
+| 42  | 04-10    | 250410_1 Spring Swagger                                | [[Swagger]]<br>API명세서 자동문서화                                                                                                          |
+| 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service      |                                                                                                                                      |
+| 44  | 04-16    | 250416 다수의데이틀 C                                        |                                                                                                                                      |
 
 
 Q. provider 동작 원리에 대해 설명해주세요. 
 [[pub.sub]] 먼저 동기 비동기 블로킹 논블로킹 부터 봐라.
 [[동기.비동기.블로킹.논블로킹]]
-
+[[Rendering 동작방식]]
 
 ---
 
@@ -59,4 +62,3 @@ Q. provider 동작 원리에 대해 설명해주세요.
 - 채용공고가 점점 늘고있다
 - 리액트 네이티브보다 플러터를 더 선호한다(리액트 네이티브는 느리거든)
 - IOS와 안드로이드, 웹까지 모두 가능.
-- 

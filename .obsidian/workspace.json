@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/💜 Study List..md",
+                "file": "content/Developer/MCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💜 Study List."
+              "title": "MCP"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/동기.비동기.블로킹.논블로킹.md",
+                "file": "content/Git/git merge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동기.비동기.블로킹.논블로킹"
+              "title": "git merge"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "head",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/javascript/동기.비동기.블로킹.논블로킹.md",
+                "file": "content/Developer/MCP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 동기.비동기.블로킹.논블로킹"
+              "title": "Backlinks for MCP"
             }
           },
           {
@@ -196,10 +195,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6f123248ea812320",
+  "active": "0d0134764e565021",
   "lastOpenFiles": [
-    "content/Redux/Redux 여행의 지도.md",
     "content/💜 Study List..md",
+    "content/Developer/MCP.md",
+    "content/Git/git merge.md",
+    "content/Git/git reset.md",
+    "conflict-files-obsidian-git.md",
+    "content/javascript/동기.비동기.블로킹.논블로킹.md",
+    "public/robots.txt",
+    "public/link.jpg",
+    "content/프론트의 법칙.md",
+    "content/Redux/Redux Reducer.md",
+    "content/React/오류는 왜 발생했을까.md",
+    "content/React/Rendering 동작방식.md",
+    "content/JAVA/Spring boot/Swagger.md",
+    "content/Git/git commit option.md",
+    "content/Redux/Redux 여행의 지도.md",
     "content/Flutter/준비해야할 것.md",
     "content/React/Redux/Redux.md",
     "content/Redux/Redux.md",
@@ -213,20 +225,9 @@
     "content/Developer/Port Forwarding.md",
     "content/Developer/Cidr.md",
     "content/Developer/방화벽 설정.md",
-    "content/javascript/동기.비동기.블로킹.논블로킹.md",
     "content/React/리액트 라이프사이클.md",
     "content/Flutter",
-    "next js 설치.md",
-    "content/React/use client.md",
-    "content/React/payload.md",
-    "content/React/chart js.md",
-    "content/React/Redux/pub.sub.md",
-    "content/React/Redux/Redux의 필요성.md",
-    "content/React/Redux/Redux 실전.md",
-    "content/React/Redux/Redux 설치하기.md",
-    "content/React/Redux/Provider 사용하기.md",
     "content/React/Redux",
-    "content/React/React developer tools.md",
     "Pasted image 20250522183852.png",
     "Pasted image 20250521122643.png",
     "Pasted image 20250521122548.png",
@@ -240,10 +241,8 @@
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
-    "content/🍚 CodingTest/프로그래머스",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
-    "public/link-blog.jpg",
     "Untitled.canvas"
   ]
 }

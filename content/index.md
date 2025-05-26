@@ -8,7 +8,7 @@ image: https://yoondd.github.io/TIL/link-blog.jpg
 
 # 👋 겁 없이 배웁니다
 
-<img src="https://i.imgur.com/QXuj0ht.png" width="200" />
+<!--img src="https://i.imgur.com/QXuj0ht.png" width="200" -->
 
 관상학에서 큰 눈은 겁을 상징한다고 합니다.<br>
 크고 똥글똥글한 눈을 가진 저는, 잠자리 한 마리도 무서워 잡지 못할 만큼 겁이 많습니다.<br>
