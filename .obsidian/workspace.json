@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f26f68dabd3eae83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/JAVA/Spring boot/Present Entity. Fast Spring Boot Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Present Entity. Fast Spring Boot Setup"
-            }
-          },
-          {
-            "id": "d43ef39fafae8e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/JAVA/Spring boot/Swagger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Swagger"
-            }
-          },
-          {
             "id": "abcc4910fdbc4c9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/javascript/왜 리턴은 오직 하나인가?.md",
+                "file": "content/Developer/MVC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "왜 리턴은 오직 하나인가?"
+              "title": "MVC"
             }
           },
           {
-            "id": "d504d47e46afb52d",
+            "id": "aea4af47b62f1d4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/💜 Study List..md",
+                "file": "content/Redux/공용 데이터 관리, 왜 굳이 리덕스를 쓸까.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💜 Study List."
+              "title": "공용 데이터 관리, 왜 굳이 리덕스를 쓸까"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "provider",
+                "query": "mvc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,13 +195,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d504d47e46afb52d",
+  "active": "aea4af47b62f1d4f",
   "lastOpenFiles": [
-    "content/Developer/패킹 언패킹.md",
-    "content/javascript/왜 리턴은 오직 하나인가?.md",
-    "content/JAVA/Spring boot/Swagger.md",
+    "content/Redux/공용 데이터 관리, 왜 굳이 리덕스를 쓸까.md",
+    "content/Developer/MVC.md",
+    "content/YOON/memo.md",
     "content/💜 Study List..md",
+    "content/javascript/왜 리턴은 오직 하나인가?.md",
     "content/JAVA/Spring boot/Present Entity. Fast Spring Boot Setup.md",
+    "content/JAVA/Spring boot/Swagger.md",
+    "content/Developer/패킹 언패킹.md",
     "content/MCP/Cursor와 MCP로 경험한 Figma.md",
     "content/MCP/MCP.md",
     "content/MCP",
@@ -252,9 +227,6 @@
     "content/Redux.md",
     "content/Developer/방화벽.md",
     "content/javascript/배열고차함수.md",
-    "content/javascript/동기와 비동기.md",
-    "content/React/Redux/React Redux.md",
-    "content/Developer/iptables 방화벽 실전.md",
     "content/Flutter",
     "Pasted image 20250522183852.png",
     "content/React/Redux",
