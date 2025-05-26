@@ -25,7 +25,7 @@
 | 22  | 03-26    | JS_250326_1 <br>HTML CSS WEB 틀 만들기                     | -소리가나오지않음-<br>대략 HTML 틀 만드는 것으로 보임                                                                                                   |
 | 23  |          | JS_250326_2 <br>리엑트 개발자모드 <br>StricMode                | [[오류는 왜 발생했을까?]]                                                                                                                     |
 | 24  |          | JS_250326_3 <br>리엑트 Hook <br>useState useEffect        | [[Hook]]                                                                                                                             |
-| 25  | 03-27    | JS_250327_1 Next.JS 설치                                 | [[next js 설치]]                                                                                                                       |
+| 25  | 03-27    | JS_250327_1 Next.JS 설치                                 | [[next js 설치 1]]                                                                                                                       |
 | 26  |          | 20250327_2 git 프레임워크 <br>프로젝트 운영방법                     | 간단한 git사용법                                                                                                                           |
 | 27  |          | 250327_3 git <br>TeamPlay 방법                           | 내가 알고있는 깃 협업방법과 동일                                                                                                                   |
 | 28  | 03-28    | 250328_1 CSS <br>폰트 셋업방법                               | [[webfont]]                                                                                                                          |
@@ -34,7 +34,7 @@
 | 31  |          | 250331_2 Redux설치                                       | [[Redux 설치하기]]                                                                                                                       |
 | 32  |          | 250331_3 redux slice                                   | [[Redux 실전]]                                                                                                                         |
 | 33  |          | 250331_4 Redux <br>Action Reduce                       | [[Redux 실전]]<br>[[payload]]                                                                                                          |
-| 34  | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]<br>[[pub.sub]]                                                      |
+| 34  | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]<br>[[pub.sub]]<br>[[공용 데이터 관리, 왜 굳이 리덕스를 쓸까]]                       |
 | 35  |          | 250401_2 npm 패키지 사용법<br>(차트 가져오기)                      | [[chart js]]                                                                                                                         |
 | 36  | 04-02    | 25 0402_1 동적라우팅                                        | [[동적라우팅]]                                                                                                                            |
 | 37  |          | 250402_2 GPT 활용방법                                      | gpt에게 css코드만들어달라고하기                                                                                                                  |
@@ -42,6 +42,9 @@
 | 39  |          | 250409_2 방화벽 <br>iptables 공유기이해                        | [[iptables]]<br>[[공유기와 허브]]<br>[[Port Forwarding]]                                                                                   |
 | 40  |          | 250409_3 방화벽 <br>Docker의 방화벽                           | [[iptables 방화벽 실전]]                                                                                                                  |
 | 41  |          | 250409_4 방화벽<br>Docker의 방화벽II                          | [[iptables 방화벽 실전]]                                                                                                                  |
+| 42  | 04-10    | 250410_1 Spring Swagger                                | [[Swagger]]<br>API명세서 자동문서화(반영완료)                                                                                                    |
+| 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service      | 예외처리 부분                                                                                                                              |
+| 44  | 04-16    | 250416 다수의데이블 C                                        |                                                                                                                                      |
 
 
 Q. provider 동작 원리에 대해 설명해주세요. 
