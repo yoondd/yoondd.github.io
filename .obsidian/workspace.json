@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "9a72078348b52cc5",
+    "id": "aaf36a2e1141f395",
     "type": "split",
     "children": [
       {
-        "id": "7a8b5f8334b93594",
+        "id": "a9add754e69ab0d7",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0134764e565021",
+            "id": "e82fbf6df5708a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Developer/LLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM"
+            }
+          },
+          {
+            "id": "d82236266a447954",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,36 +34,23 @@
               "icon": "lucide-file",
               "title": "MCP"
             }
-          },
-          {
-            "id": "6f123248ea812320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Git/git merge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git merge"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8baae3213925dc19",
+    "id": "cca02aa3adfd8466",
     "type": "split",
     "children": [
       {
-        "id": "45d7b8c7c9e2e773",
+        "id": "83125c12e4601b09",
         "type": "tabs",
         "children": [
           {
-            "id": "ec070b026d61fd21",
+            "id": "3222cc213081cb1d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,12 +63,12 @@
             }
           },
           {
-            "id": "bc40937b8b5da85e",
+            "id": "bde1a643e95f6b8f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "head",
+                "query": "provider",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +80,7 @@
             }
           },
           {
-            "id": "646ebf1dad556852",
+            "id": "a8c54e42cba10209",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,24 +93,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 300
   },
   "right": {
-    "id": "8b2173fa939cf7d1",
+    "id": "1c5107a2f91d466a",
     "type": "split",
     "children": [
       {
-        "id": "c549496e8587949d",
+        "id": "8206a6ce2ddaca85",
         "type": "tabs",
         "children": [
           {
-            "id": "3169c0db0f9bef39",
+            "id": "d62fd1049d22b148",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Developer/MCP.md",
-                "collapseAll": true,
+                "file": "content/memo.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -118,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MCP"
+              "title": "Backlinks for memo"
             }
           },
           {
-            "id": "3ce480bbc5939851",
+            "id": "fe38949e9b65da45",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from memo"
             }
           },
           {
-            "id": "7b02a29f03e7be61",
+            "id": "c87e95b9da1d4d0a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,22 +152,22 @@
             }
           },
           {
-            "id": "35b5f774000204cb",
+            "id": "8e6283700a356b69",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/memo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of memo"
             }
           },
           {
-            "id": "07c7621a80323b1c",
+            "id": "7ce9c78bae8010dd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -175,8 +176,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,54 +195,52 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0d0134764e565021",
+  "active": "d82236266a447954",
   "lastOpenFiles": [
-    "content/💜 Study List..md",
+    "content/Developer/LLM.md",
     "content/Developer/MCP.md",
-    "content/Git/git merge.md",
-    "content/Git/git reset.md",
-    "conflict-files-obsidian-git.md",
-    "content/javascript/동기.비동기.블로킹.논블로킹.md",
+    "content/프론트의 법칙.md",
     "public/robots.txt",
     "public/link.jpg",
-    "content/프론트의 법칙.md",
-    "content/Redux/Redux Reducer.md",
     "content/React/오류는 왜 발생했을까.md",
-    "content/React/Rendering 동작방식.md",
     "content/JAVA/Spring boot/Swagger.md",
     "content/Git/git commit option.md",
-    "content/Redux/Redux 여행의 지도.md",
-    "content/Flutter/준비해야할 것.md",
-    "content/React/Redux/Redux.md",
+    "content/React/Redux/pub.sub.md",
+    "content/javascript/동기.비동기.블로킹.논블로킹.md",
+    "content/React/Redux/Provider 사용하기.md",
+    "content/React/React developer tools.md",
+    "content/React/Rendering 동작방식.md",
+    "content/💜 Study List..md",
+    "content/Redux/Redux Reducer.md",
     "content/Redux/Redux.md",
+    "content/Redux/Redux 여행의 지도.md",
     "content/Redux",
-    "content/React/Redux/React Redux.md",
-    "content/Developer/방화벽의 설정 진행순서.md",
+    "content/Redux.md",
     "content/Developer/방화벽.md",
-    "content/Developer/공유기와 허브.md",
-    "content/Developer/iptables.md",
+    "content/javascript/배열고차함수.md",
+    "content/javascript/동기와 비동기.md",
+    "content/React/Redux/React Redux.md",
     "content/Developer/iptables 방화벽 실전.md",
-    "content/Developer/Port Forwarding.md",
     "content/Developer/Cidr.md",
-    "content/Developer/방화벽 설정.md",
-    "content/React/리액트 라이프사이클.md",
+    "content/React/Redux/Redux 실전.md",
+    "content/React/Redux/Redux의 필요성.md",
+    "content/Developer/iptables.md",
+    "content/Developer/공유기와 허브.md",
     "content/Flutter",
-    "content/React/Redux",
     "Pasted image 20250522183852.png",
+    "content/React/Redux",
     "Pasted image 20250521122643.png",
     "Pasted image 20250521122548.png",
     "Pasted image 20250521105018.png",
     "Pasted image 20250521101729.png",
-    "content/Google/GCP",
     "content/Google/AI Studio",
-    "content/Google",
-    "Pasted image 20250520142516.png",
-    "Pasted image 20250520124626.png",
+    "content/Google/GCP",
     "content/javascript",
     "content/Data structure/Telegram",
     "content/Data structure",
+    "content/🍚 CodingTest/프로그래머스",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
-    "Untitled.canvas"
+    "public/link-blog.jpg"
   ]
 }
