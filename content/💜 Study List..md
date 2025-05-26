@@ -42,8 +42,8 @@
 | 39  |          | 250409_2 방화벽 <br>iptables 공유기이해                        | [[iptables]]<br>[[공유기와 허브]]<br>[[Port Forwarding]]                                                                                   |
 | 40  |          | 250409_3 방화벽 <br>Docker의 방화벽                           | [[iptables 방화벽 실전]]                                                                                                                  |
 | 41  |          | 250409_4 방화벽<br>Docker의 방화벽II                          | [[iptables 방화벽 실전]]                                                                                                                  |
-| 42  | 04-10    | 250410_1 Spring Swagger                                | [[Swagger]]<br>API명세서 자동문서화                                                                                                          |
-| 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service      |                                                                                                                                      |
+| 42  | 04-10    | 250410_1 Spring Swagger                                | [[Swagger]]<br>API명세서 자동문서화(반영완료)                                                                                                    |
+| 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service      | 예외처리 부분                                                                                                                              |
 | 44  | 04-16    | 250416 다수의데이틀 C                                        |                                                                                                                                      |
 
 
