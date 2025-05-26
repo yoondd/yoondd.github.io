@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/MCP/mcp. figma..md",
+                "file": "content/MCP/Cursor와 MCP로 경험한 Figma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mcp. figma."
+              "title": "Cursor와 MCP로 경험한 Figma"
             }
           }
         ]
@@ -183,7 +183,7 @@
   "active": "f26f68dabd3eae83",
   "lastOpenFiles": [
     "content/MCP/MCP.md",
-    "content/MCP/mcp. figma..md",
+    "content/MCP/Cursor와 MCP로 경험한 Figma.md",
     "content/MCP",
     "content/MCP/Figma token.md",
     "content/MCP/LLM.md",
