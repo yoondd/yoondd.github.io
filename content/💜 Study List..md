@@ -34,7 +34,7 @@
 | 31  |          | 250331_2 Redux설치                                       | [[Redux 설치하기]]                                                                                                                       |
 | 32  |          | 250331_3 redux slice                                   | [[Redux 실전]]                                                                                                                         |
 | 33  |          | 250331_4 Redux <br>Action Reduce                       | [[Redux 실전]]<br>[[payload]]                                                                                                          |
-| 34  | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]<br>[[pub.sub]]                                                      |
+| 34  | 04-01    | 250401_1 Provider 사용                                   | [[Provider 사용하기]]<br>[[use client]]<br>[[React developer tools]]<br>[[pub.sub]]<br>[[공용 데이터 관리, 왜 굳이 리덕스를 쓸까]]                       |
 | 35  |          | 250401_2 npm 패키지 사용법<br>(차트 가져오기)                      | [[chart js]]                                                                                                                         |
 | 36  | 04-02    | 25 0402_1 동적라우팅                                        | [[동적라우팅]]                                                                                                                            |
 | 37  |          | 250402_2 GPT 활용방법                                      | gpt에게 css코드만들어달라고하기                                                                                                                  |
@@ -44,7 +44,7 @@
 | 41  |          | 250409_4 방화벽<br>Docker의 방화벽II                          | [[iptables 방화벽 실전]]                                                                                                                  |
 | 42  | 04-10    | 250410_1 Spring Swagger                                | [[Swagger]]<br>API명세서 자동문서화(반영완료)                                                                                                    |
 | 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service      | 예외처리 부분                                                                                                                              |
-| 44  | 04-16    | 250416 다수의데이틀 C                                        |                                                                                                                                      |
+| 44  | 04-16    | 250416 다수의데이블 C                                        |                                                                                                                                      |
 
 
 Q. provider 동작 원리에 대해 설명해주세요. 
