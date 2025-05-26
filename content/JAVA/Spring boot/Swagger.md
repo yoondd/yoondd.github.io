@@ -56,3 +56,44 @@ public class HelloController {
 - 문서화와 동시에 테스트까지 한 번에 가능!
 - 협업할 때 커뮤니케이션이 훨씬 쉬워져.
 
+
+
+
+---
+
+
+
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+
+```java
+// build.gradle
+// https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui
+implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.8'
+```
+
+```sh
+//application.yml
+springdoc:  
+  api-docs:  
+    enabled: true  # API 문서(`/v3/api-docs`) 활성화 여부 (기본값: true)  
+    path: /v3/api-docs  # API 문서의 엔드포인트 변경 (기본값: /v3/api-docs)  
+    groups.enabled: true  # 여러 개의 API 그룹을 지원할지 여부  
+  
+  swagger-ui:  
+    path: /swagger-ui.html  # Swagger UI 접속 경로 변경 (기본값: /swagger-ui.html)  
+    operationsSorter: method  # API 정렬 기준 (alpha: 알파벳순, method: HTTP 메서드 순)  
+    tagsSorter: alpha  # 태그 정렬 방식 (alpha: 알파벳순 정렬)  
+    display-request-duration: true  # 요청 실행 시간 표시 여부  
+    doc-expansion: none  # Swagger UI에서 API 설명의 기본 펼침 상태 (none: 닫힘, list: 펼침, full: 전체 펼침)  
+    persistAuthorization: true  # 페이지 새로고침 후에도 Authorization 헤더 유지 여부  
+    defaultModelsExpandDepth: -1  # 모델 스키마의 기본 펼침 깊이 (-1이면 모델 펼쳐지지 않음)  
+  
+  paths-to-match:  # OpenAPI 문서에서 포함할 엔드포인트 패턴  
+    - /v1/**  # /v1로 시작하는 모든 경로 포함  
+    - /v2/**  # /v2로 시작하는 모든 경로 포함  
+  cache:  
+    disabled: true  # OpenAPI 문서의 캐싱 비활성화 (기본값: false)
+
+```
+
+
