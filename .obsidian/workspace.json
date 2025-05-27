@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "외래키와 서비스 분리"
             }
+          },
+          {
+            "id": "e1d1fa62778e8564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/배포와 로드밸런서(L4, L7).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "배포와 로드밸런서(L4, L7)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,11 +209,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "565a10434e52afc2",
+  "active": "e1d1fa62778e8564",
   "lastOpenFiles": [
+    "content/JAVA/배포와 로드밸런서(L4, L7).md",
+    "content/Developer/외래키와 서비스 분리.md",
     "content/🌸 Study List..md",
     "content/JAVA/Valid.md",
-    "content/Developer/외래키와 서비스 분리.md",
     "content/Redux/Redux toolkit 혼자 연습하기.md",
     "content/Redux/공용 데이터 관리, 왜 굳이 리덕스를 쓸까.md",
     "content/Redux/Redux.md",
@@ -223,7 +238,6 @@
     "content/YOON/🍚 CodingTest/프로그래머스/5일차. 특수문자 출력하기.md",
     "content/YOON/🍚 CodingTest/프로그래머스/4일차. 대소문자 바꿔서 출력하기.md",
     "content/YOON/🍚 CodingTest/프로그래머스/3일차. 문자열 반복해서 처리하기.md",
-    "content/YOON/🍚 CodingTest/프로그래머스/2일차. 원소들의 곱과 합.md",
     "content/YOON/🍚 CodingTest/프로그래머스",
     "content/YOON/🍚 CodingTest",
     "content/MCP",
