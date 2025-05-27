@@ -55,30 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🌸 Study List..md",
+                "file": "content/React/Redux/Provider 사용하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌸 Study List."
+              "title": "Provider 사용하기"
             }
           },
           {
-            "id": "7847570e861aadcd",
+            "id": "6690b110d79dc2ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/React/Rendering 동작방식.md",
+                "file": "content/Flutter/준비해야할 것.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rendering 동작방식"
+              "title": "준비해야할 것"
+            }
+          },
+          {
+            "id": "f08f68234f695f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Redux/redux 수업.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "redux 수업"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,16 +251,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "47d7dda91b79e34e",
+  "active": "f08f68234f695f99",
   "lastOpenFiles": [
-    "content/React/Rendering 동작방식.md",
-    "content/🌸 Study List..md",
-    "content/Developer/배포와 로드밸런서(L4, L7).md",
+    "content/Redux/redux 수업.md",
+    "content/React/Redux/Provider 사용하기.md",
+    "content/YOON/면접 팁.md",
+    "content/Flutter/준비해야할 것.md",
     "content/Developer/외래키와 서비스 분리.md",
-    "content/JAVA/Valid.md",
+    "content/Developer/배포와 로드밸런서(L4, L7).md",
+    "content/🌸 Study List..md",
+    "content/YOON/이력서 작성 팁.md",
     "content/Redux/Redux toolkit 혼자 연습하기.md",
     "content/Redux/공용 데이터 관리, 왜 굳이 리덕스를 쓸까.md",
+    "content/Redux/Redux 여행의 지도.md",
     "content/Redux/Redux.md",
+    "content/Redux/Redux Reducer.md",
+    "content/React/Rendering 동작방식.md",
+    "content/JAVA/Valid.md",
     "conflict-files-obsidian-git.md",
     "content/YOON/🐶 DOGLOG project/프로젝트 피드백 - 휴대폰 인증.md",
     "content/YOON/🐶 DOGLOG project/9일차😎 기능별 담당자 지정.md",
@@ -258,14 +279,7 @@
     "content/YOON/🐶 DOGLOG project/17일차🌱 Entity생성.md",
     "content/YOON/🐶 DOGLOG project/16일차👾 Git&DB Setting.md",
     "content/YOON/🐶 DOGLOG project/14일차👩🏻‍🏫 피드백 정리.md",
-    "content/YOON/🐶 DOGLOG project/10일차📦 데이터베이스 설계.md",
     "content/YOON/🐶 DOGLOG project",
-    "content/YOON/🍚 CodingTest/프로그래머스/9일차. 더 크게 합치기.md",
-    "content/YOON/🍚 CodingTest/프로그래머스/8일차. 문자열 섞기.md",
-    "content/YOON/🍚 CodingTest/프로그래머스/7일차. 문자열 겹쳐쓰기.md",
-    "content/YOON/🍚 CodingTest/프로그래머스/6일차. 덧셈식 출력하기.md",
-    "content/YOON/🍚 CodingTest/프로그래머스/5일차. 특수문자 출력하기.md",
-    "content/YOON/🍚 CodingTest/프로그래머스/4일차. 대소문자 바꿔서 출력하기.md",
     "content/YOON/🍚 CodingTest/프로그래머스",
     "content/YOON/🍚 CodingTest",
     "content/MCP",
