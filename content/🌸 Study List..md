@@ -43,7 +43,7 @@
 | 40  |          | 250409_3 방화벽 <br>Docker의 방화벽                           | [[iptables 방화벽 실전]]                                                                                                                                         |
 | 41  |          | 250409_4 방화벽<br>Docker의 방화벽II                          | [[iptables 방화벽 실전]]                                                                                                                                         |
 | 42  | 04-10    | 250410_1 Spring Swagger                                | [[Swagger]]<br>API명세서 자동문서화(반영완료)                                                                                                                           |
-| 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service      | 예외처리 부분                                                                                                                                                     |
+| 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service      | [[Advice]]<br>[[어노테이션 동작구조]]                                                                                                                                |
 | 44  | 04-16    | 250416 다수의데이블 C                                        | [[외래키와 서비스 분리]]<br>[[Valid]]                                                                                                                                |
 | 45  |          | 250416_2 다수의테이블의 C 사례                                  |                                                                                                                                                             |
 |     |          |                                                        |                                                                                                                                                             |
@@ -67,6 +67,13 @@ Q. provider 동작 원리에 대해 설명해주세요.
 [[동기.비동기.블로킹.논블로킹]]
 
 [[Rendering 동작방식]]
+
+
+
+Q. default fail은 언제 쓰나요?(왜 오버로딩까지 해요? 그냥 쓰면되는거아니에요?)
+
+[[default fail]]
+
 
 ---
 
