@@ -117,3 +117,31 @@ public class ResponseService {
 
 포인터를 활용해서 아주 아름다운 에러처리 서비스를 만들어냈다.
 
+
+
+메모리 접근하는 본질자체는 똑같지만, 안전장치를 둔다.
+
+
+
+#### 오버로딩을 사용해서 기본실패도 만들어줘
+
+```java
+// default fail  
+public static CommonResult getFailResult() {  
+    CommonResult result = new CommonResult();  
+    setResult(result, false, ResultCode.FAILED);  
+    return result;  
+}  
+  
+public static CommonResult getFailResult(ResultCode resultCode) {  
+    CommonResult result = new CommonResult();  
+    setResult(result, false, resultCode);  
+    return result;  
+}
+```
+
+
+진짜 중복코드 싹 빼고,
+
+아주 깔끔하게 예쁘게 만들었다.
+
