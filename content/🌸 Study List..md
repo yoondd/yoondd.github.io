@@ -55,7 +55,9 @@
 | 51  |          | 0306 재고 수정 - 예외처리                                      | [[재고 수정 로직]]                                                                                                                                                |
 | 52  |          | 0306 optional                                          | [[Optional이 필요한 이유]]                                                                                                                                        |
 | 53  |          | 0306 제네릭의 사용                                           | [[제네릭의 사용]]                                                                                                                                                 |
-|     |          |                                                        |                                                                                                                                                             |
+| 54  |          | 20250307_제1강 package와 import                           | [[import의 비밀]]                                                                                                                                              |
+| 55  |          | 20250307_제2강 제네릭의 사용                                   | [[제네릭과 응답 포장 구조]]                                                                                                                                           |
+| 56  |          | 20250307_제3강 BaseFrame_<br>ResponseService(제네릭)        | [[ResponseService의 품격]]<br>[[ListResult 만들기]]                                                                                                               |
 
 
 Q. provider 동작 원리에 대해 설명해주세요. 
