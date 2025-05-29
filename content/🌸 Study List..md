@@ -51,7 +51,7 @@
 | 47  |          | 0304 예외처리 exception package                            | [[예외처리의 짝꿍,  enum과 exception]]                                                                                                                              |
 | 48  |          | 0305 예외처리 내보낼 메시지 모델                                   | [[예외처리 메시지 모델(다형성)]]                                                                                                                                        |
 | 49  |          | 0305 예외처리 모델을 처리하기 위한<br>controller - service 관계       | [[ResponseService]]                                                                                                                                         |
-| 50  |          | 0306 포인터 개념을 활용한<br>메서드 나누기                            |                                                                                                                                                             |
+| 50  |          | 0306 포인터 개념을 활용한<br>메서드 나누기                            | [[C의 포인터]]<br>[[exception service2]]                                                                                                                        |
 
 
 Q. provider 동작 원리에 대해 설명해주세요. 
