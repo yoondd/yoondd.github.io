@@ -43,7 +43,7 @@
 | 40  |          | 250409_3 방화벽 <br>Docker의 방화벽                                         | [[iptables 방화벽 실전]]                                                                                                                                         |
 | 41  |          | 250409_4 방화벽<br>Docker의 방화벽II                                        | [[iptables 방화벽 실전]]                                                                                                                                         |
 | 42  | 04-10    | 250410_1 Spring Swagger                                              | [[Swagger]]<br>API명세서 자동문서화(반영완료)                                                                                                                           |
-| 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service                    | [[Advice]]<br>[[어노테이션 동작구조]]                                                                                                                                |
+| 43  | 04-15    | 250415_1 FrameWork<br>Exception of advice service                    | [[content/JAVA/예외처리/Advice]]<br>[[어노테이션 동작구조]]                                                                                                                                |
 | 44  | 04-16    | 250416 다수의데이블 C                                                      | [[외래키와 서비스 분리]]<br>[[Valid]]<br>[[다중테이블  C 사례1]]                                                                                                            |
 | 45  |          | 250416_2 다수의테이블의 C 사례                                                | [[다중테이블 C 사례2]]                                                                                                                                             |
 |     |          |                                                                      |                                                                                                                                                             |
@@ -66,6 +66,7 @@
 | 61  | 04-23    | 250423_1 빌더패턴 U에서 사용 방법(setter 사용 x)                                 | [[setter 버리기 2차 Update]]                                                                                                                                    |
 | 62  |          | 250423_2 entity에서 index 추가 & 관리                                      | [[entity에서 index추가 및 관리]]                                                                                                                                   |
 | 63  | 04-24    | 20250424 빌더 패턴 복수 R, 단수 R                                            | [[복수,단수R]]                                                                                                                                                  |
+|     |          |                                                                      |                                                                                                                                                             |
 
 
 ## 질문과 답 정리

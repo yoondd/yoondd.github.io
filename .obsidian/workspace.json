@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🌸 Study List..md",
+                "file": "content/JAVA/빌더패턴/복수,단수R.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌸 Study List."
+              "title": "복수,단수R"
             }
           },
           {
@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "질문과 답 정리"
             }
+          },
+          {
+            "id": "f5e9570b25e7b316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/advice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "advice"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,16 +209,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f5e8b54dac0e707d",
+  "active": "e991ce007c85bc55",
   "lastOpenFiles": [
-    "content/JAVA/예외처리/Advice.md",
-    "content/JAVA/질문과 답 정리.md",
+    "content/JAVA/advice.md",
+    "content/JAVA/빌더패턴/복수,단수R.md",
     "content/🌸 Study List..md",
+    "content/JAVA/질문과 답 정리.md",
+    "content/JAVA/예외처리/Advice.md",
     "content/JAVA/빌더패턴/setter 버리기 1차 Create.md",
     "content/JAVA/예외처리/ResponseService의 품격.md",
     "content/JAVA/entity에서 index추가 및 관리.md",
     "content/JAVA/문법/제네릭/제네릭과 응답 포장 구조.md",
-    "content/JAVA/빌더패턴/복수,단수R.md",
     "content/JAVA/예외처리/예외처리 구조 한눈에 보기.md",
     "content/JAVA/예외처리/재고 수정 로직.md",
     "content/JAVA/예외처리/ResponseService.md",
@@ -223,7 +239,6 @@
     "content/JAVA/문법/이미지 처리와 Blob - CDN 활용 핵심 개념.md",
     "content/JAVA/문법/String을 Char배열로 만들기.md",
     "content/JAVA/문법/제네릭",
-    "content/JAVA/SQL의 한계.md",
     "content/JAVA/문법",
     "content/JAVA/예외처리",
     "content/JAVA/회원",

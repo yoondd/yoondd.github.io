@@ -4,7 +4,7 @@ item이나 response부분에다가 적용을 한번 해볼까?
 
 
 
-## 1. 복수R
+# 1. 복수R
 
 ```java
 // model/ProductItem
@@ -111,8 +111,10 @@ public List<ProductItem> getProducts() {
 
 
 
+---
 
-## 2. 단수 R
+
+# 2. 단수 R
 
 ```java
 //productResponse
@@ -120,16 +122,50 @@ public List<ProductItem> getProducts() {
 @Getter
 @NoArgs~ 
 public class ProductResponse{
+
+	//1
 	private String id;
-		private String id;
-		
+	private String productType;
+	private String name;
+	private String productImageUrl;
+
+	//3 생성
+	private ProductResponse(Builder builder){
+		//
+		this.id = 
+	}
+
+
+	//2 생성
+	public static class Builder implements CommonModelBuilder<ProductResponse>{
+
+		//5
+		private final String id;
+		private final String productType;
+		private final String name;
+		private final String productImageUrl;
+
+		//6
+		public Builder(Product product){
+			this.id = product.getId();
+			this.productType = product.getProductType.getName();
+			this.name = product.getName();
+			this.productImageUrl = product.getProductImageUrl();
+		}
+
+		//4 탭탭 쳐서 완성
+		//@Override
+		//~~~~
+	}
+
+	
 }
 ```
 
 
 ```java
 //service
-p
+
 ```
 
 16:38
