@@ -25,4 +25,4 @@
 
 ---
 
-[[content/JAVA/Java Lesson/data type|data type]]
+[[content/JAVA/문법/data type|data type]]
