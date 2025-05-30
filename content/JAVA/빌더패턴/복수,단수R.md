@@ -131,8 +131,11 @@ public class ProductResponse{
 
 	//3 생성
 	private ProductResponse(Builder builder){
-		//
-		this.id = 
+		//7
+		this.id = builder.id;
+		this.productType = builder.productType;
+		this.name = builder.name;
+		this.productImageUrl = builder.productImageUrl;
 	}
 
 
@@ -165,7 +168,12 @@ public class ProductResponse{
 
 ```java
 //service
-
+public ProductResponse getProduct(long id){
+	Product product = productRepository.findById(id).orElseThrow();
+	//ProductResponse response = new ProductResponse.Builder(product).build();
+	//return response;
+	return new ProductResponse.Builder(product).build();
+}
 ```
 
-16:38
+
