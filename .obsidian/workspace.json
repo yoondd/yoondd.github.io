@@ -179,6 +179,16 @@
               "icon": "lucide-list",
               "title": "Outline of index"
             }
+          },
+          {
+            "id": "bb3cfcaec6542583",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
