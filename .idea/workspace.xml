@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80b85ec4-aea0-4921-afc2-98601ddb34c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/quartz/components/Graph.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/Graph.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="80b85ec4-aea0-4921-afc2-98601ddb34c9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748441931249</updated>
-      <workItem from="1748441932560" duration="620000" />
+      <workItem from="1748441932560" duration="793000" />
     </task>
     <servers />
   </component>
