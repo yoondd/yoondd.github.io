@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🌸 Study List..md",
+                "file": "content/javascript/왜 리턴은 오직 하나인가.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌸 Study List."
+              "title": "왜 리턴은 오직 하나인가"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "복수,단수R"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "리턴은",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec070b026d61fd21",
+  "active": "7f99e4276c99c824",
   "lastOpenFiles": [
     "content/🌸 Study List..md",
-    "content/Node js/Map.md",
     "content/JAVA/빌더패턴/복수,단수R.md",
+    "content/Node js/Map.md",
     "content/JAVA/빌더패턴/Builder 패턴으로 모델만들기 정리.md",
     "content/JAVA/회원/회원탈퇴 구현하기.md",
     "content/JAVA/회원/회원정보등록 중복방지.md",
