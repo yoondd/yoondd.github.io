@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/예외처리/예외처리 구조 한눈에 보기.md",
+                "file": "content/🌸 Study List..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "예외처리 구조 한눈에 보기"
+              "title": "🌸 Study List."
             }
           },
           {
@@ -160,8 +160,23 @@
               "icon": "lucide-file",
               "title": "예외처리의 짝꿍,  enum과 exception"
             }
+          },
+          {
+            "id": "2b07d007e6b2b5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/프로시저 뷰테이블.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "프로시저 뷰테이블"
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -193,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "singleresult",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -321,9 +335,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d0134764e565021",
+  "active": "2b07d007e6b2b5ee",
   "lastOpenFiles": [
     "content/🌸 Study List..md",
+    "content/JAVA/프로시저 뷰테이블.md",
+    "content/JAVA/예외처리/예외처리 구조 한눈에 보기.md",
     "content/JAVA/예외처리/ListResult 만들기.md",
     "content/JAVA/예외처리/ResponseService의 품격.md",
     "content/JAVA/문법/제네릭/제네릭과 응답 포장 구조.md",
@@ -348,9 +364,7 @@
     "content/MCP",
     "content/JAVA/회원/회원탈퇴 구현하기.md",
     "content/JAVA/회원/회원정보등록 중복방지.md",
-    "content/JAVA/회원/JWT.md",
     "content/JAVA/회원",
-    "content/JAVA/예외처리/예외처리 구조 한눈에 보기.md",
     "content/JAVA/예외처리",
     "content/JAVA/빌더패턴",
     "content/JAVA/문법/제네릭",
