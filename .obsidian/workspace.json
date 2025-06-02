@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a92c50914b240545",
+        "id": "f4fe583f7247906c",
         "type": "tabs",
         "children": [
           {
-            "id": "d1952f7f3784ac56",
+            "id": "95d3330cc70a3395",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Next js/동적라우팅.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "동적라우팅"
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +177,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d1952f7f3784ac56",
+  "active": "95d3330cc70a3395",
   "lastOpenFiles": [
+    "content/Next js/동적라우팅.md",
     "content/React/오류는 왜 발생했을까.md",
     "content/React/리액트 라이프사이클.md",
     "content/DB/asc,desc.md",
@@ -210,7 +206,6 @@
     "content/YOON/🍚 CodingTest/프로그래머스/8일차. 문자열 섞기.md",
     "content/YOON/🍚 CodingTest/프로그래머스/7일차. 문자열 겹쳐쓰기.md",
     "content/YOON/🍚 CodingTest/프로그래머스/6일차. 덧셈식 출력하기.md",
-    "content/YOON/🍚 CodingTest/프로그래머스/5일차. 특수문자 출력하기.md",
     "content/YOON/🍚 CodingTest/프로그래머스",
     "content/YOON/🍚 CodingTest",
     "content/JAVA/회원",
