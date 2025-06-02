@@ -10,4 +10,5 @@
 | 4   |          | 20250204_4강 <br>POSTGRES SELECT        | [[postgres select]]         |
 | 5   |          | 20250204_5강 <br>SQL 실기 문제풀이            | [[DISTINCT]]<br>            |
 | 6   | 04-05    | 20250205_1강<br>POSTGRES UPDATE와 DELETE | [[postgres update, delete]] |
+| 7   |          |                                        |                             |
 

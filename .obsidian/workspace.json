@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,11 +237,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b773b4a5b4d88dda",
+  "active": "e14e13db224af6f9",
   "lastOpenFiles": [
-    "content/DB/postgreSQL/postgres update, delete.md",
     "content/DB/DISTINCT.md",
     "content/DB/SQL 공부하기.md",
+    "content/DB/postgreSQL/postgres update, delete.md",
     "content/DB/postgreSQL/postgres create.md",
     "content/DB/postgreSQL/postgres select.md",
     "content/DB/범용게시판 설계하기.md",
