@@ -53,3 +53,65 @@ SELECT * FROM movie WHERE runtime_min >= 200;
 
 ## 4. 정렬해서 가져오기
 
+일단 정렬에서 [[asc,desc]] 이부분을 정확히 알아야한다.
+
+```sql
+SELECT * FROM movie 
+WHERE runtime_min >= 200
+ORDER BY title DESC;
+```
+
+식이 길어질 때는 이렇게 내려서 확인하는 것이 편하다.
+
+```sql
+-- 차순위 정렬
+SELECT * FROM movie  
+WHERE runtime_min >= 200  
+ORDER BY runtime_min DESC, title DESC;
+```
+
+이런식으로 1순위 정렬, 2순위 정렬... 이렇게 넣을 수도 있다.
+
+여러개의 정렬을 할 때에는 이렇게 컴마를 이용하면된다.
+
+
+---
+
+
+더 알아보기,
+
+## 5. 몇 개 인지 세어보기
+
+```sql
+SELECT count(*) FROM movie  
+WHERE release_year = 2011;
+```
+
+엑셀과 거의 비슷하다. count로 그냥 세어볼 수 있다.
+
+
+## 6. 중간에 '인'이라는 글자가 들어있는 영화찾기
+
+```sql
+SELECT * FROM movie 
+WHERE title LIKE '%인%';
+```
+
+LIKE는 닮았다. 이거 들어가는것과. 이런 뜻이다
+
+앞이든 뒤든 중간이든 상관없이 찾아오겠다는 말이다
+
+어려워도 속상해하지마  - 구글에서 "postgres 연산자"라고 검색하면 다 나오니까.
+
+|와일드카드|의미|예시 패턴|설명|
+|---|---|---|---|
+|%|0개 이상의 임의의 문자|'A%'|'A'로 시작하는 모든 값|
+|||'%A'|'A'로 끝나는 모든 값|
+|||'%A%'|'A'를 포함하는 모든 값|
+|_|정확히 1개의 임의의 문자|'A_B'|첫 글자 'A', 세 번째 글자 'B'|
+
+그중에 ILIKE도 있는데, 니가 어떤모습이든 너무 좋아해. 라는 뜻이라서
+
+대소문자를 구분하지않는다.
+
+
