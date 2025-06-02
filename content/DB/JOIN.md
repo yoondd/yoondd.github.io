@@ -149,3 +149,4 @@ AND id NOT IN (SELECT rabbit_id FROM link_history);
 
 > 결국 토끼의 아이디가 link_history에 없으면된다
 
+https://caramel-pine-008.notion.site/SQL-JOIN-191c7daa290d80c08c9bc6810b6e44f8
