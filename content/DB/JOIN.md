@@ -62,7 +62,48 @@ FROM rabbits r
 JOIN link_history lh ON r.id = lh.rabbit_id;
 ```
 
-## 2. 토끼
+## 2. 입양자 테이블과 중간다리를 붙이기
+
+```sql
+SELECT  
+    *  
+FROM rabbits r  
+JOIN link_history lh ON r.id = lh.rabbit_id
+JOIN customer c ON lh.customer_id = c.id;
+```
+
+## 3. 내가 필요한 정보만 빼오기
+
+```sql
+SELECT  
+    r.rabbit_name, 
+    r.gender,
+    r.birth_date,
+    r.is_alive,
+    lh.create_at,
+    c.name,
+    c.phone_number
+FROM rabbits r  
+JOIN link_history lh ON r.id = lh.rabbit_id
+JOIN customer c ON lh.customer_id = c.id;
+```
+
+## 4. 당연히 조건도 걸 수 있다
+
+```sql
+SELECT  
+    r.rabbit_name,  
+    r.gender,  
+    r.birth_date,  
+    r.is_alive,  
+    lh.create_at,  
+    c.name,  
+    c.phone_number  
+FROM rabbits r  
+JOIN link_history lh ON r.id = lh.rabbit_id  
+JOIN customer c ON lh.customer_id = c.id  
+WHERE r.is_alive = true;
+```
 
 
 ---
@@ -86,4 +127,19 @@ join은 일단 양쪽에 있어야만 가능하다
 
 ---
 
-16:48
+
+
+
+## 나혼자 해보는 예제
+
+입양되지않고 살아있는 토끼만 보기.
+
+```sql
+SELECT  
+    *  
+FROM rabbits r  
+WHERE is_alive = true  
+AND id NOT IN (SELECT rabbit_id FROM link_history);
+```
+
+뭐지 왜케어려워 ㅋㅋㅋㅋㅋ
