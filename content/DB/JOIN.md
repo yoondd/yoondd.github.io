@@ -143,3 +143,9 @@ AND id NOT IN (SELECT rabbit_id FROM link_history);
 ```
 
 뭐지 왜케어려워 ㅋㅋㅋㅋㅋ
+
+엄밀히 말하면 얘는 join은 아니네. "서브 쿼리"라고 할 수 있다
+
+
+> 결국 토끼의 아이디가 link_history에 없으면된다
+
