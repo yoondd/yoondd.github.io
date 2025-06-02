@@ -9,9 +9,10 @@
 | 3   |          | 20250204_3강 중복 입력                      | [[postgres insert]] 하단      |
 | 4   |          | 20250204_4강 <br>POSTGRES SELECT        | [[postgres select]]         |
 | 5   |          | 20250204_5강 <br>SQL 실기 문제풀이            | [[DISTINCT]]<br>            |
-| 6   | 04-05    | 20250205_1강<br>POSTGRES UPDATE와 DELETE | [[postgres update, delete]] |
+| 6   | 02-05    | 20250205_1강<br>POSTGRES UPDATE와 DELETE | [[postgres update, delete]] |
 | 7   |          | 20250205_2강 DDL 작성요령                   | [[CHECK 제약조건]]              |
 | 8   |          | 20250205_3강 DataLink References        | [[토끼 입양시키기]]                |
 | 9   |          | 20250205_4강 SQL JOIN                   | [[JOIN]]                    |
-| 10  |          | 20250206_1강 SQL SELECT JOIN            | 토끼문제 풀기([[JOIN]])           |
+| 10  | 02-06    | 20250206_1강 SQL SELECT JOIN            | 토끼문제 풀기([[JOIN]])           |
+| 11  |          | 20250206_2강 SQL GROP                   | [[GROUP BY]]                |
 
