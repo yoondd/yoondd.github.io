@@ -71,3 +71,27 @@
     }
   }
 }
+.icons-row {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 5px;
+}
+
+.icon-link {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.icon-link:hover {
+  transform: scale(1.1);
+}
+
+.git-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.visitor-counter {
+  height: 20px;
+}
