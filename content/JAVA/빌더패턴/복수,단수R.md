@@ -177,3 +177,5 @@ public ProductResponse getProduct(long id){
 ```
 
 
+
+[[Builder 패턴으로 모델만들기 정리]]
