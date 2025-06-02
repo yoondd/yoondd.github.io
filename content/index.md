@@ -44,11 +44,11 @@ image: https://yoondd.github.io/TIL/link-blog.jpg
 ## 🚀 진행중인 프로젝트
 
 - 🐶 **반려동물 건강관리 캘린더**  
-    [1일차 프로젝트 주제 선정](https://www.perplexity.ai/search/backend-java-spring-boot-front-62wx0xY5Q12Y9QbkKfrkQA#)  
+	[[5일차🦴 와이어프레임]]
     반려동물의 건강을 체계적으로 관리할 수 있는 캘린더 서비스
     
 - 🌱 **자기계발 루틴관리 서비스**  
-    [프로젝트 설계](https://www.perplexity.ai/search/backend-java-spring-boot-front-62wx0xY5Q12Y9QbkKfrkQA#)  
+    [[프로젝트 설계]]
     매일 성장하는 습관을 기록하고, 달성할 때마다 나무가 자라는 자기계발 트래커
 
 
