@@ -77,8 +77,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,11 +236,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "dd3d663da46b5e2d",
+  "active": "2091191a75dfd7eb",
   "lastOpenFiles": [
+    "content/DB/postgreSQL/토끼 입양시키기.md",
+    "content/index.md",
     "content/DB/JOIN.md",
     "content/DB/🐘 SQL 공부하기.md",
-    "content/DB/postgreSQL/토끼 입양시키기.md",
     "content/DB/REFERENCES.md",
     "content/DB/postgreSQL/postgres create.md",
     "Pasted image 20250602125920.png",
@@ -266,7 +266,6 @@
     "content/JAVA/빌더패턴/setter 버리기 2차 Update.md",
     "content/JAVA/빌더패턴/복수,단수R.md",
     "content/JAVA/advice.md",
-    "content/JAVA/예외처리/Advice.md",
     "content/JAVA/빌더패턴",
     "content/JAVA/문법/제네릭",
     "content/JAVA/문법",

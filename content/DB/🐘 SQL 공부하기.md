@@ -13,4 +13,5 @@
 | 7   |          | 20250205_2강 DDL 작성요령                   | [[CHECK 제약조건]]              |
 | 8   |          | 20250205_3강 DataLink References        | [[토끼 입양시키기]]                |
 | 9   |          | 20250205_4강 SQL JOIN                   | [[JOIN]]                    |
+| 10  |          | 20250206_1강 SQL SELECT JOIN            | 토끼문제 풀기([[JOIN]])           |
 
