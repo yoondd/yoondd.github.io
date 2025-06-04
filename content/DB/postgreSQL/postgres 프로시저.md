@@ -57,7 +57,8 @@ create or replace function set_point(point_type varchar(20), trade_point double 
 returns void 
 ```
 
-- 대부분 or replace를 적는다
+- 대부분 or replace를 적는다 
+	**OR REPLACE**: 만약 이미 같은 이름의 함수(또는 뷰 등)가 존재하면,  그 기존 객체를 **덮어쓴다(교체한다)** 는 뜻이다.
 - 개발문서 읽을 때 `[]`이게 있으면 있어도 되고 없어도 되고 이런 뜻이다
 - name지을 때는 - 테이블 이름 두개를 넣을생각하지말고 행위에 대해 잘 넣어라. 
 	예를 들어 포인트를 집어 넣는다 - set
