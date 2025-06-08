@@ -153,16 +153,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/DB/뷰테이블 연동.md",
+                "file": "content/JAVA/http통신.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "뷰테이블 연동"
+              "title": "http통신"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -321,11 +320,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85c3b343b3529f36",
+  "active": "0d0134764e565021",
   "lastOpenFiles": [
+    "content/JAVA/http통신.md",
     "content/🌸 Study List..md",
-    "content/JAVA/예외처리/예외처리 메시지 모델(다형성).md",
     "content/DB/뷰테이블 연동.md",
+    "content/JAVA/예외처리/예외처리 메시지 모델(다형성).md",
     "content/JAVA/예외처리/예외처리의 짝꿍,  enum과 exception.md",
     "content/DB/Untitled.md",
     "content/YOON/🍚 CodingTest/프로그래머스/가장 많이 받은 선물.md",
@@ -350,7 +350,6 @@
     "content/DB/timestamp라는 자료형.md",
     "content/DB/postgreSQL/토끼 입양시키기.md",
     "content/DB/postgreSQL/postgres 프로시저.md",
-    "content/DB/postgreSQL/postgres update, delete.md",
     "Pasted image 20250604192645.png",
     "Pasted image 20250602125920.png",
     "content/MCP",
