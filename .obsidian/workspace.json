@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/JAVA/http통신.md",
+                "file": "content/JAVA/동기식 프로그래밍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "http통신"
+              "title": "동기식 프로그래밍"
             }
           }
         ],
@@ -267,10 +267,11 @@
   },
   "active": "8b14c8de35902650",
   "lastOpenFiles": [
-    "quartz/components/renderPage.tsx~",
     "quartz/components/Head.tsx~",
-    "content/🌸 Study List..md",
     "content/JAVA/http통신.md",
+    "content/JAVA/동기식 프로그래밍.md",
+    "content/🌸 Study List..md",
+    "quartz/components/renderPage.tsx~",
     "content/JAVA/업무일지 프로젝트.md",
     "content/YOON/🍚 CodingTest/프로그래머스/가장 많이 받은 선물.md",
     "content/Developer/데이터베이스 튜닝.md",
@@ -295,7 +296,6 @@
     "content/DB/GROUP BY 예제.md",
     "content/DB/postgreSQL/postgres 프로시저.md",
     "content/JAVA/프로시저 뷰테이블.md",
-    "content/DB/뷰테이블만들기.md",
     "Pasted image 20250602125920.png",
     "content/YOON/GrowTree",
     "Pasted image 20250521101729.png",
@@ -305,7 +305,6 @@
     "content/JAVA/예외처리",
     "content/JAVA/회원",
     "content/YOON/🐶 DOGLOG project",
-    "content/YOON/🍚 CodingTest/프로그래머스",
     "public/link.jpg",
     "Pasted image 20250522183852.png",
     "Pasted image 20250521122643.png",
