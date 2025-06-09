@@ -235,6 +235,8 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6RVDX3X"
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
