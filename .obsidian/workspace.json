@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "5556fca9c249b283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/질문과 답 정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "질문과 답 정리"
+            }
+          },
+          {
             "id": "eeb0654a1b645716",
             "type": "leaf",
             "state": {
@@ -34,8 +48,23 @@
               "icon": "lucide-file",
               "title": "WebSocket"
             }
+          },
+          {
+            "id": "c45660b934dd2a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/JAVA/baseframe기반으로 프로젝트 생성.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "baseframe기반으로 프로젝트 생성"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,9 +223,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "60e26fdec94bca35",
+  "active": "c45660b934dd2a3e",
   "lastOpenFiles": [
+    "content/질문과 답 정리.md",
     "content/JAVA/WebSocket.md",
+    "content/JAVA/baseframe기반으로 프로젝트 생성.md",
     "content/🌸 Study List..md",
     "content/JAVA/polling.md",
     "content/JAVA/Socket통신 & http통신.md",
@@ -223,9 +254,7 @@
     "content/YOON/memo.md",
     "Pasted image 20250604192645.png",
     "content/JAVA/회원/휴대폰 본인인증.md",
-    "content/JAVA/Paging/Paging.md",
     "content/JAVA/Paging",
-    "content/DB/GROUP BY 예제.md",
     "Pasted image 20250602125920.png",
     "content/YOON/GrowTree",
     "Pasted image 20250521101729.png",
