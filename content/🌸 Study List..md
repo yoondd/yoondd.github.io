@@ -91,7 +91,7 @@
 | 85  |          | 250508_2 socket 통신과 polling 기법                                       | [[socket 통신]]<br>[[polling]]                                                                                                                                |
 | 86  |          | 250508_3 Web Socket 기법                                               | [[WebSocket]]                                                                                                                                               |
 | 87  | 05-14    | 250514_1 fromJson _ factory 문법                                       | [[fromjson]]                                                                                                                                                |
-| 88  |          | 250514_2 Factory                                                     | Dart                                                                                                                                                        |
+| 88  |          | 250514_2 Factory                                                     |                                                                                                                                                             |
 | 89  | 05-15    | 250515_1 Http Client Dio                                             | Dart(넘어가기 dio - <br>앱에서 api호출/ http클라이언트)                                                                                                                   |
 | 90  |          | 250515_2 String 주소 변수처리 방법                                           | Dart                                                                                                                                                        |
 | 91  |          | 250515_3                                                             | Dart                                                                                                                                                        |
@@ -103,7 +103,7 @@
 [[질문과 답 정리]]
 
 
-Dart언어가 나오는데... 
+Dart언어가 나오는데...  -> 그냥 진행
 
 
 ---

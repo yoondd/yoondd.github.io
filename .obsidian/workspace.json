@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "aaf36a2e1141f395",
+    "id": "9a72078348b52cc5",
     "type": "split",
     "children": [
       {
-        "id": "788f0a2343c074ce",
+        "id": "e745204acb04aa5c",
         "type": "tabs",
         "children": [
           {
-            "id": "5556fca9c249b283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/JAVA/fromjson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fromjson"
-            }
-          },
-          {
-            "id": "7dbd72bf0588f86e",
+            "id": "91157dcdeb7bf1f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,20 +20,6 @@
               "icon": "lucide-file",
               "title": "🌸 Study List."
             }
-          },
-          {
-            "id": "bb8664cadc4a28aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/질문과 답 정리.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "질문과 답 정리"
-            }
           }
         ]
       }
@@ -55,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cca02aa3adfd8466",
+    "id": "8baae3213925dc19",
     "type": "split",
     "children": [
       {
-        "id": "83125c12e4601b09",
+        "id": "45d7b8c7c9e2e773",
         "type": "tabs",
         "children": [
           {
-            "id": "3222cc213081cb1d",
+            "id": "ec070b026d61fd21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,12 +48,12 @@
             }
           },
           {
-            "id": "bde1a643e95f6b8f",
+            "id": "bc40937b8b5da85e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "검색필터",
+                "query": "3852",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +65,7 @@
             }
           },
           {
-            "id": "a8c54e42cba10209",
+            "id": "646ebf1dad556852",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
-    "id": "1c5107a2f91d466a",
+    "id": "8b2173fa939cf7d1",
     "type": "split",
     "children": [
       {
-        "id": "8206a6ce2ddaca85",
+        "id": "c549496e8587949d",
         "type": "tabs",
         "children": [
           {
-            "id": "d62fd1049d22b148",
+            "id": "3169c0db0f9bef39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/memo.md",
-                "collapseAll": false,
+                "file": "content/💜 Study List..md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -132,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for memo"
+              "title": "Backlinks for 💜 Study List."
             }
           },
           {
-            "id": "fe38949e9b65da45",
+            "id": "3ce480bbc5939851",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from memo"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "c87e95b9da1d4d0a",
+            "id": "7b02a29f03e7be61",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,22 +137,22 @@
             }
           },
           {
-            "id": "8e6283700a356b69",
+            "id": "35b5f774000204cb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/memo.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of memo"
+              "title": "Outline of index"
             }
           },
           {
-            "id": "7ce9c78bae8010dd",
+            "id": "07c7621a80323b1c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -189,7 +161,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -208,53 +181,54 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5556fca9c249b283",
+  "active": "91157dcdeb7bf1f2",
   "lastOpenFiles": [
-    "content/🌸 Study List..md",
-    "content/질문과 답 정리.md",
-    "content/JAVA/fromjson.md",
-    "content/JAVA/socket 통신.md",
-    "content/JAVA/WebSocket.md",
-    "content/JAVA/baseframe기반으로 프로젝트 생성.md",
-    "content/JAVA/polling.md",
-    "content/JAVA/Socket통신 & http통신.md",
-    "content/DB/프로시저 연동.md",
-    "content/JAVA/http통신과 curl.md",
-    "content/JAVA/검색필터 구현.md",
-    "content/JAVA/Paging/Paging 예제.md",
-    "content/DB/프로시저.md",
-    "content/DB/뷰테이블 연동.md",
-    "content/Developer/데이터베이스 튜닝.md",
-    "quartz/components/Head.tsx~",
-    "quartz/components/renderPage.tsx~",
-    "content/JAVA/업무일지 프로젝트.md",
+    "content/DB/JOIN.md",
     "content/YOON/🍚 CodingTest/프로그래머스/가장 많이 받은 선물.md",
-    "content/DB/timestamp라는 자료형.md",
-    "content/JAVA/빌더패턴/setter 버리기 1차 Create.md",
-    "content/JAVA/빌더패턴/빌더패턴 이론.md",
-    "content/YOON/Links.md",
+    "content/YOON/GrowTree/프로젝트 설계.md",
+    "content/YOON/GrowTree",
+    "content/JAVA/회원/휴대폰 본인인증.md",
     "content/JAVA/회원/푸시알림.md",
     "content/JAVA/접근제어자.md",
+    "content/JAVA/업무일지 프로젝트.md",
     "content/JAVA/수정이라는 Api의 특징.md",
-    "content/JAVA/JPA, Hibernate, JDBC, 그리고 드라이버.md",
-    "content/YOON/memo.md",
-    "Pasted image 20250604192645.png",
+    "content/JAVA/검색필터 구현.md",
+    "content/JAVA/socket 통신.md",
+    "content/JAVA/polling.md",
+    "content/JAVA/http통신과 curl.md",
+    "content/JAVA/fromjson.md",
+    "content/JAVA/baseframe기반으로 프로젝트 생성.md",
+    "content/JAVA/WebSocket.md",
+    "content/JAVA/Socket통신 & http통신.md",
+    "content/JAVA/Paging/Paging.md",
+    "content/JAVA/Paging/Paging 예제.md",
     "content/JAVA/Paging",
+    "content/JAVA/JPA, Hibernate, JDBC, 그리고 드라이버.md",
+    "content/Google/GCP - 수업내용.md",
+    "content/Developer/데이터베이스 튜닝.md",
+    "content/DB/프로시저 연동.md",
+    "content/DB/뷰테이블만들기.md",
+    "content/DB/뷰테이블 연동.md",
+    "content/DB/timestamp라는 자료형.md",
+    "content/DB/SQL자체를 보존할때.md",
+    "Pasted image 20250604192645.png",
     "Pasted image 20250602125920.png",
-    "content/YOON/GrowTree",
-    "Pasted image 20250521101729.png",
+    "content/YOON/🐶 DOGLOG project",
+    "content/YOON/🍚 CodingTest/프로그래머스",
+    "content/YOON/🍚 CodingTest",
+    "content/JAVA/회원",
+    "content/JAVA/예외처리",
     "content/JAVA/빌더패턴",
     "content/JAVA/문법/제네릭",
     "content/JAVA/문법",
-    "content/JAVA/예외처리",
-    "content/JAVA/회원",
-    "content/YOON/🐶 DOGLOG project",
     "public/link.jpg",
     "Pasted image 20250522183852.png",
     "Pasted image 20250521122643.png",
     "Pasted image 20250521122548.png",
     "Pasted image 20250521105018.png",
-    "quartz/static/og-image.jpg",
-    "public/static/link-blog.jpg"
+    "Pasted image 20250521101729.png",
+    "Pasted image 20250520142516.png",
+    "Pasted image 20250520124626.png",
+    "Untitled.canvas"
   ]
 }
