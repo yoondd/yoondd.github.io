@@ -53,7 +53,18 @@ export default (() => {
                 </>
             )}
             <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous"/>
-
+            {/* Google tag (gtag.js) */}
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZV5JT44BQ2"></script>
+            <script
+                        dangerouslySetInnerHTML={{
+                            __html: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-ZV5JT44BQ2');
+              `,
+                        }}
+           />
 
             <meta property="og:type" content="website"/>
             <meta property="og:url" content="https://yoondd.github.io/"/>
