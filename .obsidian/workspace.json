@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🌸 Study List..md",
+                "file": "content/질문과 답 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌸 Study List."
+              "title": "질문과 답 정리"
             }
           },
           {
@@ -322,8 +322,8 @@
   },
   "active": "0d0134764e565021",
   "lastOpenFiles": [
-    "content/JAVA/http통신.md",
     "content/🌸 Study List..md",
+    "content/JAVA/http통신.md",
     "content/DB/뷰테이블 연동.md",
     "content/JAVA/예외처리/예외처리 메시지 모델(다형성).md",
     "content/JAVA/예외처리/예외처리의 짝꿍,  enum과 exception.md",
