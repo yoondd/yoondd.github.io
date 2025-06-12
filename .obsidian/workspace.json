@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🌸 Study List..md",
+                "file": "content/JAVA/주요 기본 개념들.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌸 Study List."
+              "title": "주요 기본 개념들"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "91157dcdeb7bf1f2",
   "lastOpenFiles": [
+    "content/🌸 Study List..md",
+    "content/JAVA/주요 기본 개념들.md",
     "content/DB/JOIN.md",
     "content/YOON/🍚 CodingTest/프로그래머스/가장 많이 받은 선물.md",
     "content/YOON/GrowTree/프로젝트 설계.md",
@@ -209,8 +211,6 @@
     "content/DB/프로시저 연동.md",
     "content/DB/뷰테이블만들기.md",
     "content/DB/뷰테이블 연동.md",
-    "content/DB/timestamp라는 자료형.md",
-    "content/DB/SQL자체를 보존할때.md",
     "Pasted image 20250604192645.png",
     "Pasted image 20250602125920.png",
     "content/YOON/🐶 DOGLOG project",
