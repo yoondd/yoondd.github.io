@@ -130,11 +130,8 @@ public void setRentCarByFile(MultipartFile multipartFile) throws IOException{
 				System.out.pringln(cols[1]);
 				System.out.pringln(cols[2]);
 			}
-			
 		}
-		
 	}
-
 }
 ```
 
@@ -162,7 +159,54 @@ Entity를 하나 새로 만들어야겠다
 @Getter
 @Setter
 public class RentCar{
-	
+	@Id
+	@Ge~
+	private Long id;
+
+	@Column~
+	...
 
 }
 ```
+
+```java
+public interface RentCarRepository extends JpaRepository<RentCar, Long>{
+
+}
+```
+
+이제 한줄한줄 받은 것을 넣어주면 된다.
+
+
+```java
+public void setRentCarByFile(MultipartFile multipartFile) throws IOException{
+
+	String line = 0;
+	int index = 0;
+
+	While((line=bufferedReader.readLine()) != null ){
+		if ( index >0 ){
+			String[] cols = line.split(","); //스프라이트 샤워
+			if( cols.length == 3){
+				System.out.pringln(cols[0]);
+				System.out.pringln(cols[1]);
+				System.out.pringln(cols[2]);
+				//바로여기!! 이제 db에 넣자!!
+				RentCar addData = new RentCar();
+				addData.setCarNumber(cols[0]);
+				addData.setCarName(cols[1]);
+				//여기까지는 string이니까 문제가없어~
+				addData.setDayPrice(cols[2]); //캐스팅필요!!!
+				//오케이 이제는 save를 해야겠네.
+				rentCarRepository.save(addData);
+				
+			}
+		}
+	}
+}
+```
+
+- 스트링인거는 문제없이 잘 넣으면되고.
+- 숫자인데 스트링으로 되어있는건 그걸 숫자로 바꿔서 넣어야지
+	바로 그래서 나오는 것이 `addData.setDayPrice(Double.parseDouble(cols[2]))`
+	
