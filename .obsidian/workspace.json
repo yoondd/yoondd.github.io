@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/🌸 Study List..md",
+                "file": "content/JAVA/http통신과 curl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌸 Study List."
+              "title": "http통신과 curl"
             }
           },
           {
@@ -225,11 +225,12 @@
   },
   "active": "368b040f5ddeff38",
   "lastOpenFiles": [
-    "content/JAVA/fromjson.md",
+    "content/JAVA/http통신과 curl.md",
+    "content/🌸 Study List..md",
     "content/JAVA/factory.md",
+    "content/JAVA/fromjson.md",
     "content/Developer/소스트리 전체 터미널에서 확인하기.md",
     "content/Developer/면접질문 call by reference 와 call by value.md",
-    "content/🌸 Study List..md",
     "content/DB/postgreSQL/postgres 프로시저.md",
     "content/Developer/C의 포인터.md",
     "content/Security/Secure Coding.md",
@@ -246,7 +247,6 @@
     "content/JAVA/검색필터 구현.md",
     "content/JAVA/socket 통신.md",
     "content/JAVA/polling.md",
-    "content/JAVA/http통신과 curl.md",
     "content/JAVA/baseframe기반으로 프로젝트 생성.md",
     "content/JAVA/WebSocket.md",
     "content/JAVA/Socket통신 & http통신.md",

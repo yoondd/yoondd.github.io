@@ -55,6 +55,8 @@ class TestRequest {
 	final String name;
 	final String phoneNumber;
 
+	TestRequest(this.name, this.phoneNumber);
+
 }
 ```
 
@@ -72,3 +74,80 @@ request를 쓰는 페이지가 어디야? page_post페이지잖아.
 
 jsonEncoding- json으로 만드는거야. 역직렬화.를 말하는거야
 
+생성자를 통해서 객체를 생성하게되면 - 걔는 json이 아니잖아. 객체가 되어버리잖아
+
+그러니까 여기서는 팩토리를 쓰면안되지. 
+
+
+##  json의 리턴타입?
+
+맵이야.
+
+```dart
+class TestRequest {
+	final String name;
+	final String phoneNumber;
+
+	TestRequest(this.name, this.phoneNumber);
+
+	Map<int, dynamic> toJson() {
+		
+	}
+
+}
+```
+
+어? 근데 여기 보니까, 이상한게 하나 있네. 
+
+ `<int, dynamic>` 잠깐만, 여기에는 레퍼클래스가 들어가야하잖아.
+
+왜 여기서 에러가 안뜨지?
+
+왜 자바에서는 레퍼클래스만 썼었나? - 리터럴이니까.  (자바에서는 int, Integer이런식으로 구분이 되잖아)
+
+근데 여기서는 그게아니네.
+
+
+
+자, 다시 본론으로 넘어가서
+
+```dart
+class TestRequest {
+	final String name;
+	final String phoneNumber;
+
+	TestRequest(this.name, this.phoneNumber);
+
+	Map<String, dynamic> toJson() {
+		'name': name,
+		'phoneNumber': phoneNumber,
+	}
+
+}
+```
+
+근데 매개변수는 왜 없어?
+
+TestRequest(this.name, this.phoneNumber)에서 이미 값 받아오니까 괜찮아
+
+바로 그냥 return 해도돼 
+
+
+
+자, 여기까지 했으면 이제 page_post에 가서 encode 부분을 변경하면돼
+
+```dart
+TestRequest request = TestRequest('김기기', '010-1111-1111');
+
+...
+
+final response = await http.post(
+	..
+	body: jsonEncode(request.toJson())
+)
+```
+
+
+여기까지야.
+
+내가 dart 를 잘 모르긴하지만 전체적인 느낌안 이해하고 넘어가자.
