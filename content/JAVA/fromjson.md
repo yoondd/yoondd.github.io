@@ -70,3 +70,6 @@ class TestRequest {
 프론트에게 웬만하면 null을 주지말자 
 
 
+## factory를 왜 쓸까?
+
+팩토리? 공장이네?
