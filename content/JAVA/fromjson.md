@@ -49,7 +49,7 @@ final이 없다면 기본생성자를 쓰면되는데 final이 있으니까 무�
 ## 생성자만들기
 
 ```dart
-class TestRequest {
+class TestResopnse {
 	final String name;
 	final String phoneNumber;
 
