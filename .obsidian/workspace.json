@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/c언어/메모리 동적할당.md",
+                "file": "content/Security/OJT 내용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "메모리 동적할당"
+              "title": "OJT 내용"
             }
           },
           {
@@ -225,8 +225,9 @@
   },
   "active": "34d4b814b6042f8d",
   "lastOpenFiles": [
-    "content/Developer/메모리 구조에 대해 공부하자.md",
     "content/c언어/메모리 동적할당.md",
+    "content/Security/OJT 내용.md",
+    "content/Developer/메모리 구조에 대해 공부하자.md",
     "content/c언어/미니강의준비.md",
     "content/c언어/동적할당.md",
     "content/Security/보안취약점 동향.md",
@@ -253,7 +254,6 @@
     "content/JAVA/회원/휴대폰 본인인증.md",
     "content/JAVA/회원/푸시알림.md",
     "content/JAVA/주요 기본 개념들.md",
-    "content/JAVA/접근제어자.md",
     "content/JAVA/Paging",
     "Pasted image 20250604192645.png",
     "Pasted image 20250602125920.png",
