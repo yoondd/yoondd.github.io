@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Security/OJT 내용.md",
+                "file": "content/YOON/업무관련 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OJT 내용"
+              "title": "업무관련 정리"
             }
           },
           {
@@ -95,14 +95,18 @@
             "id": "20bd10fc3d5b2d60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Linux/리눅스 권한 설정.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "리눅스 권한 설정"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -261,12 +265,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "22fa78759c31fb1f",
+  "active": "20bd10fc3d5b2d60",
   "lastOpenFiles": [
-    "content/Security/Coverity.md",
+    "content/Linux/리눅스 권한 설정.md",
     "content/YOON/업무관련 정리.md",
     "content/Security/OJT 내용.md",
     "content/c언어/동적할당.md",
+    "content/Security/Coverity.md",
     "content/c언어/미니강의준비.md",
     "content/c언어/메모리 동적할당.md",
     "content/Developer/빌드 명령어 정리.md",
@@ -291,7 +296,6 @@
     "content/YOON/🍚 CodingTest/프로그래머스/가장 많이 받은 선물.md",
     "content/YOON/GrowTree/프로젝트 설계.md",
     "content/YOON/GrowTree",
-    "content/JAVA/회원/휴대폰 본인인증.md",
     "content/JAVA/Paging",
     "Pasted image 20250604192645.png",
     "Pasted image 20250602125920.png",
