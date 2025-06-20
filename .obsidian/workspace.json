@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Security/coverity issue.md",
+                "file": "content/Security/Resource leaks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coverity issue"
+              "title": "Resource leaks"
             }
           }
         ],
@@ -267,8 +267,9 @@
   },
   "active": "20bd10fc3d5b2d60",
   "lastOpenFiles": [
-    "content/Linux/리눅스 권한 설정.md",
     "content/Security/coverity issue.md",
+    "content/Security/Resource leaks.md",
+    "content/Linux/리눅스 권한 설정.md",
     "content/YOON/업무관련 정리.md",
     "content/c언어/동적할당.md",
     "content/Security/OJT 내용.md",
@@ -294,7 +295,6 @@
     "content/Developer/C의 포인터.md",
     "content/Security/Secure Coding.md",
     "conflict-files-obsidian-git.md",
-    "content/YOON/🍚 CodingTest/프로그래머스/가장 많이 받은 선물.md",
     "content/YOON/GrowTree",
     "content/JAVA/Paging",
     "Pasted image 20250604192645.png",
