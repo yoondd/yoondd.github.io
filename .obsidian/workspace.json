@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Security/Resource leaks.md",
+                "file": "content/AI/AI 관련 내용 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resource leaks"
+              "title": "AI 관련 내용 정리"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/AI/AI 관련 내용 정리.md",
+                "file": "content/AI/RAG개발이란.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI 관련 내용 정리"
+              "title": "RAG개발이란"
             }
           }
         ],
@@ -198,8 +198,9 @@
   "active": "aca31a09aa93de3f",
   "lastOpenFiles": [
     "content/AI/AI 관련 내용 정리.md",
-    "content/AI",
+    "content/AI/RAG개발이란.md",
     "content/Security/Resource leaks.md",
+    "content/AI",
     "content/Security/coverity issue.md",
     "content/Linux/리눅스 권한 설정.md",
     "content/YOON/업무관련 정리.md",
@@ -225,7 +226,6 @@
     "content/Developer/면접질문 call by reference 와 call by value.md",
     "content/DB/postgreSQL/postgres 프로시저.md",
     "content/Developer/C의 포인터.md",
-    "content/Security/Secure Coding.md",
     "content/YOON/GrowTree",
     "content/JAVA/Paging",
     "Pasted image 20250604192645.png",
