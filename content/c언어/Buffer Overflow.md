@@ -12,7 +12,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(iint argc, char *argv[])
+int main(int argc, char *argv[])
 {
   char buffer[16];
   if(argc < 2)
@@ -20,5 +20,5 @@ int main(iint argc, char *argv[])
   strcpy(buffer, argv[1]);
 }
 ```
-
+]
 위 코드는 실행시 인수로 받은 문자열을 버퍼에 옮기고 버퍼를 출력하는 간단한  c언어 코드다. 
