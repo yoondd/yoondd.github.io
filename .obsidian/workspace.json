@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/c언어/미니강의준비 - Coverity 분석 결과를 보는 관리자.md",
+                "file": "content/c언어/Buffer Overflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "미니강의준비 - Coverity 분석 결과를 보는 관리자"
+              "title": "Buffer Overflow"
             }
           }
         ],
