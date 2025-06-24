@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/c언어/Buffer Overflow.md",
+                "file": "content/c언어/미니강의준비 - c.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buffer Overflow"
+              "title": "미니강의준비 - c"
             }
           }
         ],
@@ -197,8 +197,10 @@
   },
   "active": "aca31a09aa93de3f",
   "lastOpenFiles": [
-    "content/AI/RAG개발이란.md",
+    "content/c언어/미니강의준비2 -입문강의용.md",
+    "content/c언어/미니강의준비 - c.md",
     "content/c언어/Buffer Overflow.md",
+    "content/AI/RAG개발이란.md",
     "content/AI/AI 관련 내용 정리.md",
     "content/Security/Resource leaks.md",
     "content/AI",
@@ -208,7 +210,6 @@
     "content/c언어/동적할당.md",
     "content/Security/OJT 내용.md",
     "content/Security/Coverity.md",
-    "content/c언어/미니강의준비.md",
     "content/c언어/메모리 동적할당.md",
     "content/Developer/빌드 명령어 정리.md",
     "content/YOON/office.md",
@@ -225,7 +226,6 @@
     "content/JAVA/factory.md",
     "content/Developer/소스트리 전체 터미널에서 확인하기.md",
     "content/Developer/면접질문 call by reference 와 call by value.md",
-    "content/DB/postgreSQL/postgres 프로시저.md",
     "content/YOON/GrowTree",
     "content/JAVA/Paging",
     "Pasted image 20250604192645.png",
