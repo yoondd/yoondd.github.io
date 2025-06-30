@@ -20,3 +20,13 @@ https://wiki.sei.cmu.edu/confluence/display/c/2+Rules
 | 50      | POS | **POSIX**  <br>POSIX 표준 관련 규칙(유닉스 계열 시스템)                  |
 | 51      | WIN | **Microsoft Windows**  <br>윈도우즈 환경에서의 특수 규칙                |
 
+
+## Rule 평가방식
+
+Severity  - 규칙 위반시 얼마나 심각한 결과를 초래하는가
+Likelihood - 위험 발생 가능성
+Remediation Cost - Rule 준수하는 비용 (검출, 수정 비용)
+이 세개를 평가해서 평가값을 곱해 Rule을 평가한다
+
+e.g. RCE 발생 가능 , 발생 가능성은 낮고 , 자동 검출은 되나 수정은 수작업 일 때
+3 (Severity : High) * 1 (Likelihood : unlikely) * 2 (Cost: Medium) = 6 (L2)
