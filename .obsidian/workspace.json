@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Security/License/Mozilla Public License.md",
+                "file": "content/Security/CERT C/CERT C Coding Standard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mozilla Public License"
+              "title": "CERT C Coding Standard"
             }
           }
         ],
@@ -197,8 +197,10 @@
   },
   "active": "c4a0a500df740569",
   "lastOpenFiles": [
-    "content/c언어/Buffer Overflow.md",
     "content/Security/License/Mozilla Public License.md",
+    "content/Security/CERT C/CERT C Coding Standard.md",
+    "content/Security/CERT C",
+    "content/c언어/Buffer Overflow.md",
     "content/Security/License",
     "content/c언어/미니강의준비 - Coverity 분석 결과를 보는 관리자.md",
     "content/AI/AI 관련 내용 정리.md",
@@ -226,7 +228,6 @@
     "content/javascript/컴파일언어 vs 인터프리터 언어.md",
     "content/JAVA/fromjson.md",
     "content/JAVA/http통신과 curl.md",
-    "content/JAVA/factory.md",
     "content/YOON/GrowTree",
     "content/JAVA/Paging",
     "Pasted image 20250604192645.png",
@@ -235,7 +236,6 @@
     "content/MCP",
     "content/JAVA/회원",
     "content/JAVA/예외처리",
-    "content/JAVA/빌더패턴",
     "public/static/icon.jpg",
     "quartz/static/og-image.jpg",
     "public/static/link-blog.jpg",
