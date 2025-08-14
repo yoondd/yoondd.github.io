@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Security/CERT C/CERT C Coding Standard.md",
+                "file": "content/Security/CWE-767.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CERT C Coding Standard"
+              "title": "CWE-767"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "c4a0a500df740569",
   "lastOpenFiles": [
-    "content/Security/License/Mozilla Public License.md",
     "content/Security/CERT C/CERT C Coding Standard.md",
+    "content/Security/CWE-767.md",
+    "content/Security/License/Mozilla Public License.md",
     "content/Security/CERT C",
     "content/c언어/Buffer Overflow.md",
     "content/Security/License",
@@ -227,7 +228,6 @@
     "content/🌸 Study List..md",
     "content/javascript/컴파일언어 vs 인터프리터 언어.md",
     "content/JAVA/fromjson.md",
-    "content/JAVA/http통신과 curl.md",
     "content/YOON/GrowTree",
     "content/JAVA/Paging",
     "Pasted image 20250604192645.png",
