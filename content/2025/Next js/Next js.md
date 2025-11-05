@@ -58,4 +58,4 @@ SSG: Static Site Generationd
 
 
 
-[[content/Next js/Next js 설치]]
+[[Next js 설치]]
