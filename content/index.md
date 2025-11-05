@@ -6,50 +6,22 @@ image: https://yoondd.github.io/TIL/link-blog.jpg
 ---
 
 
-# 👋 겁 없이 배웁니다
-
-<!--img src="https://i.imgur.com/QXuj0ht.png" width="200" -->
-
-관상학에서 큰 눈은 겁을 상징한다고 합니다.<br>
-크고 똥글똥글한 눈을 가진 저는, 잠자리 한 마리도 무서워 잡지 못할 만큼 겁이 많습니다.<br>
-그런데 놀랍게도 저는, **무언가를 공부하고 배우는데에 있어서는 아주 대담하고 진취적**입니다.<br>
-현재의 삶의 안주하지않고 끝없이 도전합니다. <br>
-어려운 문제를 만났을 때엔, 머리싸매고 몇일 밤을 새워 해냅니다. <br>
-제게는 그게 힘든 여정이 아니라, 풀고난 후에 마주할 희열을 위한 즐거운 여정으로 느껴집니다.<br>
-저는 할머니가 되고 눈감는 순간까지 배우고 발전할 것입니다.<br>
-그게 제가 살아 숨쉬는 이유라고 확신합니다.<br>
+# 👋 Learning Fearlessly
 
 
 
-*오늘도 저는 어제보다 더 많은 것을 배우고 알기위해 힘차게 걷습니다.<br>
-매일 한 걸음씩 성장하며, 그 여정을 이 블로그에 솔직하게 담아가겠습니다.*
+They say that big eyes symbolize fear in physiognomy.
+With my round, curious eyes, I might look timid — and indeed, I’m the type who gets startled even by a dragonfly.
+But when it comes to learning and mastering something new, I’m bold, relentless, and fearless.
 
----
+I never settle for comfort.
+Whenever I face a tough problem, I dig in — even if it takes nights of effort — until I find the answer.
 
-## 👣 지금! 이렇게 배우고 있어요
+To me, that struggle isn’t painful; it’s the most thrilling part of the journey.
+I believe I’ll keep learning until the very last moment of my life.
+That, to me, is the reason I’m alive.
 
-저는 늘 새로운 도전을 즐기며, 다양한 분야를 배우고 있습니다.  
-현재는 아래 두 가지 주제에 집중해서 공부 중이에요.
-
-- **Java**: 객체지향 프로그래밍의 원리부터 실전 활용까지, 깊이 있게 탐구하고 있습니다.
-- **SQL & 데이터베이스**: PostgreSQL을 중심으로 데이터베이스의 구조와 활용법을 익히고 있어요.
-    
-
-- [[🌸 Study List.]] (Java 공부 기록)
-- [[🐘 SQL 공부하기]] (DB/SQL 학습 기록)
-
----
-
-
-## 🚀 진행중인 프로젝트
-
-- 🐶 **반려동물 건강관리 캘린더**  
-	[[5일차🦴 와이어프레임]]
-    반려동물의 건강을 체계적으로 관리할 수 있는 캘린더 서비스
-    
-- 🌱 **자기계발 루틴관리 서비스**  
-    [[프로젝트 설계]]
-    매일 성장하는 습관을 기록하고, 달성할 때마다 나무가 자라는 자기계발 트래커
+Every day, I take one more step forward — learning, growing, and recording my journey honestly here on this blog.*
 
 
 ---
@@ -57,31 +29,31 @@ image: https://yoondd.github.io/TIL/link-blog.jpg
 
 ## 💼 Career
 
-- 웹사이트 디자인 및 퍼블리싱 프리랜서 (2021년~)
-- 웹개발 전문 사업자 운영중 (2022년 1월 24일~)
-- 웹퍼블리싱 강사 (3년)  - HTML, CSS, JavaScript, Figma
-- 자격증  
-  - 정보처리기사  
-  - 직업훈련능력교사 2급  
-  - 웹디자인기능사  
-  - 컴퓨터그래픽스운용기능사  
-  - GTQ
-  - 사무자동화산업기사
+- Freelance Web Designer & Publisher (since 2021)
+- Founder of a Web Development Business (since Jan 24, 2022)
+- Instructor (3 years) — Teaching HTML, CSS, JavaScript, and Figma
+- **Certifications:**
+    - Information Processing Engineer
+    - Vocational Training Instructor (Level 3)
+    - Web Design Technician
+    - Computer Graphics Operation Technician
+    - GTQ (Graphic Technology Qualification)
+    - Office Automation Industry Engineer
 
 ---
 
 ## 🔧 Stack & Study
 
-- 기술: Nodejs, javascript, Java, Spring boot, TypeScript, SQL, Docker, React, GCP, PHP, HTML, CSS, Sass, Mustache, Pug, Git, Github, Gitlab
-- 현재 집중 공부 중: **Java**  
-- 웹 퍼블리싱 관련 기술 경험 보유
+- **Tech Skills:**  
+    Node.js, JavaScript, Java, Spring Boot, TypeScript, SQL, Docker, React, GCP, PHP, HTML, CSS, Sass, Mustache, Pug, Git, GitHub, GitLab
+- **Currently focusing on:** Java
+- Experienced in **front-end publishing** and UI design
 
 ---
 
 ## 📂 Project & Code
 
-저의 개발 작업물과 프로젝트는 아래에서 확인하실 수 있습니다.
-
+Explore my works and repositories here:
 - GitHub: [yoondd](https://github.com/yoondd)  
 - GitLab: [yoondd](https://gitlab.com/yoondd)  
 
@@ -89,9 +61,6 @@ image: https://yoondd.github.io/TIL/link-blog.jpg
 
 ## 📫 Contact
 
-궁금한 점이나 협업 제안은 언제든지 메일로 연락 주세요!  
+Have a question or a project idea?  
+Feel free to reach out anytime — I’d love to connect.
 ✉️ yoondd@kakao.com
-
----
-
-> 이 블로그에서는 Java를 비롯한 개발 학습 기록, 진행 중인 프로젝트의 일지, 코딩 테스트 과제 등을 공유할 예정입니다.  앞으로 많은 관심 부탁드립니다! 🙏
